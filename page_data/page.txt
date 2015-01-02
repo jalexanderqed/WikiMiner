@@ -1,0 +1,922 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>MediaWiki API result - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.25wmf12" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Special:ApiHelp" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/w/api.php?action=parse&amp;page=Max" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.geshi.language.javascript%7Cext.geshi.local%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%2CwikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cwikibase.client.nolanglinks&amp;only=styles&amp;skin=apioutput&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=apioutput&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=apioutput&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"ApiHelp","wgNamespaceNumber":-1,"wgPageName":"Special:ApiHelp","wgTitle":"ApiHelp","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Special:ApiHelp","wgRelevantArticleId":0,"wgIsProbablyEditable":false,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":4096,"namespacesWithSubpages":{"6":0,"8":0,"1":true,"2":true,"3":true,"4":true,"5":true,"7":true,"9":true,"10":true,"11":true,"12":true,"13":true,"14":true,"15":true,"100":true,"101":true,"102":true,"103":true,"104":true,"105":true,"106":true,"107":true,"108":true,"109":true,"110":true,"111":true,"830":true,"831":true,"447":true,"2600":false,"828":true,"829":true}},"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});},{},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:94007ea073e20ad4a3cdce36b2f2e369 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.apipretty","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr ns--1 ns-special mw-special-ApiHelp page-Special_ApiHelp skin-apioutput action-view">
+
+		<div class="mw-body" role="main">
+			<h1 class="firstHeading">
+				<span dir="auto">MediaWiki API result</span>
+			</h1>
+			<div class="mw-body-content">
+				<div id="mw-content-text"><div class="api-pretty-header"><p>You are looking at the HTML representation of the JSON format. HTML is good for debugging, but is unsuitable for application use.
+</p><p>Specify the format parameter to change the output format. To see the non-HTML representation of the JSON format, set format=json.
+</p><p>See the <a class="external text" href="https://www.mediawiki.org/wiki/API">complete documentation</a>, or <a href="/w/api.php?action=help&amp;modules=main">API help</a> for more information.
+</p></div><div dir="ltr"><pre class="javascript source-javascript"><span class="br0">&#123;</span>
+    <span class="st0">&quot;parse&quot;</span><span class="sy0">:</span> <span class="br0">&#123;</span>
+        <span class="st0">&quot;title&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max&quot;</span><span class="sy0">,</span>
+        <span class="st0">&quot;revid&quot;</span><span class="sy0">:</span> <span class="nu0">635406231</span><span class="sy0">,</span>
+        <span class="st0">&quot;text&quot;</span><span class="sy0">:</span> <span class="br0">&#123;</span>
+            <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&lt;table class=<span class="es0">\&quot;</span>mbox-small plainlinks<span class="es0">\&quot;</span> style=<span class="es0">\&quot;</span>border:1px solid #aaa;background-color:#f9f9f9<span class="es0">\&quot;</span>&gt;<span class="es0">\n</span>&lt;tr&gt;<span class="es0">\n</span>&lt;td class=<span class="es0">\&quot;</span>mbox-image<span class="es0">\&quot;</span>&gt;&lt;img alt=<span class="es0">\&quot;</span><span class="es0">\&quot;</span> src=<span class="es0">\&quot;</span>//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png<span class="es0">\&quot;</span> width=<span class="es0">\&quot;</span>37<span class="es0">\&quot;</span> height=<span class="es0">\&quot;</span>40<span class="es0">\&quot;</span> srcset=<span class="es0">\&quot;</span>//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/55px-Wiktionary-logo-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/73px-Wiktionary-logo-en.svg.png 2x<span class="es0">\&quot;</span> data-file-width=<span class="es0">\&quot;</span>1000<span class="es0">\&quot;</span> data-file-height=<span class="es0">\&quot;</span>1089<span class="es0">\&quot;</span> /&gt;&lt;/td&gt;<span class="es0">\n</span>&lt;td class=<span class="es0">\&quot;</span>mbox-text plainlist<span class="es0">\&quot;</span>&gt;Look up &lt;i&gt;&lt;b&gt;&lt;a href=<span class="es0">\&quot;</span>//en.wiktionary.org/wiki/Max<span class="es0">\&quot;</span> class=<span class="es0">\&quot;</span>extiw<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>wiktionary:Max<span class="es0">\&quot;</span>&gt;Max&lt;/a&gt;&lt;/b&gt;&lt;/i&gt;&amp;#160;or &lt;i&gt;&lt;b&gt;&lt;a href=<span class="es0">\&quot;</span>//en.wiktionary.org/wiki/max<span class="es0">\&quot;</span> class=<span class="es0">\&quot;</span>extiw<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>wiktionary:max<span class="es0">\&quot;</span>&gt;max&lt;/a&gt;&lt;/b&gt;&lt;/i&gt; in Wiktionary, the free dictionary.&lt;/td&gt;<span class="es0">\n</span>&lt;/tr&gt;<span class="es0">\n</span>&lt;/table&gt;<span class="es0">\n</span>&lt;p&gt;&lt;b&gt;Max&lt;/b&gt; may refer to:&lt;/p&gt;<span class="es0">\n</span>&lt;div style=<span class="es0">\&quot;</span>clear: right; margin-bottom: .5em; float: right; padding: .5em 0 .8em 1.4em; background: none; width: auto;<span class="es0">\&quot;</span>&gt;<span class="es0">\n</span>&lt;div id=<span class="es0">\&quot;</span>toc<span class="es0">\&quot;</span> class=<span class="es0">\&quot;</span>toc<span class="es0">\&quot;</span>&gt;<span class="es0">\n</span>&lt;div id=<span class="es0">\&quot;</span>toctitle<span class="es0">\&quot;</span>&gt;<span class="es0">\n</span>&lt;h2&gt;Contents&lt;/h2&gt;<span class="es0">\n</span>&lt;/div&gt;<span class="es0">\n</span>&lt;ul&gt;<span class="es0">\n</span>&lt;li class=<span class="es0">\&quot;</span>toclevel-1 tocsection-1<span class="es0">\&quot;</span>&gt;&lt;a href=<span class="es0">\&quot;</span>#Computers<span class="es0">\&quot;</span>&gt;&lt;span class=<span class="es0">\&quot;</span>tocnumber<span class="es0">\&quot;</span>&gt;1&lt;/span&gt; &lt;span class=<span class="es0">\&quot;</span>toctext<span class="es0">\&quot;</span>&gt;Computers&lt;/span&gt;&lt;/a&gt;<span class="es0">\n</span>&lt;ul&gt;<span class="es0">\n</span>&lt;li class=<span class="es0">\&quot;</span>toclevel-2 tocsection-2<span class="es0">\&quot;</span>&gt;&lt;a href=<span class="es0">\&quot;</span>#Video_games<span class="es0">\&quot;</span>&gt;&lt;span class=<span class="es0">\&quot;</span>tocnumber<span class="es0">\&quot;</span>&gt;1.1&lt;/span&gt; &lt;span class=<span class="es0">\&quot;</span>toctext<span class="es0">\&quot;</span>&gt;Video games&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;<span class="es0">\n</span>&lt;/ul&gt;<span class="es0">\n</span>&lt;/li&gt;<span class="es0">\n</span>&lt;li class=<span class="es0">\&quot;</span>toclevel-1 tocsection-3<span class="es0">\&quot;</span>&gt;&lt;a href=<span class="es0">\&quot;</span>#Places<span class="es0">\&quot;</span>&gt;&lt;span class=<span class="es0">\&quot;</span>tocnumber<span class="es0">\&quot;</span>&gt;2&lt;/span&gt; &lt;span class=<span class="es0">\&quot;</span>toctext<span class="es0">\&quot;</span>&gt;Places&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;<span class="es0">\n</span>&lt;li class=<span class="es0">\&quot;</span>toclevel-1 tocsection-4<span class="es0">\&quot;</span>&gt;&lt;a href=<span class="es0">\&quot;</span>#Transportation<span class="es0">\&quot;</span>&gt;&lt;span class=<span class="es0">\&quot;</span>tocnumber<span class="es0">\&quot;</span>&gt;3&lt;/span&gt; &lt;span class=<span class="es0">\&quot;</span>toctext<span class="es0">\&quot;</span>&gt;Transportation&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;<span class="es0">\n</span>&lt;li class=<span class="es0">\&quot;</span>toclevel-1 tocsection-5<span class="es0">\&quot;</span>&gt;&lt;a href=<span class="es0">\&quot;</span>#Film_and_television<span class="es0">\&quot;</span>&gt;&lt;span class=<span class="es0">\&quot;</span>tocnumber<span class="es0">\&quot;</span>&gt;4&lt;/span&gt; &lt;span class=<span class="es0">\&quot;</span>toctext<span class="es0">\&quot;</span>&gt;Film and television&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;<span class="es0">\n</span>&lt;li class=<span class="es0">\&quot;</span>toclevel-1 tocsection-6<span class="es0">\&quot;</span>&gt;&lt;a href=<span class="es0">\&quot;</span>#Music<span class="es0">\&quot;</span>&gt;&lt;span class=<span class="es0">\&quot;</span>tocnumber<span class="es0">\&quot;</span>&gt;5&lt;/span&gt; &lt;span class=<span class="es0">\&quot;</span>toctext<span class="es0">\&quot;</span>&gt;Music&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;<span class="es0">\n</span>&lt;li class=<span class="es0">\&quot;</span>toclevel-1 tocsection-7<span class="es0">\&quot;</span>&gt;&lt;a href=<span class="es0">\&quot;</span>#Publications<span class="es0">\&quot;</span>&gt;&lt;span class=<span class="es0">\&quot;</span>tocnumber<span class="es0">\&quot;</span>&gt;6&lt;/span&gt; &lt;span class=<span class="es0">\&quot;</span>toctext<span class="es0">\&quot;</span>&gt;Publications&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;<span class="es0">\n</span>&lt;li class=<span class="es0">\&quot;</span>toclevel-1 tocsection-8<span class="es0">\&quot;</span>&gt;&lt;a href=<span class="es0">\&quot;</span>#Science_and_technology<span class="es0">\&quot;</span>&gt;&lt;span class=<span class="es0">\&quot;</span>tocnumber<span class="es0">\&quot;</span>&gt;7&lt;/span&gt; &lt;span class=<span class="es0">\&quot;</span>toctext<span class="es0">\&quot;</span>&gt;Science and technology&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;<span class="es0">\n</span>&lt;li class=<span class="es0">\&quot;</span>toclevel-1 tocsection-9<span class="es0">\&quot;</span>&gt;&lt;a href=<span class="es0">\&quot;</span>#Fictional_characters<span class="es0">\&quot;</span>&gt;&lt;span class=<span class="es0">\&quot;</span>tocnumber<span class="es0">\&quot;</span>&gt;8&lt;/span&gt; &lt;span class=<span class="es0">\&quot;</span>toctext<span class="es0">\&quot;</span>&gt;Fictional characters&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;<span class="es0">\n</span>&lt;li class=<span class="es0">\&quot;</span>toclevel-1 tocsection-10<span class="es0">\&quot;</span>&gt;&lt;a href=<span class="es0">\&quot;</span>#Other_uses<span class="es0">\&quot;</span>&gt;&lt;span class=<span class="es0">\&quot;</span>tocnumber<span class="es0">\&quot;</span>&gt;9&lt;/span&gt; &lt;span class=<span class="es0">\&quot;</span>toctext<span class="es0">\&quot;</span>&gt;Other uses&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;<span class="es0">\n</span>&lt;li class=<span class="es0">\&quot;</span>toclevel-1 tocsection-11<span class="es0">\&quot;</span>&gt;&lt;a href=<span class="es0">\&quot;</span>#People_with_the_surname<span class="es0">\&quot;</span>&gt;&lt;span class=<span class="es0">\&quot;</span>tocnumber<span class="es0">\&quot;</span>&gt;10&lt;/span&gt; &lt;span class=<span class="es0">\&quot;</span>toctext<span class="es0">\&quot;</span>&gt;People with the surname&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;<span class="es0">\n</span>&lt;li class=<span class="es0">\&quot;</span>toclevel-1 tocsection-12<span class="es0">\&quot;</span>&gt;&lt;a href=<span class="es0">\&quot;</span>#See_also<span class="es0">\&quot;</span>&gt;&lt;span class=<span class="es0">\&quot;</span>tocnumber<span class="es0">\&quot;</span>&gt;11&lt;/span&gt; &lt;span class=<span class="es0">\&quot;</span>toctext<span class="es0">\&quot;</span>&gt;See also&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;<span class="es0">\n</span>&lt;/ul&gt;<span class="es0">\n</span>&lt;/div&gt;<span class="es0">\n</span>&lt;/div&gt;<span class="es0">\n</span>&lt;h2&gt;&lt;span class=<span class="es0">\&quot;</span>mw-headline<span class="es0">\&quot;</span> id=<span class="es0">\&quot;</span>Computers<span class="es0">\&quot;</span>&gt;Computers&lt;/span&gt;&lt;span class=<span class="es0">\&quot;</span>mw-editsection<span class="es0">\&quot;</span>&gt;&lt;span class=<span class="es0">\&quot;</span>mw-editsection-bracket<span class="es0">\&quot;</span>&gt;[&lt;/span&gt;&lt;a href=<span class="es0">\&quot;</span>/w/index.php?title=Max&amp;amp;action=edit&amp;amp;section=1<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Edit section: Computers<span class="es0">\&quot;</span>&gt;edit&lt;/a&gt;&lt;span class=<span class="es0">\&quot;</span>mw-editsection-bracket<span class="es0">\&quot;</span>&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/h2&gt;<span class="es0">\n</span>&lt;ul&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Max_(software)<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Max (software)<span class="es0">\&quot;</span>&gt;Max (software)&lt;/a&gt;, a graphical development environment for music and multimedia&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/MAX_(Linux_distribution)<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>MAX (Linux distribution)<span class="es0">\&quot;</span> class=<span class="es0">\&quot;</span>mw-redirect<span class="es0">\&quot;</span>&gt;MAX (Linux distribution)&lt;/a&gt;, a government-sponsored Ubuntu-based version of Linux in Spanish&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Commodore_MAX_Machine<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Commodore MAX Machine<span class="es0">\&quot;</span>&gt;Commodore MAX Machine&lt;/a&gt;, a computer&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;i&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/3ds_Max<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>3ds Max<span class="es0">\&quot;</span> class=<span class="es0">\&quot;</span>mw-redirect<span class="es0">\&quot;</span>&gt;3ds Max&lt;/a&gt;&lt;/i&gt;, a computer program for the development of 3-dimensional graphics and animation&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Multimedia_Acceleration_eXtensions<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Multimedia Acceleration eXtensions<span class="es0">\&quot;</span>&gt;Multimedia Acceleration eXtensions&lt;/a&gt;, for HP PA-RISC&lt;/li&gt;<span class="es0">\n</span>&lt;/ul&gt;<span class="es0">\n</span>&lt;h3&gt;&lt;span class=<span class="es0">\&quot;</span>mw-headline<span class="es0">\&quot;</span> id=<span class="es0">\&quot;</span>Video_games<span class="es0">\&quot;</span>&gt;Video games&lt;/span&gt;&lt;span class=<span class="es0">\&quot;</span>mw-editsection<span class="es0">\&quot;</span>&gt;&lt;span class=<span class="es0">\&quot;</span>mw-editsection-bracket<span class="es0">\&quot;</span>&gt;[&lt;/span&gt;&lt;a href=<span class="es0">\&quot;</span>/w/index.php?title=Max&amp;amp;action=edit&amp;amp;section=2<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Edit section: Video games<span class="es0">\&quot;</span>&gt;edit&lt;/a&gt;&lt;span class=<span class="es0">\&quot;</span>mw-editsection-bracket<span class="es0">\&quot;</span>&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/h3&gt;<span class="es0">\n</span>&lt;ul&gt;<span class="es0">\n</span>&lt;li&gt;&lt;i&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/M.A.X.:_Mechanized_Assault_%26_Exploration<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>M.A.X.: Mechanized Assault &amp;amp; Exploration<span class="es0">\&quot;</span> class=<span class="es0">\&quot;</span>mw-redirect<span class="es0">\&quot;</span>&gt;M.A.X.: Mechanized Assault &amp;amp; Exploration&lt;/a&gt;&lt;/i&gt;, a computer game&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;i&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Dancing_Stage_Max<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Dancing Stage Max<span class="es0">\&quot;</span>&gt;Dancing Stage Max&lt;/a&gt;&lt;/i&gt;, a game in the &lt;i&gt;Dance Dance Revolution&lt;/i&gt; series&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;i&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/DDRMAX_Dance_Dance_Revolution<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>DDRMAX Dance Dance Revolution<span class="es0">\&quot;</span>&gt;DDRMAX Dance Dance Revolution&lt;/a&gt;&lt;/i&gt; or &lt;i&gt;MAX&lt;/i&gt;, a North American music video game&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;i&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/DDRMAX_Dance_Dance_Revolution_6thMix<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>DDRMAX Dance Dance Revolution 6thMix<span class="es0">\&quot;</span>&gt;DDRMAX Dance Dance Revolution 6thMix&lt;/a&gt;&lt;/i&gt; or &lt;i&gt;MAX&lt;/i&gt;, a Japanese music video game&lt;/li&gt;<span class="es0">\n</span>&lt;/ul&gt;<span class="es0">\n</span>&lt;h2&gt;&lt;span class=<span class="es0">\&quot;</span>mw-headline<span class="es0">\&quot;</span> id=<span class="es0">\&quot;</span>Places<span class="es0">\&quot;</span>&gt;Places&lt;/span&gt;&lt;span class=<span class="es0">\&quot;</span>mw-editsection<span class="es0">\&quot;</span>&gt;&lt;span class=<span class="es0">\&quot;</span>mw-editsection-bracket<span class="es0">\&quot;</span>&gt;[&lt;/span&gt;&lt;a href=<span class="es0">\&quot;</span>/w/index.php?title=Max&amp;amp;action=edit&amp;amp;section=3<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Edit section: Places<span class="es0">\&quot;</span>&gt;edit&lt;/a&gt;&lt;span class=<span class="es0">\&quot;</span>mw-editsection-bracket<span class="es0">\&quot;</span>&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/h2&gt;<span class="es0">\n</span>&lt;ul&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Max,_Indiana<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Max, Indiana<span class="es0">\&quot;</span>&gt;Max, Indiana&lt;/a&gt;&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Max_Township,_Minnesota<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Max Township, Minnesota<span class="es0">\&quot;</span> class=<span class="es0">\&quot;</span>mw-redirect<span class="es0">\&quot;</span>&gt;Max Township, Minnesota&lt;/a&gt;, in Itasca County&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Max,_Nebraska<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Max, Nebraska<span class="es0">\&quot;</span>&gt;Max, Nebraska&lt;/a&gt;, in Dundy County&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Max,_North_Dakota<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Max, North Dakota<span class="es0">\&quot;</span>&gt;Max, North Dakota&lt;/a&gt;, in McLean County&lt;/li&gt;<span class="es0">\n</span>&lt;/ul&gt;<span class="es0">\n</span>&lt;h2&gt;&lt;span class=<span class="es0">\&quot;</span>mw-headline<span class="es0">\&quot;</span> id=<span class="es0">\&quot;</span>Transportation<span class="es0">\&quot;</span>&gt;Transportation&lt;/span&gt;&lt;span class=<span class="es0">\&quot;</span>mw-editsection<span class="es0">\&quot;</span>&gt;&lt;span class=<span class="es0">\&quot;</span>mw-editsection-bracket<span class="es0">\&quot;</span>&gt;[&lt;/span&gt;&lt;a href=<span class="es0">\&quot;</span>/w/index.php?title=Max&amp;amp;action=edit&amp;amp;section=4<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Edit section: Transportation<span class="es0">\&quot;</span>&gt;edit&lt;/a&gt;&lt;span class=<span class="es0">\&quot;</span>mw-editsection-bracket<span class="es0">\&quot;</span>&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/h2&gt;<span class="es0">\n</span>&lt;ul&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/MAX_Light_Rail<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>MAX Light Rail<span class="es0">\&quot;</span>&gt;MAX Light Rail&lt;/a&gt;, a light rail system serving the Portland, Oregon metropolitan area&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/MAX_(UTA)<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>MAX (UTA)<span class="es0">\&quot;</span> class=<span class="es0">\&quot;</span>mw-redirect<span class="es0">\&quot;</span>&gt;MAX (UTA)&lt;/a&gt;, a rapid transit bus line in Salt Lake County, Utah&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Metro_Area_Express_(Perth)<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Metro Area Express (Perth)<span class="es0">\&quot;</span>&gt;Metro Area Express (Perth)&lt;/a&gt;, a proposed light rail system in Perth, Western Australia&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Metropolitan_Area_Express_BRT_Line<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Metropolitan Area Express BRT Line<span class="es0">\&quot;</span> class=<span class="es0">\&quot;</span>mw-redirect<span class="es0">\&quot;</span>&gt;Metropolitan Area Express BRT Line&lt;/a&gt; or MAX, a bus rapid transit system in Las Vegas, Nevada&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Modesto_Area_Express<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Modesto Area Express<span class="es0">\&quot;</span>&gt;Modesto Area Express&lt;/a&gt;, a transit agency serving Modesto, California&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;Multi-Amenity eXpress, a marketing name for the &lt;a href=<span class="es0">\&quot;</span>/wiki/E1_Series_Shinkansen<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>E1 Series Shinkansen<span class="es0">\&quot;</span>&gt;E1 Series Shinkansen&lt;/a&gt; and E4 Series Shinkansen double-decker Shinkansen trains in Japan&lt;/li&gt;<span class="es0">\n</span>&lt;/ul&gt;<span class="es0">\n</span>&lt;h2&gt;&lt;span class=<span class="es0">\&quot;</span>mw-headline<span class="es0">\&quot;</span> id=<span class="es0">\&quot;</span>Film_and_television<span class="es0">\&quot;</span>&gt;Film and television&lt;/span&gt;&lt;span class=<span class="es0">\&quot;</span>mw-editsection<span class="es0">\&quot;</span>&gt;&lt;span class=<span class="es0">\&quot;</span>mw-editsection-bracket<span class="es0">\&quot;</span>&gt;[&lt;/span&gt;&lt;a href=<span class="es0">\&quot;</span>/w/index.php?title=Max&amp;amp;action=edit&amp;amp;section=5<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Edit section: Film and television<span class="es0">\&quot;</span>&gt;edit&lt;/a&gt;&lt;span class=<span class="es0">\&quot;</span>mw-editsection-bracket<span class="es0">\&quot;</span>&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/h2&gt;<span class="es0">\n</span>&lt;ul&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Max_(2002_film)<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Max (2002 film)<span class="es0">\&quot;</span>&gt;&lt;i&gt;Max&lt;/i&gt; (2002 film)&lt;/a&gt;, a semi-historical film portraying Adolf Hitler after his military discharge at the end of World War I&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Max_(2015_film)<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Max (2015 film)<span class="es0">\&quot;</span>&gt;&lt;i&gt;Max&lt;/i&gt; (2015 film)&lt;/a&gt;, an upcoming American family adventure film&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/MAX_(Channel)<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>MAX (Channel)<span class="es0">\&quot;</span> class=<span class="es0">\&quot;</span>mw-redirect<span class="es0">\&quot;</span>&gt;MAX (Channel)&lt;/a&gt;, an Australian pay TV channel&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/MAX_(TV_channel)<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>MAX (TV channel)<span class="es0">\&quot;</span>&gt;MAX (TV channel)&lt;/a&gt;, a Norwegian TV channel&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Omroep_MAX<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Omroep MAX<span class="es0">\&quot;</span>&gt;Omroep MAX&lt;/a&gt;, a television broadcasting station in the Netherlands&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Cinemax<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Cinemax<span class="es0">\&quot;</span>&gt;Cinemax&lt;/a&gt; or Max, an American premium television network&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Max_(The_X-Files)<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Max (The X-Files)<span class="es0">\&quot;</span>&gt;<span class="es0">\&quot;</span>Max<span class="es0">\&quot;</span> (&lt;i&gt;The X-Files&lt;/i&gt;)&lt;/a&gt;, an episode of &lt;i&gt;The X-Files&lt;/i&gt;&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;<span class="es0">\&quot;</span>Max<span class="es0">\&quot;</span>, a 1978 episode of &lt;i&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/The_Bionic_Woman<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>The Bionic Woman<span class="es0">\&quot;</span>&gt;The Bionic Woman&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;<span class="es0">\n</span>&lt;/ul&gt;<span class="es0">\n</span>&lt;h2&gt;&lt;span class=<span class="es0">\&quot;</span>mw-headline<span class="es0">\&quot;</span> id=<span class="es0">\&quot;</span>Music<span class="es0">\&quot;</span>&gt;Music&lt;/span&gt;&lt;span class=<span class="es0">\&quot;</span>mw-editsection<span class="es0">\&quot;</span>&gt;&lt;span class=<span class="es0">\&quot;</span>mw-editsection-bracket<span class="es0">\&quot;</span>&gt;[&lt;/span&gt;&lt;a href=<span class="es0">\&quot;</span>/w/index.php?title=Max&amp;amp;action=edit&amp;amp;section=6<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Edit section: Music<span class="es0">\&quot;</span>&gt;edit&lt;/a&gt;&lt;span class=<span class="es0">\&quot;</span>mw-editsection-bracket<span class="es0">\&quot;</span>&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/h2&gt;<span class="es0">\n</span>&lt;ul&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Max_FM<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Max FM<span class="es0">\&quot;</span>&gt;Max FM&lt;/a&gt;, a UK radio station&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/MAX_(band)<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>MAX (band)<span class="es0">\&quot;</span>&gt;MAX (band)&lt;/a&gt;, a Japanese vocal group&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;i&gt;Max&lt;/i&gt;, a 1977 album by &lt;a href=<span class="es0">\&quot;</span>/wiki/The_Rumour<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>The Rumour<span class="es0">\&quot;</span>&gt;The Rumour&lt;/a&gt;&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;<span class="es0">\&quot;</span>Max<span class="es0">\&quot;</span> series, a collection of songs following the same theme from the music video game series &lt;i&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Dance_Dance_Revolution<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Dance Dance Revolution<span class="es0">\&quot;</span>&gt;Dance Dance Revolution&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Max_Changmin<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Max Changmin<span class="es0">\&quot;</span> class=<span class="es0">\&quot;</span>mw-redirect<span class="es0">\&quot;</span>&gt;Max Changmin&lt;/a&gt; (born 1988), member of the pop group TVXQ&lt;/li&gt;<span class="es0">\n</span>&lt;/ul&gt;<span class="es0">\n</span>&lt;h2&gt;&lt;span class=<span class="es0">\&quot;</span>mw-headline<span class="es0">\&quot;</span> id=<span class="es0">\&quot;</span>Publications<span class="es0">\&quot;</span>&gt;Publications&lt;/span&gt;&lt;span class=<span class="es0">\&quot;</span>mw-editsection<span class="es0">\&quot;</span>&gt;&lt;span class=<span class="es0">\&quot;</span>mw-editsection-bracket<span class="es0">\&quot;</span>&gt;[&lt;/span&gt;&lt;a href=<span class="es0">\&quot;</span>/w/index.php?title=Max&amp;amp;action=edit&amp;amp;section=7<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Edit section: Publications<span class="es0">\&quot;</span>&gt;edit&lt;/a&gt;&lt;span class=<span class="es0">\&quot;</span>mw-editsection-bracket<span class="es0">\&quot;</span>&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/h2&gt;<span class="es0">\n</span>&lt;ul&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Max_(book)<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Max (book)<span class="es0">\&quot;</span>&gt;&lt;i&gt;Max&lt;/i&gt; (book)&lt;/a&gt;, a children's book by Bob Graham&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Max_(Howard_Fast_novel)<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Max (Howard Fast novel)<span class="es0">\&quot;</span>&gt;&lt;i&gt;Max&lt;/i&gt; (Howard Fast novel)&lt;/a&gt;&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;i&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/MAX:_A_Maximum_Ride_Novel<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>MAX: A Maximum Ride Novel<span class="es0">\&quot;</span>&gt;MAX: A Maximum Ride Novel&lt;/a&gt;&lt;/i&gt;, a novel by James Patterson&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/MAX_(comics)<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>MAX (comics)<span class="es0">\&quot;</span> class=<span class="es0">\&quot;</span>mw-redirect<span class="es0">\&quot;</span>&gt;MAX (comics)&lt;/a&gt;, a Marvel imprint&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Max_(French_magazine)<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Max (French magazine)<span class="es0">\&quot;</span>&gt;&lt;i&gt;Max&lt;/i&gt; (French magazine)&lt;/a&gt;, a French men's magazine from 1989 to 2008&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Max_(German_magazine)<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Max (German magazine)<span class="es0">\&quot;</span>&gt;&lt;i&gt;Max&lt;/i&gt; (German magazine)&lt;/a&gt;, a German lifestyle magazine from 1991 to 2008&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Max_(Italian_magazine)<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Max (Italian magazine)<span class="es0">\&quot;</span>&gt;&lt;i&gt;Max&lt;/i&gt; (Italian magazine)&lt;/a&gt;, an Italian magazine started in 1985&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;i&gt;Max&lt;/i&gt;, a &lt;a href=<span class="es0">\&quot;</span>/wiki/List_of_Mexican_magazines#M<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>List of Mexican magazines<span class="es0">\&quot;</span>&gt;Mexican magazine&lt;/a&gt;&lt;/li&gt;<span class="es0">\n</span>&lt;/ul&gt;<span class="es0">\n</span>&lt;h2&gt;&lt;span class=<span class="es0">\&quot;</span>mw-headline<span class="es0">\&quot;</span> id=<span class="es0">\&quot;</span>Science_and_technology<span class="es0">\&quot;</span>&gt;Science and technology&lt;/span&gt;&lt;span class=<span class="es0">\&quot;</span>mw-editsection<span class="es0">\&quot;</span>&gt;&lt;span class=<span class="es0">\&quot;</span>mw-editsection-bracket<span class="es0">\&quot;</span>&gt;[&lt;/span&gt;&lt;a href=<span class="es0">\&quot;</span>/w/index.php?title=Max&amp;amp;action=edit&amp;amp;section=8<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Edit section: Science and technology<span class="es0">\&quot;</span>&gt;edit&lt;/a&gt;&lt;span class=<span class="es0">\&quot;</span>mw-editsection-bracket<span class="es0">\&quot;</span>&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/h2&gt;<span class="es0">\n</span>&lt;ul&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/MAX_(gene)<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>MAX (gene)<span class="es0">\&quot;</span>&gt;MAX (gene)&lt;/a&gt;, a human gene&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Max_and_min<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Max and min<span class="es0">\&quot;</span> class=<span class="es0">\&quot;</span>mw-redirect<span class="es0">\&quot;</span>&gt;Max and min&lt;/a&gt; or maxima and minima, extreme values in mathematics&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;i&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Maxillaria<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Maxillaria<span class="es0">\&quot;</span>&gt;Maxillaria&lt;/a&gt;&lt;/i&gt; or Max, an orchid genus&lt;/li&gt;<span class="es0">\n</span>&lt;/ul&gt;<span class="es0">\n</span>&lt;h2&gt;&lt;span class=<span class="es0">\&quot;</span>mw-headline<span class="es0">\&quot;</span> id=<span class="es0">\&quot;</span>Fictional_characters<span class="es0">\&quot;</span>&gt;Fictional characters&lt;/span&gt;&lt;span class=<span class="es0">\&quot;</span>mw-editsection<span class="es0">\&quot;</span>&gt;&lt;span class=<span class="es0">\&quot;</span>mw-editsection-bracket<span class="es0">\&quot;</span>&gt;[&lt;/span&gt;&lt;a href=<span class="es0">\&quot;</span>/w/index.php?title=Max&amp;amp;action=edit&amp;amp;section=9<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Edit section: Fictional characters<span class="es0">\&quot;</span>&gt;edit&lt;/a&gt;&lt;span class=<span class="es0">\&quot;</span>mw-editsection-bracket<span class="es0">\&quot;</span>&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/h2&gt;<span class="es0">\n</span>&lt;ul&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Max_(24_character)<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Max (24 character)<span class="es0">\&quot;</span> class=<span class="es0">\&quot;</span>mw-redirect<span class="es0">\&quot;</span>&gt;Max (&lt;i&gt;24&lt;/i&gt; character)&lt;/a&gt;&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Max_(Comet_Man)<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Max (Comet Man)<span class="es0">\&quot;</span> class=<span class="es0">\&quot;</span>mw-redirect<span class="es0">\&quot;</span>&gt;Max (Comet Man)&lt;/a&gt;, a Marvel Comics character&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Max_(Flight_of_the_Navigator)<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Max (Flight of the Navigator)<span class="es0">\&quot;</span> class=<span class="es0">\&quot;</span>mw-redirect<span class="es0">\&quot;</span>&gt;Max (&lt;i&gt;Flight of the Navigator&lt;/i&gt;)&lt;/a&gt;, a spaceship from &lt;i&gt;Flight of the Navigator&lt;/i&gt;&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Max_(Pok%C3%A9mon)<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Max (Pok<span class="es0">\u</span>00e9mon)<span class="es0">\&quot;</span> class=<span class="es0">\&quot;</span>mw-redirect<span class="es0">\&quot;</span>&gt;Max (Pok<span class="es0">\u</span>00e9mon)&lt;/a&gt;, a character in the Pok<span class="es0">\u</span>00e9mon anime&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Max_Guevara<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Max Guevara<span class="es0">\&quot;</span>&gt;Max Guevara&lt;/a&gt;, lead character in &lt;i&gt;Dark Angel&lt;/i&gt; TV series&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;Max, a &lt;a href=<span class="es0">\&quot;</span>/wiki/Bomberman_(series)#Main_characters<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Bomberman (series)<span class="es0">\&quot;</span> class=<span class="es0">\&quot;</span>mw-redirect<span class="es0">\&quot;</span>&gt;character from the &lt;i&gt;Bomberman&lt;/i&gt;&lt;/a&gt; series of computer and video games&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;Max, the nickname of &lt;a href=<span class="es0">\&quot;</span>/wiki/List_of_Doctor_Who_villains#Jagrafess<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>List of Doctor Who villains<span class="es0">\&quot;</span>&gt;The Mighty Jagrafess of the Holy Hadrojassic Maxarodenfoe&lt;/a&gt; in a series of &lt;i&gt;Doctor Who&lt;/i&gt;&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;Max, The Grinch's dog from &lt;i&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/How_the_Grinch_Stole_Christmas<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>How the Grinch Stole Christmas<span class="es0">\&quot;</span> class=<span class="es0">\&quot;</span>mw-redirect<span class="es0">\&quot;</span>&gt;How the Grinch Stole Christmas&lt;/a&gt;&lt;/i&gt; and its adaptations&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;Max, a &lt;a href=<span class="es0">\&quot;</span>/wiki/Sam_%26_Max#Characters<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Sam &amp;amp; Max<span class="es0">\&quot;</span>&gt;characters in the comic series &lt;i&gt;Sam &amp;amp; Max&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;Max, a commanding officer in the &lt;i&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Advance_Wars<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Advance Wars<span class="es0">\&quot;</span>&gt;Advance Wars&lt;/a&gt;&lt;/i&gt; video games&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;Max, the co-star of the &lt;i&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Max_%26_Ruby<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Max &amp;amp; Ruby<span class="es0">\&quot;</span>&gt;Max &amp;amp; Ruby&lt;/a&gt;&lt;/i&gt;, animated series&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;Max, the boy in &lt;i&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Where_the_Wild_Things_Are<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Where the Wild Things Are<span class="es0">\&quot;</span>&gt;Where the Wild Things Are&lt;/a&gt;&lt;/i&gt; by Maurice Sendak&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;Max, a character in the 1968 animated film &lt;i&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Yellow_Submarine_(1968_film)<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Yellow Submarine (1968 film)<span class="es0">\&quot;</span> class=<span class="es0">\&quot;</span>mw-redirect<span class="es0">\&quot;</span>&gt;Yellow Submarine&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;<span class="es0">\n</span>&lt;/ul&gt;<span class="es0">\n</span>&lt;h2&gt;&lt;span class=<span class="es0">\&quot;</span>mw-headline<span class="es0">\&quot;</span> id=<span class="es0">\&quot;</span>Other_uses<span class="es0">\&quot;</span>&gt;Other uses&lt;/span&gt;&lt;span class=<span class="es0">\&quot;</span>mw-editsection<span class="es0">\&quot;</span>&gt;&lt;span class=<span class="es0">\&quot;</span>mw-editsection-bracket<span class="es0">\&quot;</span>&gt;[&lt;/span&gt;&lt;a href=<span class="es0">\&quot;</span>/w/index.php?title=Max&amp;amp;action=edit&amp;amp;section=10<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Edit section: Other uses<span class="es0">\&quot;</span>&gt;edit&lt;/a&gt;&lt;span class=<span class="es0">\&quot;</span>mw-editsection-bracket<span class="es0">\&quot;</span>&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/h2&gt;<span class="es0">\n</span>&lt;ul&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Max_(cigarette)<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Max (cigarette)<span class="es0">\&quot;</span>&gt;Max (cigarette)&lt;/a&gt;, a brand of cigarettes made by Lorillard Tobacco Company&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Max_(pig)<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Max (pig)<span class="es0">\&quot;</span> class=<span class="es0">\&quot;</span>mw-redirect<span class="es0">\&quot;</span>&gt;Max (pig)&lt;/a&gt;, the pet pig of George Clooney&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Australian_Max_Beer<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Australian Max Beer<span class="es0">\&quot;</span>&gt;Australian Max Beer&lt;/a&gt;, winner <span class="es0">\&quot;</span>The World's Best Strong Lager<span class="es0">\&quot;</span> at the WBA made by International Breweries P. Ltd.&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Max_Hamburgers<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Max Hamburgers<span class="es0">\&quot;</span>&gt;Max Hamburgers&lt;/a&gt;, a fast-food corporation&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/MAX_Index<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>MAX Index<span class="es0">\&quot;</span>&gt;MAX Index&lt;/a&gt;, a Hungarian domestic government bond index&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Lotto_Max<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Lotto Max<span class="es0">\&quot;</span>&gt;Lotto Max&lt;/a&gt;, a Canadian national lottery game&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Francesc_Capdevila_Gisbert<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Francesc Capdevila Gisbert<span class="es0">\&quot;</span> class=<span class="es0">\&quot;</span>mw-redirect<span class="es0">\&quot;</span>&gt;Francesc Capdevila Gisbert&lt;/a&gt; or Max, Catalan ligne claire cartoonist&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;MAX, a &lt;a href=<span class="es0">\&quot;</span>/wiki/Culture_of_Spain<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Culture of Spain<span class="es0">\&quot;</span>&gt;Spanish theatre&lt;/a&gt; award&lt;/li&gt;<span class="es0">\n</span>&lt;/ul&gt;<span class="es0">\n</span>&lt;h2&gt;&lt;span class=<span class="es0">\&quot;</span>mw-headline<span class="es0">\&quot;</span> id=<span class="es0">\&quot;</span>People_with_the_surname<span class="es0">\&quot;</span>&gt;People with the surname&lt;/span&gt;&lt;span class=<span class="es0">\&quot;</span>mw-editsection<span class="es0">\&quot;</span>&gt;&lt;span class=<span class="es0">\&quot;</span>mw-editsection-bracket<span class="es0">\&quot;</span>&gt;[&lt;/span&gt;&lt;a href=<span class="es0">\&quot;</span>/w/index.php?title=Max&amp;amp;action=edit&amp;amp;section=11<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Edit section: People with the surname<span class="es0">\&quot;</span>&gt;edit&lt;/a&gt;&lt;span class=<span class="es0">\&quot;</span>mw-editsection-bracket<span class="es0">\&quot;</span>&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/h2&gt;<span class="es0">\n</span>&lt;ul&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Adolphe_Max<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Adolphe Max<span class="es0">\&quot;</span>&gt;Adolphe Max&lt;/a&gt; (1869<span class="es0">\u</span>20131939), Belgian politician&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Gabriel_von_Max<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Gabriel von Max<span class="es0">\&quot;</span>&gt;Gabriel von Max&lt;/a&gt; (1840<span class="es0">\u</span>20131915), Austrian painter&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Martin_Max<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Martin Max<span class="es0">\&quot;</span>&gt;Martin Max&lt;/a&gt; (born 1968), German-Polish footballer&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Peter_Max<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Peter Max<span class="es0">\&quot;</span>&gt;Peter Max&lt;/a&gt; (born 1937), American artist&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Tucker_Max<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Tucker Max<span class="es0">\&quot;</span>&gt;Tucker Max&lt;/a&gt; (born 1975), American author&lt;/li&gt;<span class="es0">\n</span>&lt;/ul&gt;<span class="es0">\n</span>&lt;h2&gt;&lt;span class=<span class="es0">\&quot;</span>mw-headline<span class="es0">\&quot;</span> id=<span class="es0">\&quot;</span>See_also<span class="es0">\&quot;</span>&gt;See also&lt;/span&gt;&lt;span class=<span class="es0">\&quot;</span>mw-editsection<span class="es0">\&quot;</span>&gt;&lt;span class=<span class="es0">\&quot;</span>mw-editsection-bracket<span class="es0">\&quot;</span>&gt;[&lt;/span&gt;&lt;a href=<span class="es0">\&quot;</span>/w/index.php?title=Max&amp;amp;action=edit&amp;amp;section=12<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Edit section: See also<span class="es0">\&quot;</span>&gt;edit&lt;/a&gt;&lt;span class=<span class="es0">\&quot;</span>mw-editsection-bracket<span class="es0">\&quot;</span>&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/h2&gt;<span class="es0">\n</span>&lt;ul&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Mad_Max_(disambiguation)<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Mad Max (disambiguation)<span class="es0">\&quot;</span> class=<span class="es0">\&quot;</span>mw-disambig<span class="es0">\&quot;</span>&gt;Mad Max (disambiguation)&lt;/a&gt;&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Maximilian_(disambiguation)<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Maximilian (disambiguation)<span class="es0">\&quot;</span> class=<span class="es0">\&quot;</span>mw-redirect<span class="es0">\&quot;</span>&gt;Maximilian (disambiguation)&lt;/a&gt;&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Maximus_(disambiguation)<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Maximus (disambiguation)<span class="es0">\&quot;</span> class=<span class="es0">\&quot;</span>mw-redirect<span class="es0">\&quot;</span>&gt;Maximus (disambiguation)&lt;/a&gt;&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Maxwell_(disambiguation)<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Maxwell (disambiguation)<span class="es0">\&quot;</span> class=<span class="es0">\&quot;</span>mw-redirect<span class="es0">\&quot;</span>&gt;Maxwell (disambiguation)&lt;/a&gt;&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Maxx_(disambiguation)<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Maxx (disambiguation)<span class="es0">\&quot;</span> class=<span class="es0">\&quot;</span>mw-redirect<span class="es0">\&quot;</span>&gt;Maxx (disambiguation)&lt;/a&gt;&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Mighty_Max_(disambiguation)<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Mighty Max (disambiguation)<span class="es0">\&quot;</span> class=<span class="es0">\&quot;</span>mw-redirect<span class="es0">\&quot;</span>&gt;Mighty Max (disambiguation)&lt;/a&gt;&lt;/li&gt;<span class="es0">\n</span>&lt;li&gt;&lt;span class=<span class="es0">\&quot;</span>selfreference<span class="es0">\&quot;</span>&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/Special:PrefixIndex/Max<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Special:PrefixIndex/Max<span class="es0">\&quot;</span>&gt;All pages beginning with <span class="es0">\&quot;</span>Max<span class="es0">\&quot;</span>&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;<span class="es0">\n</span>&lt;/ul&gt;<span class="es0">\n</span>&lt;table id=<span class="es0">\&quot;</span>disambigbox<span class="es0">\&quot;</span> class=<span class="es0">\&quot;</span>metadata plainlinks dmbox dmbox-disambig<span class="es0">\&quot;</span> style=<span class="es0">\&quot;</span><span class="es0">\&quot;</span> role=<span class="es0">\&quot;</span>presentation<span class="es0">\&quot;</span>&gt;<span class="es0">\n</span>&lt;tr&gt;<span class="es0">\n</span>&lt;td class=<span class="es0">\&quot;</span>mbox-image<span class="es0">\&quot;</span> style=<span class="es0">\&quot;</span>padding: 2px 0 2px 0.4em;<span class="es0">\&quot;</span>&gt;&lt;a href=<span class="es0">\&quot;</span>/wiki/File:Disambig_gray.svg<span class="es0">\&quot;</span> class=<span class="es0">\&quot;</span>image<span class="es0">\&quot;</span>&gt;&lt;img alt=<span class="es0">\&quot;</span>Disambiguation icon<span class="es0">\&quot;</span> src=<span class="es0">\&quot;</span>//upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png<span class="es0">\&quot;</span> width=<span class="es0">\&quot;</span>30<span class="es0">\&quot;</span> height=<span class="es0">\&quot;</span>23<span class="es0">\&quot;</span> srcset=<span class="es0">\&quot;</span>//upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/45px-Disambig_gray.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/60px-Disambig_gray.svg.png 2x<span class="es0">\&quot;</span> data-file-width=<span class="es0">\&quot;</span>220<span class="es0">\&quot;</span> data-file-height=<span class="es0">\&quot;</span>168<span class="es0">\&quot;</span> /&gt;&lt;/a&gt;&lt;/td&gt;<span class="es0">\n</span>&lt;td class=<span class="es0">\&quot;</span>mbox-text<span class="es0">\&quot;</span> style=<span class="es0">\&quot;</span>padding: 0.25em 0.4em; font-style: italic;<span class="es0">\&quot;</span>&gt;This &lt;a href=<span class="es0">\&quot;</span>/wiki/Help:Disambiguation<span class="es0">\&quot;</span> title=<span class="es0">\&quot;</span>Help:Disambiguation<span class="es0">\&quot;</span>&gt;disambiguation&lt;/a&gt; page lists articles associated with the title &lt;b&gt;Max&lt;/b&gt;.&lt;br /&gt;<span class="es0">\n</span>&lt;small&gt;If an &lt;a class=<span class="es0">\&quot;</span>external text<span class="es0">\&quot;</span> href=<span class="es0">\&quot;</span>//en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Max&amp;amp;namespace=0<span class="es0">\&quot;</span>&gt;internal link&lt;/a&gt; led you here, you may wish to change the link to point directly to the intended article.&lt;/small&gt;&lt;/td&gt;<span class="es0">\n</span>&lt;/tr&gt;<span class="es0">\n</span>&lt;/table&gt;<span class="es0">\n</span><span class="es0">\n</span><span class="es0">\n</span>&lt;!-- <span class="es0">\n</span>NewPP limit report<span class="es0">\n</span>Parsed by mw1191<span class="es0">\n</span>CPU time usage: 0.129 seconds<span class="es0">\n</span>Real time usage: 0.173 seconds<span class="es0">\n</span>Preprocessor visited node count: 1279/1000000<span class="es0">\n</span>Preprocessor generated node count: 0/1500000<span class="es0">\n</span>Post<span class="es0">\u</span>2010expand include size: 4452/2097152 bytes<span class="es0">\n</span>Template argument size: 716/2097152 bytes<span class="es0">\n</span>Highest expansion depth: 15/40<span class="es0">\n</span>Expensive parser function count: 0/500<span class="es0">\n</span>Lua time usage: 0.021/10.000 seconds<span class="es0">\n</span>Lua memory usage: 863 KB/50 MB<span class="es0">\n</span>--&gt;<span class="es0">\n</span><span class="es0">\n</span>&lt;!-- <span class="es0">\n</span>Transclusion expansion time report (%,ms,calls,template)<span class="es0">\n</span>100.00%  263.476      1 - -total<span class="es0">\n</span> 23.26%   61.279      1 - Template:Disambiguation<span class="es0">\n</span> 15.89%   41.877      1 - Template:Dmbox<span class="es0">\n</span> 10.81%   28.472      1 - Template:Wiktionary<span class="es0">\n</span>  9.90%   26.097      1 - Template:Sister<span class="es0">\n</span>  8.60%   22.650      1 - Template:Category_handler<span class="es0">\n</span>  8.20%   21.612      1 - Template:Side_box<span class="es0">\n</span>  6.27%   16.507      1 - Template:Main_other<span class="es0">\n</span>  5.26%   13.853      2 - Template:Title_disambig_text<span class="es0">\n</span>  3.99%   10.501     10 - Template:Disambiguation/cat<span class="es0">\n</span>--&gt;<span class="es0">\n</span><span class="es0">\n</span>&lt;!-- Saved in parser cache with key enwiki:pcache:idhash:148814-0!*!0!!en!4!* and timestamp 20141211044824 and revision id 635406231<span class="es0">\n</span> --&gt;<span class="es0">\n</span>&quot;</span>
+        <span class="br0">&#125;</span><span class="sy0">,</span>
+        <span class="st0">&quot;langlinks&quot;</span><span class="sy0">:</span> <span class="br0">&#91;</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;lang&quot;</span><span class="sy0">:</span> <span class="st0">&quot;bs&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;url&quot;</span><span class="sy0">:</span> <span class="st0">&quot;http://bs.wikipedia.org/wiki/Max_(%C4%8Dvor)&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;langname&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Bosnian&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;autonym&quot;</span><span class="sy0">:</span> <span class="st0">&quot;bosanski&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max (<span class="es0">\u</span>010dvor)&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;lang&quot;</span><span class="sy0">:</span> <span class="st0">&quot;cs&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;url&quot;</span><span class="sy0">:</span> <span class="st0">&quot;http://cs.wikipedia.org/wiki/Max&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;langname&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Czech&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;autonym&quot;</span><span class="sy0">:</span> <span class="st0">&quot;<span class="es0">\u</span>010de<span class="es0">\u</span>0161tina&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;lang&quot;</span><span class="sy0">:</span> <span class="st0">&quot;da&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;url&quot;</span><span class="sy0">:</span> <span class="st0">&quot;http://da.wikipedia.org/wiki/Max&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;langname&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Danish&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;autonym&quot;</span><span class="sy0">:</span> <span class="st0">&quot;dansk&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;lang&quot;</span><span class="sy0">:</span> <span class="st0">&quot;de&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;url&quot;</span><span class="sy0">:</span> <span class="st0">&quot;http://de.wikipedia.org/wiki/Max&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;langname&quot;</span><span class="sy0">:</span> <span class="st0">&quot;German&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;autonym&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Deutsch&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;lang&quot;</span><span class="sy0">:</span> <span class="st0">&quot;fr&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;url&quot;</span><span class="sy0">:</span> <span class="st0">&quot;http://fr.wikipedia.org/wiki/Max&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;langname&quot;</span><span class="sy0">:</span> <span class="st0">&quot;French&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;autonym&quot;</span><span class="sy0">:</span> <span class="st0">&quot;fran<span class="es0">\u</span>00e7ais&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;lang&quot;</span><span class="sy0">:</span> <span class="st0">&quot;fy&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;url&quot;</span><span class="sy0">:</span> <span class="st0">&quot;http://fy.wikipedia.org/wiki/Max&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;langname&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Western Frisian&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;autonym&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Frysk&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;lang&quot;</span><span class="sy0">:</span> <span class="st0">&quot;ko&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;url&quot;</span><span class="sy0">:</span> <span class="st0">&quot;http://ko.wikipedia.org/wiki/%EB%A7%A5%EC%8A%A4&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;langname&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Korean&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;autonym&quot;</span><span class="sy0">:</span> <span class="st0">&quot;<span class="es0">\u</span>d55c<span class="es0">\u</span>ad6d<span class="es0">\u</span>c5b4&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;<span class="es0">\u</span>b9e5<span class="es0">\u</span>c2a4&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;lang&quot;</span><span class="sy0">:</span> <span class="st0">&quot;hr&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;url&quot;</span><span class="sy0">:</span> <span class="st0">&quot;http://hr.wikipedia.org/wiki/Max&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;langname&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Croatian&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;autonym&quot;</span><span class="sy0">:</span> <span class="st0">&quot;hrvatski&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;lang&quot;</span><span class="sy0">:</span> <span class="st0">&quot;id&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;url&quot;</span><span class="sy0">:</span> <span class="st0">&quot;http://id.wikipedia.org/wiki/Max&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;langname&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Indonesian&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;autonym&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Bahasa Indonesia&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;lang&quot;</span><span class="sy0">:</span> <span class="st0">&quot;it&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;url&quot;</span><span class="sy0">:</span> <span class="st0">&quot;http://it.wikipedia.org/wiki/MAX&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;langname&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Italian&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;autonym&quot;</span><span class="sy0">:</span> <span class="st0">&quot;italiano&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;MAX&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;lang&quot;</span><span class="sy0">:</span> <span class="st0">&quot;nl&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;url&quot;</span><span class="sy0">:</span> <span class="st0">&quot;http://nl.wikipedia.org/wiki/Max&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;langname&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Dutch&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;autonym&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Nederlands&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;lang&quot;</span><span class="sy0">:</span> <span class="st0">&quot;ja&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;url&quot;</span><span class="sy0">:</span> <span class="st0">&quot;http://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;langname&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Japanese&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;autonym&quot;</span><span class="sy0">:</span> <span class="st0">&quot;<span class="es0">\u</span>65e5<span class="es0">\u</span>672c<span class="es0">\u</span>8a9e&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;<span class="es0">\u</span>30de<span class="es0">\u</span>30c3<span class="es0">\u</span>30af<span class="es0">\u</span>30b9&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;lang&quot;</span><span class="sy0">:</span> <span class="st0">&quot;pl&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;url&quot;</span><span class="sy0">:</span> <span class="st0">&quot;http://pl.wikipedia.org/wiki/Max&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;langname&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Polish&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;autonym&quot;</span><span class="sy0">:</span> <span class="st0">&quot;polski&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;lang&quot;</span><span class="sy0">:</span> <span class="st0">&quot;pt&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;url&quot;</span><span class="sy0">:</span> <span class="st0">&quot;http://pt.wikipedia.org/wiki/Max&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;langname&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Portuguese&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;autonym&quot;</span><span class="sy0">:</span> <span class="st0">&quot;portugu<span class="es0">\u</span>00eas&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;lang&quot;</span><span class="sy0">:</span> <span class="st0">&quot;ro&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;url&quot;</span><span class="sy0">:</span> <span class="st0">&quot;http://ro.wikipedia.org/wiki/Max&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;langname&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Romanian&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;autonym&quot;</span><span class="sy0">:</span> <span class="st0">&quot;rom<span class="es0">\u</span>00e2n<span class="es0">\u</span>0103&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;lang&quot;</span><span class="sy0">:</span> <span class="st0">&quot;ru&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;url&quot;</span><span class="sy0">:</span> <span class="st0">&quot;http://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BA%D1%81&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;langname&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Russian&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;autonym&quot;</span><span class="sy0">:</span> <span class="st0">&quot;<span class="es0">\u</span>0440<span class="es0">\u</span>0443<span class="es0">\u</span>0441<span class="es0">\u</span>0441<span class="es0">\u</span>043a<span class="es0">\u</span>0438<span class="es0">\u</span>0439&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;<span class="es0">\u</span>041c<span class="es0">\u</span>0430<span class="es0">\u</span>043a<span class="es0">\u</span>0441&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;lang&quot;</span><span class="sy0">:</span> <span class="st0">&quot;simple&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;url&quot;</span><span class="sy0">:</span> <span class="st0">&quot;http://simple.wikipedia.org/wiki/Max&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;langname&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Simple English&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;autonym&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Simple English&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;lang&quot;</span><span class="sy0">:</span> <span class="st0">&quot;sr&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;url&quot;</span><span class="sy0">:</span> <span class="st0">&quot;http://sr.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BA%D1%81&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;langname&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Serbian&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;autonym&quot;</span><span class="sy0">:</span> <span class="st0">&quot;<span class="es0">\u</span>0441<span class="es0">\u</span>0440<span class="es0">\u</span>043f<span class="es0">\u</span>0441<span class="es0">\u</span>043a<span class="es0">\u</span>0438 / srpski&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;<span class="es0">\u</span>041c<span class="es0">\u</span>0430<span class="es0">\u</span>043a<span class="es0">\u</span>0441&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;lang&quot;</span><span class="sy0">:</span> <span class="st0">&quot;sh&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;url&quot;</span><span class="sy0">:</span> <span class="st0">&quot;http://sh.wikipedia.org/wiki/Maks&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;langname&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Serbo-Croatian&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;autonym&quot;</span><span class="sy0">:</span> <span class="st0">&quot;srpskohrvatski / <span class="es0">\u</span>0441<span class="es0">\u</span>0440<span class="es0">\u</span>043f<span class="es0">\u</span>0441<span class="es0">\u</span>043a<span class="es0">\u</span>043e<span class="es0">\u</span>0445<span class="es0">\u</span>0440<span class="es0">\u</span>0432<span class="es0">\u</span>0430<span class="es0">\u</span>0442<span class="es0">\u</span>0441<span class="es0">\u</span>043a<span class="es0">\u</span>0438&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Maks&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;lang&quot;</span><span class="sy0">:</span> <span class="st0">&quot;sv&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;url&quot;</span><span class="sy0">:</span> <span class="st0">&quot;http://sv.wikipedia.org/wiki/Max_(olika_betydelser)&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;langname&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Swedish&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;autonym&quot;</span><span class="sy0">:</span> <span class="st0">&quot;svenska&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max (olika betydelser)&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;lang&quot;</span><span class="sy0">:</span> <span class="st0">&quot;tr&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;url&quot;</span><span class="sy0">:</span> <span class="st0">&quot;http://tr.wikipedia.org/wiki/Max&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;langname&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Turkish&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;autonym&quot;</span><span class="sy0">:</span> <span class="st0">&quot;T<span class="es0">\u</span>00fcrk<span class="es0">\u</span>00e7e&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;lang&quot;</span><span class="sy0">:</span> <span class="st0">&quot;vi&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;url&quot;</span><span class="sy0">:</span> <span class="st0">&quot;http://vi.wikipedia.org/wiki/Max&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;langname&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Vietnamese&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;autonym&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Ti<span class="es0">\u</span>1ebfng Vi<span class="es0">\u</span>1ec7t&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;lang&quot;</span><span class="sy0">:</span> <span class="st0">&quot;zh&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;url&quot;</span><span class="sy0">:</span> <span class="st0">&quot;http://zh.wikipedia.org/wiki/MAX&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;langname&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Chinese&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;autonym&quot;</span><span class="sy0">:</span> <span class="st0">&quot;<span class="es0">\u</span>4e2d<span class="es0">\u</span>6587&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;MAX&quot;</span>
+            <span class="br0">&#125;</span>
+        <span class="br0">&#93;</span><span class="sy0">,</span>
+        <span class="st0">&quot;categories&quot;</span><span class="sy0">:</span> <span class="br0">&#91;</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;sortkey&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;All_article_disambiguation_pages&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;hidden&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;sortkey&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;All_disambiguation_pages&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;hidden&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;sortkey&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Disambiguation_pages&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;sortkey&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Place_name_disambiguation_pages&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;sortkey&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Disambiguation_pages_with_surname-holder_lists&quot;</span>
+            <span class="br0">&#125;</span>
+        <span class="br0">&#93;</span><span class="sy0">,</span>
+        <span class="st0">&quot;links&quot;</span><span class="sy0">:</span> <span class="br0">&#91;</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;3ds Max&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Adolphe Max&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Advance Wars&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Australian Max Beer&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Bomberman (series)&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Cinemax&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Commodore MAX Machine&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Culture of Spain&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;DDRMAX Dance Dance Revolution&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;DDRMAX Dance Dance Revolution 6thMix&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Dance Dance Revolution&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Dancing Stage Max&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;E1 Series Shinkansen&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Francesc Capdevila Gisbert&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Gabriel von Max&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;How the Grinch Stole Christmas&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;List of Doctor Who villains&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;List of Mexican magazines&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Lotto Max&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;M.A.X.: Mechanized Assault &amp; Exploration&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;MAX: A Maximum Ride Novel&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;MAX (Channel)&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;MAX (Linux distribution)&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;MAX (TV channel)&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;MAX (UTA)&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;MAX (band)&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;MAX (comics)&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;MAX (gene)&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;MAX Index&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;MAX Light Rail&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Mad Max (disambiguation)&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Martin Max&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max, Indiana&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max, Nebraska&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max, North Dakota&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max &amp; Ruby&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max (2002 film)&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max (2015 film)&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max (24 character)&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max (Comet Man)&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max (Flight of the Navigator)&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max (French magazine)&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max (German magazine)&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max (Howard Fast novel)&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max (Italian magazine)&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max (Pok<span class="es0">\u</span>00e9mon)&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max (The X-Files)&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max (book)&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max (cigarette)&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max (pig)&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max (software)&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max Changmin&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max FM&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max Guevara&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max Hamburgers&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max Township, Minnesota&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max and min&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Maxillaria&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Maximilian (disambiguation)&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Maximus (disambiguation)&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Maxwell (disambiguation)&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Maxx (disambiguation)&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Metro Area Express (Perth)&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Metropolitan Area Express BRT Line&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Mighty Max (disambiguation)&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Modesto Area Express&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Multimedia Acceleration eXtensions&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Omroep MAX&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Peter Max&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Sam &amp; Max&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;The Bionic Woman&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;The Rumour&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Tucker Max&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Where the Wild Things Are&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">0</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Yellow Submarine (1968 film)&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">12</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Help:Disambiguation&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span>
+        <span class="br0">&#93;</span><span class="sy0">,</span>
+        <span class="st0">&quot;templates&quot;</span><span class="sy0">:</span> <span class="br0">&#91;</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">10</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Template:Wiktionary&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">10</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Template:Sister&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">10</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Template:Sister project&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">10</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Template:Side box&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">10</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Template:TOC right&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">10</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Template:Look from&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">10</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Template:Disambiguation&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">10</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Template:Dmbox&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">10</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Template:Title disambig text&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">10</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Template:Trim&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">10</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Template:Str rep&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">10</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Template:Title without disambig&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">10</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Template:PAGENAMEBASE&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">10</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Template:Category handler&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">10</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Template:Main other&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">10</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Template:Disambiguation/cat&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">828</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Module:Side box&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">828</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Module:Yesno&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">828</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Module:String&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">828</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Module:Category handler&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">828</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Module:Category handler/data&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">828</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Module:Category handler/config&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">828</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Module:Category handler/shared&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">828</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Module:Category handler/blacklist&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">828</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Module:Namespace detect/data&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">828</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Module:Namespace detect/config&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;ns&quot;</span><span class="sy0">:</span> <span class="nu0">828</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Module:Arguments&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;exists&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span>
+        <span class="br0">&#93;</span><span class="sy0">,</span>
+        <span class="st0">&quot;images&quot;</span><span class="sy0">:</span> <span class="br0">&#91;</span>
+            <span class="st0">&quot;Wiktionary-logo-en.svg&quot;</span><span class="sy0">,</span>
+            <span class="st0">&quot;Disambig_gray.svg&quot;</span>
+        <span class="br0">&#93;</span><span class="sy0">,</span>
+        <span class="st0">&quot;externallinks&quot;</span><span class="sy0">:</span> <span class="br0">&#91;</span><span class="br0">&#93;</span><span class="sy0">,</span>
+        <span class="st0">&quot;sections&quot;</span><span class="sy0">:</span> <span class="br0">&#91;</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;toclevel&quot;</span><span class="sy0">:</span> <span class="nu0">1</span><span class="sy0">,</span>
+                <span class="st0">&quot;level&quot;</span><span class="sy0">:</span> <span class="st0">&quot;2&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;line&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Computers&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;number&quot;</span><span class="sy0">:</span> <span class="st0">&quot;1&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;index&quot;</span><span class="sy0">:</span> <span class="st0">&quot;1&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;fromtitle&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;byteoffset&quot;</span><span class="sy0">:</span> <span class="nu0">62</span><span class="sy0">,</span>
+                <span class="st0">&quot;anchor&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Computers&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;toclevel&quot;</span><span class="sy0">:</span> <span class="nu0">2</span><span class="sy0">,</span>
+                <span class="st0">&quot;level&quot;</span><span class="sy0">:</span> <span class="st0">&quot;3&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;line&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Video games&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;number&quot;</span><span class="sy0">:</span> <span class="st0">&quot;1.1&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;index&quot;</span><span class="sy0">:</span> <span class="st0">&quot;2&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;fromtitle&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;byteoffset&quot;</span><span class="sy0">:</span> <span class="nu0">452</span><span class="sy0">,</span>
+                <span class="st0">&quot;anchor&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Video_games&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;toclevel&quot;</span><span class="sy0">:</span> <span class="nu0">1</span><span class="sy0">,</span>
+                <span class="st0">&quot;level&quot;</span><span class="sy0">:</span> <span class="st0">&quot;2&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;line&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Places&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;number&quot;</span><span class="sy0">:</span> <span class="st0">&quot;2&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;index&quot;</span><span class="sy0">:</span> <span class="st0">&quot;3&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;fromtitle&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;byteoffset&quot;</span><span class="sy0">:</span> <span class="nu0">789</span><span class="sy0">,</span>
+                <span class="st0">&quot;anchor&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Places&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;toclevel&quot;</span><span class="sy0">:</span> <span class="nu0">1</span><span class="sy0">,</span>
+                <span class="st0">&quot;level&quot;</span><span class="sy0">:</span> <span class="st0">&quot;2&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;line&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Transportation&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;number&quot;</span><span class="sy0">:</span> <span class="st0">&quot;3&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;index&quot;</span><span class="sy0">:</span> <span class="st0">&quot;4&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;fromtitle&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;byteoffset&quot;</span><span class="sy0">:</span> <span class="nu0">949</span><span class="sy0">,</span>
+                <span class="st0">&quot;anchor&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Transportation&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;toclevel&quot;</span><span class="sy0">:</span> <span class="nu0">1</span><span class="sy0">,</span>
+                <span class="st0">&quot;level&quot;</span><span class="sy0">:</span> <span class="st0">&quot;2&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;line&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Film and television&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;number&quot;</span><span class="sy0">:</span> <span class="st0">&quot;4&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;index&quot;</span><span class="sy0">:</span> <span class="st0">&quot;5&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;fromtitle&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;byteoffset&quot;</span><span class="sy0">:</span> <span class="nu0">1530</span><span class="sy0">,</span>
+                <span class="st0">&quot;anchor&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Film_and_television&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;toclevel&quot;</span><span class="sy0">:</span> <span class="nu0">1</span><span class="sy0">,</span>
+                <span class="st0">&quot;level&quot;</span><span class="sy0">:</span> <span class="st0">&quot;2&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;line&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Music&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;number&quot;</span><span class="sy0">:</span> <span class="st0">&quot;5&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;index&quot;</span><span class="sy0">:</span> <span class="st0">&quot;6&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;fromtitle&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;byteoffset&quot;</span><span class="sy0">:</span> <span class="nu0">2146</span><span class="sy0">,</span>
+                <span class="st0">&quot;anchor&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Music&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;toclevel&quot;</span><span class="sy0">:</span> <span class="nu0">1</span><span class="sy0">,</span>
+                <span class="st0">&quot;level&quot;</span><span class="sy0">:</span> <span class="st0">&quot;2&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;line&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Publications&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;number&quot;</span><span class="sy0">:</span> <span class="st0">&quot;6&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;index&quot;</span><span class="sy0">:</span> <span class="st0">&quot;7&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;fromtitle&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;byteoffset&quot;</span><span class="sy0">:</span> <span class="nu0">2463</span><span class="sy0">,</span>
+                <span class="st0">&quot;anchor&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Publications&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;toclevel&quot;</span><span class="sy0">:</span> <span class="nu0">1</span><span class="sy0">,</span>
+                <span class="st0">&quot;level&quot;</span><span class="sy0">:</span> <span class="st0">&quot;2&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;line&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Science and technology&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;number&quot;</span><span class="sy0">:</span> <span class="st0">&quot;7&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;index&quot;</span><span class="sy0">:</span> <span class="st0">&quot;8&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;fromtitle&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;byteoffset&quot;</span><span class="sy0">:</span> <span class="nu0">3058</span><span class="sy0">,</span>
+                <span class="st0">&quot;anchor&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Science_and_technology&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;toclevel&quot;</span><span class="sy0">:</span> <span class="nu0">1</span><span class="sy0">,</span>
+                <span class="st0">&quot;level&quot;</span><span class="sy0">:</span> <span class="st0">&quot;2&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;line&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Fictional characters&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;number&quot;</span><span class="sy0">:</span> <span class="st0">&quot;8&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;index&quot;</span><span class="sy0">:</span> <span class="st0">&quot;9&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;fromtitle&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;byteoffset&quot;</span><span class="sy0">:</span> <span class="nu0">3234</span><span class="sy0">,</span>
+                <span class="st0">&quot;anchor&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Fictional_characters&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;toclevel&quot;</span><span class="sy0">:</span> <span class="nu0">1</span><span class="sy0">,</span>
+                <span class="st0">&quot;level&quot;</span><span class="sy0">:</span> <span class="st0">&quot;2&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;line&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Other uses&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;number&quot;</span><span class="sy0">:</span> <span class="st0">&quot;9&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;index&quot;</span><span class="sy0">:</span> <span class="st0">&quot;10&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;fromtitle&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;byteoffset&quot;</span><span class="sy0">:</span> <span class="nu0">4327</span><span class="sy0">,</span>
+                <span class="st0">&quot;anchor&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Other_uses&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;toclevel&quot;</span><span class="sy0">:</span> <span class="nu0">1</span><span class="sy0">,</span>
+                <span class="st0">&quot;level&quot;</span><span class="sy0">:</span> <span class="st0">&quot;2&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;line&quot;</span><span class="sy0">:</span> <span class="st0">&quot;People with the surname&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;number&quot;</span><span class="sy0">:</span> <span class="st0">&quot;10&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;index&quot;</span><span class="sy0">:</span> <span class="st0">&quot;11&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;fromtitle&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;byteoffset&quot;</span><span class="sy0">:</span> <span class="nu0">4870</span><span class="sy0">,</span>
+                <span class="st0">&quot;anchor&quot;</span><span class="sy0">:</span> <span class="st0">&quot;People_with_the_surname&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;toclevel&quot;</span><span class="sy0">:</span> <span class="nu0">1</span><span class="sy0">,</span>
+                <span class="st0">&quot;level&quot;</span><span class="sy0">:</span> <span class="st0">&quot;2&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;line&quot;</span><span class="sy0">:</span> <span class="st0">&quot;See also&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;number&quot;</span><span class="sy0">:</span> <span class="st0">&quot;11&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;index&quot;</span><span class="sy0">:</span> <span class="st0">&quot;12&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;fromtitle&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;byteoffset&quot;</span><span class="sy0">:</span> <span class="nu0">5149</span><span class="sy0">,</span>
+                <span class="st0">&quot;anchor&quot;</span><span class="sy0">:</span> <span class="st0">&quot;See_also&quot;</span>
+            <span class="br0">&#125;</span>
+        <span class="br0">&#93;</span><span class="sy0">,</span>
+        <span class="st0">&quot;displaytitle&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Max&quot;</span><span class="sy0">,</span>
+        <span class="st0">&quot;iwlinks&quot;</span><span class="sy0">:</span> <span class="br0">&#91;</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;prefix&quot;</span><span class="sy0">:</span> <span class="st0">&quot;wiktionary&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;url&quot;</span><span class="sy0">:</span> <span class="st0">&quot;http://en.wiktionary.org/wiki/Max&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;wiktionary:Max&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;prefix&quot;</span><span class="sy0">:</span> <span class="st0">&quot;wiktionary&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;url&quot;</span><span class="sy0">:</span> <span class="st0">&quot;http://en.wiktionary.org/wiki/max&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;wiktionary:max&quot;</span>
+            <span class="br0">&#125;</span>
+        <span class="br0">&#93;</span><span class="sy0">,</span>
+        <span class="st0">&quot;properties&quot;</span><span class="sy0">:</span> <span class="br0">&#91;</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;name&quot;</span><span class="sy0">:</span> <span class="st0">&quot;disambiguation&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;&quot;</span>
+            <span class="br0">&#125;</span><span class="sy0">,</span>
+            <span class="br0">&#123;</span>
+                <span class="st0">&quot;name&quot;</span><span class="sy0">:</span> <span class="st0">&quot;wikibase_item&quot;</span><span class="sy0">,</span>
+                <span class="st0">&quot;*&quot;</span><span class="sy0">:</span> <span class="st0">&quot;Q225238&quot;</span>
+            <span class="br0">&#125;</span>
+        <span class="br0">&#93;</span>
+    <span class="br0">&#125;</span>
+<span class="br0">&#125;</span></pre></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/wiki/Special:ApiHelp">http://en.wikipedia.org/wiki/Special:ApiHelp</a>"</div>
+			</div>
+		</div>
+
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=apioutput\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":169,"wgHostname":"mw1116"});
+}</script>		</body></html>

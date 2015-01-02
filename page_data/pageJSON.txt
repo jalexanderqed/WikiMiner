@@ -1,1 +1,1091 @@
-{}
+{
+  "parse": {
+    "title": "Max Schneider",
+    "revid": 640355556,
+    "text": {
+      "*": "<div class=\"metadata topicon nopopups\" id=\"protected-icon\" style=\"display:none;right:85px\"><a href=\"/wiki/Wikipedia:Protection_policy#pc1\" title=\"All edits by unregistered and new users are subject to review\"><img alt=\"Page protected with pending changes level 1\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Padlock-silver-light.svg/20px-Padlock-silver-light.svg.png\" width=\"20\" height=\"20\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Padlock-silver-light.svg/30px-Padlock-silver-light.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/Padlock-silver-light.svg/40px-Padlock-silver-light.svg.png 2x\" data-file-width=\"128\" data-file-height=\"128\" /></a></div>\n<table class=\"metadata plainlinks ambox ambox-content ambox-BLP_sources\" role=\"presentation\">\n<tr>\n<td class=\"mbox-image\">\n<div style=\"width:52px\"><img alt=\"\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png\" width=\"40\" height=\"40\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x\" data-file-width=\"40\" data-file-height=\"40\" /></div>\n</td>\n<td class=\"mbox-text\"><span class=\"mbox-text-span\">This <a href=\"/wiki/Wikipedia:Biographies_of_living_persons\" title=\"Wikipedia:Biographies of living persons\">biographical article</a> <b>needs additional <a href=\"/wiki/Wikipedia:Citing_sources\" title=\"Wikipedia:Citing sources\">citations</a> for <a href=\"/wiki/Wikipedia:Verifiability\" title=\"Wikipedia:Verifiability\">verification</a></b>. <span class=\"hide-when-compact\">Please help by adding <a href=\"/wiki/Wikipedia:Identifying_reliable_sources\" title=\"Wikipedia:Identifying reliable sources\">reliable sources</a>. Contentious material about living persons that is unsourced or poorly sourced <b>must be removed immediately</b>, especially if potentially <a href=\"/wiki/Defamation\" title=\"Defamation\">libelous</a> or harmful.</span> <small><i>(February 2012)</i></small></span></td>\n</tr>\n</table>\n<table class=\"infobox vcard plainlist\" style=\"width:22em\">\n<tr>\n<th colspan=\"2\" style=\"text-align:center;font-size:125%;font-weight:bold;background-color: #f0e68c\"><span class=\"fn\">Max Schneider</span></th>\n</tr>\n<tr>\n<th scope=\"row\" style=\"text-align:left\">Birth name</th>\n<td class=\"nickname\">Maxwell George Schneider</td>\n</tr>\n<tr>\n<th scope=\"row\" style=\"text-align:left\">Born</th>\n<td><span style=\"display:none\">(<span class=\"bday\">1992-06-21</span>)</span> June 21, 1992 <span class=\"noprint ForceAgeToShow\">(age&#160;22)</span><br />\n<a href=\"/wiki/Manhattan\" title=\"Manhattan\">Manhattan</a>, <a href=\"/wiki/New_York\" title=\"New York\">New York</a>, United States</td>\n</tr>\n<tr>\n<th scope=\"row\" style=\"text-align:left\">Occupation(s)</th>\n<td class=\"role\">\n<div class=\"hlist\">\n<ul>\n<li><a href=\"/wiki/Actor\" title=\"Actor\">Actor</a></li>\n<li><a href=\"/wiki/Musician\" title=\"Musician\">musician</a></li>\n<li><a href=\"/wiki/Singer-songwriter\" title=\"Singer-songwriter\">singer-songwriter</a></li>\n<li><a href=\"/wiki/Model_(person)\" title=\"Model (person)\" class=\"mw-redirect\">model</a></li>\n<li><a href=\"/wiki/Dancer\" title=\"Dancer\" class=\"mw-redirect\">dancer</a></li>\n</ul>\n</div>\n</td>\n</tr>\n<tr>\n<th scope=\"row\" style=\"text-align:left\">Instruments</th>\n<td class=\"note\">\n<div class=\"hlist\">\n<ul>\n<li><a href=\"/wiki/Vocals\" title=\"Vocals\" class=\"mw-redirect\">Vocals</a></li>\n<li><a href=\"/wiki/Guitar\" title=\"Guitar\">guitar</a></li>\n<li><a href=\"/wiki/Ukulele\" title=\"Ukulele\">ukulele</a></li>\n<li><a href=\"/wiki/Piano\" title=\"Piano\">piano</a></li>\n</ul>\n</div>\n</td>\n</tr>\n<tr>\n<th scope=\"row\" style=\"text-align:left\">Years active</th>\n<td>2009–present</td>\n</tr>\n<tr>\n<th scope=\"row\" style=\"text-align:left\">Associated acts</th>\n<td>\n<div class=\"hlist\">\n<ul>\n<li><a href=\"/wiki/Victoria_Justice\" title=\"Victoria Justice\">Victoria Justice</a></li>\n<li><a href=\"/wiki/Kurt_Hugo_Schneider\" title=\"Kurt Hugo Schneider\">Kurt Hugo Schneider</a></li>\n<li><a href=\"/wiki/Sam_Tsui\" title=\"Sam Tsui\">Sam Tsui</a></li>\n<li><a href=\"/wiki/Avery_(singer)\" title=\"Avery (singer)\">Avery</a></li>\n<li><a href=\"/wiki/Savannah_Outen\" title=\"Savannah Outen\">Savannah Outen</a></li>\n<li><a href=\"/wiki/Megan_and_Liz\" title=\"Megan and Liz\">Megan and Liz</a></li>\n<li><a href=\"/w/index.php?title=Second_Minor&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Second Minor (page does not exist)\">Second Minor</a></li>\n<li><a href=\"/wiki/Cody_Simpson\" title=\"Cody Simpson\">Cody Simpson</a></li>\n<li><a href=\"/wiki/Jordan_Pruitt\" title=\"Jordan Pruitt\">Jordan Pruitt</a></li>\n<li><a href=\"/wiki/Keke_Palmer\" title=\"Keke Palmer\">Keke Palmer</a></li>\n</ul>\n</div>\n</td>\n</tr>\n<tr>\n<th scope=\"row\" style=\"text-align:left\">Website</th>\n<td><a rel=\"nofollow\" class=\"external text\" href=\"http://maxschneider.com/\">maxschneider.com/</a></td>\n</tr>\n</table>\n<p><b>Maxwell George \"Max\" Schneider</b> (born June 21, 1992), known professionally in music as <b>MAX</b>,<sup id=\"cite_ref-1\" class=\"reference\"><a href=\"#cite_note-1\"><span>[</span>1<span>]</span></a></sup> is an American singer-songwriter, dancer, actor, model, and musician.</p>\n<p></p>\n<div id=\"toc\" class=\"toc\">\n<div id=\"toctitle\">\n<h2>Contents</h2>\n</div>\n<ul>\n<li class=\"toclevel-1 tocsection-1\"><a href=\"#Biography\"><span class=\"tocnumber\">1</span> <span class=\"toctext\">Biography</span></a></li>\n<li class=\"toclevel-1 tocsection-2\"><a href=\"#Career\"><span class=\"tocnumber\">2</span> <span class=\"toctext\">Career</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-3\"><a href=\"#2010.E2.80.9312:_collaborations.2C_Rags.2C_.26_How_To_Rock\"><span class=\"tocnumber\">2.1</span> <span class=\"toctext\">2010–12: collaborations, <i>Rags</i>, &amp; <i>How To Rock</i></span></a></li>\n<li class=\"toclevel-2 tocsection-4\"><a href=\"#2013.E2.80.93present:_Nothing_Without_Love\"><span class=\"tocnumber\">2.2</span> <span class=\"toctext\">2013–present: <i>Nothing Without Love</i></span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-5\"><a href=\"#Discography\"><span class=\"tocnumber\">3</span> <span class=\"toctext\">Discography</span></a>\n<ul>\n<li class=\"toclevel-2 tocsection-6\"><a href=\"#Studio_albums\"><span class=\"tocnumber\">3.1</span> <span class=\"toctext\">Studio albums</span></a></li>\n<li class=\"toclevel-2 tocsection-7\"><a href=\"#Extended_plays\"><span class=\"tocnumber\">3.2</span> <span class=\"toctext\">Extended plays</span></a></li>\n<li class=\"toclevel-2 tocsection-8\"><a href=\"#Soundtrack_albums\"><span class=\"tocnumber\">3.3</span> <span class=\"toctext\">Soundtrack albums</span></a></li>\n<li class=\"toclevel-2 tocsection-9\"><a href=\"#Singles\"><span class=\"tocnumber\">3.4</span> <span class=\"toctext\">Singles</span></a></li>\n<li class=\"toclevel-2 tocsection-10\"><a href=\"#Featured_singles\"><span class=\"tocnumber\">3.5</span> <span class=\"toctext\">Featured singles</span></a></li>\n</ul>\n</li>\n<li class=\"toclevel-1 tocsection-11\"><a href=\"#Filmography\"><span class=\"tocnumber\">4</span> <span class=\"toctext\">Filmography</span></a></li>\n<li class=\"toclevel-1 tocsection-12\"><a href=\"#References\"><span class=\"tocnumber\">5</span> <span class=\"toctext\">References</span></a></li>\n<li class=\"toclevel-1 tocsection-13\"><a href=\"#External_links\"><span class=\"tocnumber\">6</span> <span class=\"toctext\">External links</span></a></li>\n</ul>\n</div>\n<p></p>\n<h2><span class=\"mw-headline\" id=\"Biography\">Biography</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/w/index.php?title=Max_Schneider&amp;action=edit&amp;section=1\" title=\"Edit section: Biography\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<p>He began performing at age three and got his first agent at the age of 14.<sup id=\"cite_ref-autogenerated1_2-0\" class=\"reference\"><a href=\"#cite_note-autogenerated1-2\"><span>[</span>2<span>]</span></a></sup> He was the 2010 <a href=\"/wiki/YoungArts\" title=\"YoungArts\">YoungArts</a> Theater Winner. Since then, Max was a swing understudy in 13 the musical covering 4 roles in 2009, and modeled with <a href=\"/wiki/Madonna_(entertainer)\" title=\"Madonna (entertainer)\">Madonna</a> for an international Dolce And Gabbana campaign. He announced in April 2012 that he would tour with Victoria Justice in her \"Make It In America\" tour during Summer 2012. Max and his band, \"The Babes\", did a 20 city tour adding on three extra shows in addition to the Victoria Justice concerts. Max toured with his band, also known as \"Max and the Babes\" in select cities for his \"Nothing Without Love\" tour in the summer of 2013.</p>\n<p>Schneider was raised in Woodstock, New York. He is of half Jewish descent, and was raised Jewish.<sup id=\"cite_ref-3\" class=\"reference\"><a href=\"#cite_note-3\"><span>[</span>3<span>]</span></a></sup><sup id=\"cite_ref-4\" class=\"reference\"><a href=\"#cite_note-4\"><span>[</span>4<span>]</span></a></sup></p>\n<h2><span class=\"mw-headline\" id=\"Career\">Career</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/w/index.php?title=Max_Schneider&amp;action=edit&amp;section=2\" title=\"Edit section: Career\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<h3><span class=\"mw-headline\" id=\"2010.E2.80.9312:_collaborations.2C_Rags.2C_.26_How_To_Rock\">2010–12: collaborations, <i>Rags</i>, &amp; <i>How To Rock</i></span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/w/index.php?title=Max_Schneider&amp;action=edit&amp;section=3\" title=\"Edit section: 2010–12: collaborations, Rags, &amp; How To Rock\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<p>As a songwriter, Max has collaborated with songwriters and producers writing towards his own album and towards other artists. In 2012, Max co-wrote the song \"Show You How To Do\" with Ben Charles for the Disney hit show <i><a href=\"/wiki/Shake_It_Up_(TV_series)\" title=\"Shake It Up (TV series)\">Shake It Up</a></i>. He portrayed Zander in the <a href=\"/wiki/Nickelodeon\" title=\"Nickelodeon\">Nickelodeon</a> TV series <i><a href=\"/wiki/How_to_Rock\" title=\"How to Rock\">How to Rock</a></i>. Zander played the <a href=\"/wiki/Keyboard_instrument\" title=\"Keyboard instrument\">keyboard</a>, <a href=\"/wiki/Guitar\" title=\"Guitar\">guitar</a>, and <a href=\"/wiki/Ukulele\" title=\"Ukulele\">ukulele</a> in Gravity 5. The show ended in December 2012, after its first season. He also sold a song to the show called \"Last 1 Standing\", co-written by Matt Wong and Claire Demorest, which is featured in 2 episodes of the series. Max also starred in the <a href=\"/wiki/Nickelodeon\" title=\"Nickelodeon\">Nickelodeon</a> original film <i><a href=\"/wiki/Rags_(2012_film)\" title=\"Rags (2012 film)\">Rags</a></i> as Charlie Prince, the lead role in the film. In late 2012, Max placed another song with Cody Simpson for his album <i><a href=\"/wiki/Paradise_(Cody_Simpson_album)\" title=\"Paradise (Cody Simpson album)\">Paradise</a></i> entitled \"Standing in China\". Max has multiple original songs featured on his YouTube channel. Max co-wrote the song with Kurt Hugo Schneider and Matt Gerrard and it was featured on the Target exclusive edition of the album. He released his first EP titled <i>First Encounters</i> in 2010.</p>\n<p>He has collaborated with <a href=\"/wiki/Kurt_Hugo_Schneider\" title=\"Kurt Hugo Schneider\">Kurt Schneider</a><sup id=\"cite_ref-5\" class=\"reference\"><a href=\"#cite_note-5\"><span>[</span>5<span>]</span></a></sup> and <a href=\"/wiki/Victoria_Justice\" title=\"Victoria Justice\">Victoria Justice</a> in a <a href=\"/wiki/Bruno_Mars\" title=\"Bruno Mars\">Bruno Mars</a> Medley, <a href=\"/wiki/Maroon_5\" title=\"Maroon 5\">Maroon 5</a> Medley, and a Holiday Medley. He can also be found doing covers with other acts such as Savannah Outen, Megan &amp; Liz and Avery. He has also done a cover of Without You By <a href=\"/wiki/Usher_(entertainer)\" title=\"Usher (entertainer)\">Usher</a>, Breakeven by <a href=\"/wiki/The_Script\" title=\"The Script\">The Script</a>, Suit and Tie by <a href=\"/wiki/Justin_Timberlake\" title=\"Justin Timberlake\">Justin Timberlake</a>, and many more. All of the collaborations Max did with Kurt Schneider can be found on iTunes. The album is called, \"Schneider Brother Covers\", although it should be noted that the two of them aren't actually related at all. Max most commonly refers to his fanbase as \"Schneider Monkeys\".</p>\n<h3><span class=\"mw-headline\" id=\"2013.E2.80.93present:_Nothing_Without_Love\">2013–present: <i>Nothing Without Love</i></span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/w/index.php?title=Max_Schneider&amp;action=edit&amp;section=4\" title=\"Edit section: 2013–present: Nothing Without Love\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<p>Max is now working on an independent LP titled <i>Nothing Without Love</i>. Max has announced that Dan Karp, director and guitar player, will be shooting some of the music videos for the album. The first single off the LP \"Nothing Without Love\" was released on May 21, along with a music video for the song. On May 26, 2013, a music video was released on YouTube with Max and his co-writer Kurt covering \"<a href=\"/wiki/Can%27t_Hold_Us\" title=\"Can't Hold Us\">Can't Hold Us</a>\" by <a href=\"/wiki/Macklemore\" title=\"Macklemore\">Macklemore</a> &amp; <a href=\"/wiki/Ryan_Lewis\" title=\"Ryan Lewis\">Ryan Lewis</a>. An early version of his later single \"Mug Shot\" was featured in the 2014 film <i><a href=\"/wiki/Veronica_Mars_(film)\" title=\"Veronica Mars (film)\">Veronica Mars</a></i> as \"Stick Up.\" \"Mug Shot\" is his first single to be released under the name MAX. He has since gone by MAX musically because he \"[wants the name] to be more of a vehicle for the music\".<sup id=\"cite_ref-6\" class=\"reference\"><a href=\"#cite_note-6\"><span>[</span>6<span>]</span></a></sup> In October 2014, Schneider was featured in two tracks off of <a href=\"/wiki/Hoodie_Allen\" title=\"Hoodie Allen\">Hoodie Allen</a>'s debut album, <i><a href=\"/wiki/People_Keep_Talking\" title=\"People Keep Talking\">People Keep Talking</a></i>.<sup id=\"cite_ref-7\" class=\"reference\"><a href=\"#cite_note-7\"><span>[</span>7<span>]</span></a></sup></p>\n<h2><span class=\"mw-headline\" id=\"Discography\">Discography</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/w/index.php?title=Max_Schneider&amp;action=edit&amp;section=5\" title=\"Edit section: Discography\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<h3><span class=\"mw-headline\" id=\"Studio_albums\">Studio albums</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/w/index.php?title=Max_Schneider&amp;action=edit&amp;section=6\" title=\"Edit section: Studio albums\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<table class=\"wikitable plainrowheaders\" style=\"text-align:center;\">\n<caption>List of albums, with selected chart positions</caption>\n<tr>\n<th scope=\"col\" style=\"width:12em;\">Title</th>\n<th scope=\"col\" style=\"width:16em;\">Album details</th>\n<th scope=\"col\" style=\"width:16em;\">Notes</th>\n</tr>\n<tr>\n<th scope=\"row\"><i>Schneider Brother Covers</i><sup id=\"cite_ref-8\" class=\"reference\"><a href=\"#cite_note-8\"><span>[</span>8<span>]</span></a></sup><br />\n<small>(With <a href=\"/wiki/Kurt_Hugo_Schneider\" title=\"Kurt Hugo Schneider\">Kurt Hugo Schneider</a>)</small></th>\n<td>\n<ul>\n<li>Released: February 10, 2013</li>\n<li>Format: <a href=\"/wiki/Music_download\" title=\"Music download\">digital download</a></li>\n</ul>\n</td>\n<td>\n<ul>\n<li>Breakeven</li>\n<li>It Will Rain (feat. Olivia Noelle)</li>\n<li>Without You</li>\n<li>Not Over You</li>\n<li>Somebody That I Used to Know</li>\n<li>So Sick (feat. <a href=\"/wiki/Sam_Tsui\" title=\"Sam Tsui\">Sam Tsui</a>)</li>\n<li>Running out of Reasons</li>\n<li>Give Me Love</li>\n</ul>\n</td>\n</tr>\n<tr>\n<th scope=\"row\"><i>Nothing Without Love</i></th>\n<td>\n<ul>\n<li>Released: 2014</li>\n<li>Format: <a href=\"/wiki/CD\" title=\"CD\" class=\"mw-redirect\">CD</a>, digital download</li>\n</ul>\n</td>\n<td></td>\n</tr>\n</table>\n<h3><span class=\"mw-headline\" id=\"Extended_plays\">Extended plays</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/w/index.php?title=Max_Schneider&amp;action=edit&amp;section=7\" title=\"Edit section: Extended plays\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<table class=\"wikitable plainrowheaders\" style=\"text-align:center;\">\n<caption>List of albums, with selected chart positions</caption>\n<tr>\n<th scope=\"col\" style=\"width:12em;\">Title</th>\n<th scope=\"col\" style=\"width:16em;\">Album details</th>\n<th scope=\"col\" style=\"width:16em;\">Notes</th>\n</tr>\n<tr>\n<th scope=\"row\"><i>First Encounters</i> <sup id=\"cite_ref-9\" class=\"reference\"><a href=\"#cite_note-9\"><span>[</span>9<span>]</span></a></sup></th>\n<td>\n<ul>\n<li>Released: June 5, 2010</li>\n<li>Format: <a href=\"/wiki/Music_download\" title=\"Music download\">digital download</a></li>\n</ul>\n</td>\n<td>\n<ul>\n<li>The Coconut Song</li>\n<li>My Friends</li>\n<li>What If</li>\n<li>You Don't Know Me</li>\n</ul>\n</td>\n</tr>\n<tr>\n<th scope=\"row\"><i>The Say MAX EP</i> <sup id=\"cite_ref-NewPoliticsRock.com_10-0\" class=\"reference\"><a href=\"#cite_note-NewPoliticsRock.com-10\"><span>[</span>10<span>]</span></a></sup></th>\n<td>\n<ul>\n<li>Released: May 13, 2014</li>\n<li>Format: <a href=\"/wiki/Music_download\" title=\"Music download\">digital download</a></li>\n</ul>\n</td>\n<td>\n<ul>\n<li>Streets Of Gold</li>\n<li>Mug Shot</li>\n<li>Darling</li>\n<li>Puppeteer</li>\n</ul>\n</td>\n</tr>\n</table>\n<h3><span class=\"mw-headline\" id=\"Soundtrack_albums\">Soundtrack albums</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/w/index.php?title=Max_Schneider&amp;action=edit&amp;section=8\" title=\"Edit section: Soundtrack albums\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<table class=\"wikitable plainrowheaders\" style=\"text-align:center;\">\n<caption>List of albums, with selected chart positions</caption>\n<tr>\n<th scope=\"col\" rowspan=\"2\" style=\"width:12em;\">Title</th>\n<th scope=\"col\" rowspan=\"2\" style=\"width:18em;\">Album details</th>\n<th scope=\"col\" colspan=\"4\">Peak chart positions</th>\n</tr>\n<tr>\n<th scope=\"col\" style=\"width:3em;font-size:90%;\"><a href=\"/wiki/Billboard_200\" title=\"Billboard 200\">US</a><br />\n<sup id=\"cite_ref-ost_11-0\" class=\"reference\"><a href=\"#cite_note-ost-11\"><span>[</span>11<span>]</span></a></sup></th>\n<th scope=\"col\" style=\"width:3em;font-size:90%;\"><a href=\"/wiki/Top_Soundtracks\" title=\"Top Soundtracks\" class=\"mw-redirect\">US<br />\nOST</a><br />\n<sup id=\"cite_ref-ost_11-1\" class=\"reference\"><a href=\"#cite_note-ost-11\"><span>[</span>11<span>]</span></a></sup></th>\n<th scope=\"col\" style=\"width:3em;font-size:90%;\"><a href=\"/wiki/Independent_Albums\" title=\"Independent Albums\">US<br />\nIndie</a><br />\n<sup id=\"cite_ref-ost_11-2\" class=\"reference\"><a href=\"#cite_note-ost-11\"><span>[</span>11<span>]</span></a></sup></th>\n<th scope=\"col\" style=\"width:3em;font-size:90%;\"><a href=\"/wiki/Kid_Albums\" title=\"Kid Albums\">US<br />\nKids</a><br />\n<sup id=\"cite_ref-ost_11-3\" class=\"reference\"><a href=\"#cite_note-ost-11\"><span>[</span>11<span>]</span></a></sup></th>\n</tr>\n<tr>\n<th scope=\"row\"><i><a href=\"/wiki/Rags_(2012_film)\" title=\"Rags (2012 film)\">Rags</a></i></th>\n<td>\n<ul>\n<li>Released: May 22, 2012</li>\n<li>Formats: <a href=\"/wiki/CD\" title=\"CD\" class=\"mw-redirect\">CD</a>, digital download</li>\n<li>Label: <a href=\"/wiki/Nick_Records\" title=\"Nick Records\">Nick Records</a> / <a href=\"/wiki/Columbia_Records\" title=\"Columbia Records\">Columbia</a></li>\n</ul>\n</td>\n<td>56</td>\n<td>3</td>\n<td>—</td>\n<td>1</td>\n</tr>\n<tr>\n<td align=\"center\" colspan=\"7\" style=\"font-size:8pt\">\"—\" denotes releases that did not chart or were not released in that territory.</td>\n</tr>\n</table>\n<h3><span class=\"mw-headline\" id=\"Singles\">Singles</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/w/index.php?title=Max_Schneider&amp;action=edit&amp;section=9\" title=\"Edit section: Singles\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<table class=\"wikitable plainrowheaders\" style=\"text-align:center;\" border=\"1\">\n<caption>List of singles, with selected chart positions and certifications</caption>\n<tr>\n<th scope=\"col\" rowspan=\"2\" style=\"width:18em;\">Title</th>\n<th scope=\"col\" rowspan=\"2\">Year</th>\n<th scope=\"col\" colspan=\"3\">Peak chart positions</th>\n<th scope=\"col\" rowspan=\"2\">Album</th>\n</tr>\n<tr>\n<th scope=\"col\" style=\"width:3em;font-size:90%;\"><a href=\"/wiki/Billboard_Hot_100\" title=\"Billboard Hot 100\">US</a></th>\n<th scope=\"col\" style=\"width:3em;font-size:90%;\"><a href=\"/wiki/Pop_100\" title=\"Pop 100\">US<br />\nPop</a><br /></th>\n<th scope=\"col\" style=\"width:3em;font-size:90%;\"><a href=\"/wiki/UK_Singles_Chart\" title=\"UK Singles Chart\">UK</a></th>\n</tr>\n<tr>\n<th scope=\"row\">\"Nothing Without Love\" <sup id=\"cite_ref-12\" class=\"reference\"><a href=\"#cite_note-12\"><span>[</span>12<span>]</span></a></sup></th>\n<td rowspan=\"1\">2013</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td align=\"center\" rowspan=\"1\">non album song</td>\n</tr>\n<tr>\n<th scope=\"row\">\"Mug Shot\" <sup id=\"cite_ref-13\" class=\"reference\"><a href=\"#cite_note-13\"><span>[</span>13<span>]</span></a></sup></th>\n<td rowspan=\"3\">2014</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td align=\"center\" rowspan=\"2\"><i>The Say MAX EP</i> <sup id=\"cite_ref-NewPoliticsRock.com_10-1\" class=\"reference\"><a href=\"#cite_note-NewPoliticsRock.com-10\"><span>[</span>10<span>]</span></a></sup></td>\n</tr>\n<tr>\n<th scope=\"row\">\"Streets of Gold\" <sup id=\"cite_ref-14\" class=\"reference\"><a href=\"#cite_note-14\"><span>[</span>14<span>]</span></a></sup></th>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n</tr>\n<tr>\n<th scope=\"row\">\"Shot of Pure Gold\" <sup id=\"cite_ref-15\" class=\"reference\"><a href=\"#cite_note-15\"><span>[</span>15<span>]</span></a></sup></th>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>non album song</td>\n</tr>\n<tr>\n<td align=\"center\" colspan=\"15\" style=\"font-size:8pt\">\"—\" denotes releases that did not chart or were not released in that territory.</td>\n</tr>\n</table>\n<h3><span class=\"mw-headline\" id=\"Featured_singles\">Featured singles</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/w/index.php?title=Max_Schneider&amp;action=edit&amp;section=10\" title=\"Edit section: Featured singles\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<table class=\"wikitable plainrowheaders\" style=\"text-align:center;\" border=\"1\">\n<caption>List of singles, with selected chart positions and certifications</caption>\n<tr>\n<th scope=\"col\" rowspan=\"2\" style=\"width:18em;\">Title</th>\n<th scope=\"col\" rowspan=\"2\">Year</th>\n<th scope=\"col\" colspan=\"3\">Peak chart positions</th>\n<th scope=\"col\" rowspan=\"2\">Album</th>\n</tr>\n<tr>\n<th scope=\"col\" style=\"width:3em;font-size:90%;\"><a href=\"/wiki/Billboard_Hot_100\" title=\"Billboard Hot 100\">US</a></th>\n<th scope=\"col\" style=\"width:3em;font-size:90%;\"><a href=\"/wiki/Pop_100\" title=\"Pop 100\">US<br />\nPop</a><br />\n<sup id=\"cite_ref-pop100_16-0\" class=\"reference\"><a href=\"#cite_note-pop100-16\"><span>[</span>16<span>]</span></a></sup></th>\n<th scope=\"col\" style=\"width:3em;font-size:90%;\"><a href=\"/wiki/UK_Singles_Chart\" title=\"UK Singles Chart\">UK</a><br />\n<sup id=\"cite_ref-17\" class=\"reference\"><a href=\"#cite_note-17\"><span>[</span>17<span>]</span></a></sup></th>\n</tr>\n<tr>\n<th scope=\"row\">\"<a href=\"/wiki/Me_and_You_Against_the_World\" title=\"Me and You Against the World\" class=\"mw-redirect\">Me and You Against the World</a>\"<sup class=\"reference\" id=\"ref_note_a1\"><a href=\"#endnote_note_a1\">[A]</a></sup><br />\n<small>(<a href=\"/wiki/Keke_Palmer\" title=\"Keke Palmer\">Keke Palmer</a> featuring Max Schneider)</small></th>\n<td rowspan=\"1\">2012</td>\n<td>102</td>\n<td>—</td>\n<td>196</td>\n<td align=\"center\" rowspan=\"1\"><i><a href=\"/wiki/Rags_(2012_film)\" title=\"Rags (2012 film)\">Rags</a></i></td>\n</tr>\n<tr>\n<td align=\"center\" colspan=\"15\" style=\"font-size:8pt\">\"—\" denotes releases that did not chart or were not released in that territory.</td>\n</tr>\n</table>\n<dl>\n<dt>Notes</dt>\n</dl>\n<ul>\n<li><b>A</b> <span class=\"citation wikicite\" id=\"endnote_note_a1\"><b><a href=\"#ref_note_a1\">^</a></b></span> \"Me and You Against the World\" did not enter the <i>Billboard</i> Hot 100 but peaked on the <a href=\"/wiki/Bubbling_Under_Hot_100_Singles\" title=\"Bubbling Under Hot 100 Singles\">Bubbling Under Hot 100 Singles</a> chart at two.</li>\n</ul>\n<h2><span class=\"mw-headline\" id=\"Filmography\">Filmography</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/w/index.php?title=Max_Schneider&amp;action=edit&amp;section=11\" title=\"Edit section: Filmography\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<table class=\"wikitable\">\n<tr style=\"background:#ccc; text-align:center;\">\n<th colspan=\"4\" style=\"background: LightSteelBlue;\">Film</th>\n</tr>\n<tr style=\"background:#ccc; text-align:center;\">\n<th style=\"text-align:center;\">Year</th>\n<th style=\"width:200px;\">Film</th>\n<th style=\"width:150px;\">Role</th>\n<th>Notes</th>\n</tr>\n<tr>\n<td>2012</td>\n<td><i><a href=\"/wiki/Rags_(2012_film)\" title=\"Rags (2012 film)\">Rags</a></i></td>\n<td>Charlie Prince</td>\n<td>Lead Role</td>\n</tr>\n<tr>\n<td>2013</td>\n<td><i>The Last Keepers</i></td>\n<td>Lance</td>\n<td>Post-production</td>\n</tr>\n<tr style=\"background:#ccc;\">\n<th colspan=\"4\" style=\"background: LightSteelBlue;\">Television</th>\n</tr>\n<tr style=\"background:#ccc; text-align:center;\">\n<th>Year</th>\n<th>Title</th>\n<th>Role</th>\n<th>Notes</th>\n</tr>\n<tr>\n<td>2009</td>\n<td><i><a href=\"/wiki/Law_%26_Order:_Special_Victims_Unit\" title=\"Law &amp; Order: Special Victims Unit\">Law &amp; Order: Special Victims Unit</a></i></td>\n<td>Justin McTeague</td>\n<td>\"<a href=\"/wiki/Law_%26_Order:_Special_Victims_Unit_(season_10)#ep15\" title=\"Law &amp; Order: Special Victims Unit (season 10)\">Lead</a>\" (season 10: episode 15)</td>\n</tr>\n<tr>\n<td>2010</td>\n<td><i><a href=\"/wiki/One_Life_to_Live\" title=\"One Life to Live\">One Life to Live</a></i></td>\n<td>Main Dancer</td>\n<td>2 episodes</td>\n</tr>\n<tr>\n<td rowspan=\"2\">2011</td>\n<td><i><a href=\"/wiki/Worldwide_Day_of_Play\" title=\"Worldwide Day of Play\">Worldwide Day of Play</a></i></td>\n<td rowspan=\"2\">Himself</td>\n<td>TV special</td>\n</tr>\n<tr>\n<td><i><a href=\"/wiki/TeenNick_HALO_Awards\" title=\"TeenNick HALO Awards\">TeenNick HALO Awards</a></i></td>\n<td>Award show</td>\n</tr>\n<tr>\n<td rowspan=\"3\">2012-2013</td>\n<td><i><a href=\"/wiki/How_to_Rock\" title=\"How to Rock\">How to Rock</a></i></td>\n<td>Zander Robbins</td>\n<td>Main role in an Ensemble Cast</td>\n</tr>\n<tr>\n<td><i><a href=\"/wiki/Figure_It_Out\" title=\"Figure It Out\">Figure It Out</a></i></td>\n<td>Himself</td>\n<td>Panelist (7 episodes)</td>\n</tr>\n<tr>\n<td><i><a href=\"/wiki/Beauty_%26_the_Beast_(2012_TV_series)\" title=\"Beauty &amp; the Beast (2012 TV series)\">Beauty &amp; the Beast</a></i></td>\n<td>Jake Riley (Teen Pop Star)</td>\n<td>\"<a href=\"/wiki/Beauty_%26_the_Beast_(2012_TV_series)#ep8\" title=\"Beauty &amp; the Beast (2012 TV series)\">Trapped</a>\" (season 1: episode 8)</td>\n</tr>\n<tr>\n<td rowspan=\"1\">2014</td>\n<td><i><a href=\"/wiki/Crisis_(TV_series)\" title=\"Crisis (TV series)\">Crisis</a></i></td>\n<td>Ian</td>\n<td>Main Role</td>\n</tr>\n<tr>\n<td rowspan=\"1\">2014</td>\n<td><i><a href=\"/wiki/Love_and_Mercy_(film)\" title=\"Love and Mercy (film)\">Love and Mercy</a></i></td>\n<td><a href=\"/wiki/Van_Dyke_Parks\" title=\"Van Dyke Parks\">Van Dyke Parks</a></td>\n<td>Post-production</td>\n</tr>\n</table>\n<h2><span class=\"mw-headline\" id=\"References\">References</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/w/index.php?title=Max_Schneider&amp;action=edit&amp;section=12\" title=\"Edit section: References\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<div class=\"reflist\" style=\"list-style-type: decimal;\">\n<ol class=\"references\">\n<li id=\"cite_note-1\"><span class=\"mw-cite-backlink\"><b><a href=\"#cite_ref-1\">^</a></b></span> <span class=\"reference-text\"><span class=\"citation web\">Schneider, Max. <a rel=\"nofollow\" class=\"external text\" href=\"https://twitter.com/Maxgschneider/status/549715631839649792\">\"MAX on Twitter: \"@meganmusic99 wanted my name to be...<span style=\"padding-right:0.2em;\">\"</span>\"</a>. <i>twitter.com/MaxGSchneider</i>. Max Schneider<span class=\"reference-accessdate\">. Retrieved <span class=\"nowrap\">30 December</span> 2014</span>.</span><span title=\"ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMax+Schneider&amp;rft.atitle=MAX+on+Twitter%3A+%22%40meganmusic99+wanted+my+name+to+be...%22&amp;rft.aufirst=Max&amp;rft.aulast=Schneider&amp;rft.au=Schneider%2C+Max&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Ftwitter.com%2FMaxgschneider%2Fstatus%2F549715631839649792&amp;rft.jtitle=twitter.com%2FMaxGSchneider&amp;rft.pub=Max+Schneider&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal\" class=\"Z3988\"><span style=\"display:none;\">&#160;</span></span></span></li>\n<li id=\"cite_note-autogenerated1-2\"><span class=\"mw-cite-backlink\"><b><a href=\"#cite_ref-autogenerated1_2-0\">^</a></b></span> <span class=\"reference-text\"><span class=\"citation web\"><a rel=\"nofollow\" class=\"external text\" href=\"http://maxschneider.com/bio/\">\"Max Schneider View Bio\"</a>. <i>maxschneider.com</i><span class=\"reference-accessdate\">. Retrieved <span class=\"nowrap\">February 15,</span> 2012</span>.</span><span title=\"ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMax+Schneider&amp;rft.atitle=Max+Schneider+View+Bio&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fmaxschneider.com%2Fbio%2F&amp;rft.jtitle=maxschneider.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal\" class=\"Z3988\"><span style=\"display:none;\">&#160;</span></span></span></li>\n<li id=\"cite_note-3\"><span class=\"mw-cite-backlink\"><b><a href=\"#cite_ref-3\">^</a></b></span> <span class=\"reference-text\"><span class=\"citation web\"><a rel=\"nofollow\" class=\"external text\" href=\"//www.youtube.com/watch?v=JEq0W-QGq9c\">\"How to Rock Cast at the 2011 Halo Awards\"</a>. YouTube. December 7, 2011<span class=\"reference-accessdate\">. Retrieved <span class=\"nowrap\">March 24,</span> 2012</span>.</span><span title=\"ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMax+Schneider&amp;rft.btitle=How+to+Rock+Cast+at+the+2011+Halo+Awards&amp;rft.date=December+7%2C+2011&amp;rft.genre=book&amp;rft_id=%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJEq0W-QGq9c&amp;rft.pub=YouTube&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook\" class=\"Z3988\"><span style=\"display:none;\">&#160;</span></span></span></li>\n<li id=\"cite_note-4\"><span class=\"mw-cite-backlink\"><b><a href=\"#cite_ref-4\">^</a></b></span> <span class=\"reference-text\"><span class=\"citation web\"><a rel=\"nofollow\" class=\"external text\" href=\"https://twitter.com/Maxgschneider/status/416329416101621760\">\"MAX on Twitter: \"How was everyone's Christmas? Of if you're Jewish (I'm half) how was the Chinese food?<span style=\"padding-right:0.2em;\">\"</span>\"</a>. Twitter.com<span class=\"reference-accessdate\">. Retrieved <span class=\"nowrap\">October 20,</span> 2014</span>.</span><span title=\"ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMax+Schneider&amp;rft.btitle=MAX+on+Twitter%3A+%22How+was+everyone%27s+Christmas%3F+Of+if+you%27re+Jewish+%28I%27m+half%29+how+was+the+Chinese+food%3F%22&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Ftwitter.com%2FMaxgschneider%2Fstatus%2F416329416101621760&amp;rft.pub=Twitter.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook\" class=\"Z3988\"><span style=\"display:none;\">&#160;</span></span></span></li>\n<li id=\"cite_note-5\"><span class=\"mw-cite-backlink\"><b><a href=\"#cite_ref-5\">^</a></b></span> <span class=\"reference-text\"><span class=\"citation web\">Schneider, Kurt. <a rel=\"nofollow\" class=\"external text\" href=\"https://twitter.com/KurtHSchneider/status/549422605753524224\">\"Kurt Schneider on Twitter: \"@PeterDzubay @Maxgschneider always great because...<span style=\"padding-right:0.2em;\">\"</span>\"</a>. <i>twitter.com/KurtHSchneider</i>. Kurt Hugo Schneider<span class=\"reference-accessdate\">. Retrieved <span class=\"nowrap\">29 December</span> 2014</span>.</span><span title=\"ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMax+Schneider&amp;rft.atitle=Kurt+Schneider+on+Twitter%3A+%22%40PeterDzubay+%40Maxgschneider+always+great+because...%22&amp;rft.aufirst=Kurt&amp;rft.aulast=Schneider&amp;rft.au=Schneider%2C+Kurt&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Ftwitter.com%2FKurtHSchneider%2Fstatus%2F549422605753524224&amp;rft.jtitle=twitter.com%2FKurtHSchneider&amp;rft.pub=Kurt+Hugo+Schneider&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal\" class=\"Z3988\"><span style=\"display:none;\">&#160;</span></span></span></li>\n<li id=\"cite_note-6\"><span class=\"mw-cite-backlink\"><b><a href=\"#cite_ref-6\">^</a></b></span> <span class=\"reference-text\"><span class=\"citation web\">Schneider, Max. <a rel=\"nofollow\" class=\"external text\" href=\"https://twitter.com/Maxgschneider/status/549715631839649792\">\"MAX on Twitter: \"@meganmusic99 wanted my name to be...<span style=\"padding-right:0.2em;\">\"</span>\"</a>. <i>twitter.com/MaxGSchneider</i>. Max Schneider<span class=\"reference-accessdate\">. Retrieved <span class=\"nowrap\">30 December</span> 2014</span>. <q>wanted it to be more of a vehicle for the music</q></span><span title=\"ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMax+Schneider&amp;rft.atitle=MAX+on+Twitter%3A+%22%40meganmusic99+wanted+my+name+to+be...%22&amp;rft.aufirst=Max&amp;rft.aulast=Schneider&amp;rft.au=Schneider%2C+Max&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Ftwitter.com%2FMaxgschneider%2Fstatus%2F549715631839649792&amp;rft.jtitle=twitter.com%2FMaxGSchneider&amp;rft.pub=Max+Schneider&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal\" class=\"Z3988\"><span style=\"display:none;\">&#160;</span></span></span></li>\n<li id=\"cite_note-7\"><span class=\"mw-cite-backlink\"><b><a href=\"#cite_ref-7\">^</a></b></span> <span class=\"reference-text\"><span class=\"citation web\">Laurence, Emily. <a rel=\"nofollow\" class=\"external text\" href=\"http://www.metro.us/newyork/entertainment/music/2014/10/08/hoodie-allen/\">\"Hoodie Allen brings the party with ‘People Keep Talking’\"</a>. <i>Metro US</i><span class=\"reference-accessdate\">. Retrieved <span class=\"nowrap\">11 October</span> 2014</span>.</span><span title=\"ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMax+Schneider&amp;rft.atitle=Hoodie+Allen+brings+the+party+with+%E2%80%98People+Keep+Talking%E2%80%99&amp;rft.aufirst=Emily&amp;rft.aulast=Laurence&amp;rft.au=Laurence%2C+Emily&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.metro.us%2Fnewyork%2Fentertainment%2Fmusic%2F2014%2F10%2F08%2Fhoodie-allen%2F&amp;rft.jtitle=Metro+US&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal\" class=\"Z3988\"><span style=\"display:none;\">&#160;</span></span></span></li>\n<li id=\"cite_note-8\"><span class=\"mw-cite-backlink\"><b><a href=\"#cite_ref-8\">^</a></b></span> <span class=\"reference-text\"><span class=\"citation web\"><a rel=\"nofollow\" class=\"external text\" href=\"https://itunes.apple.com/us/album/schneider-brother-covers/id601934694\">\"iTunes - Music - Schneider Brother Covers by Max Schneider\"</a>. <i>iTunes</i><span class=\"reference-accessdate\">. Retrieved <span class=\"nowrap\">October 20,</span> 2014</span>.</span><span title=\"ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMax+Schneider&amp;rft.atitle=iTunes+-+Music+-+Schneider+Brother+Covers+by+Max+Schneider&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fitunes.apple.com%2Fus%2Falbum%2Fschneider-brother-covers%2Fid601934694&amp;rft.jtitle=iTunes&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal\" class=\"Z3988\"><span style=\"display:none;\">&#160;</span></span></span></li>\n<li id=\"cite_note-9\"><span class=\"mw-cite-backlink\"><b><a href=\"#cite_ref-9\">^</a></b></span> <span class=\"reference-text\"><span class=\"citation web\"><a rel=\"nofollow\" class=\"external text\" href=\"https://itunes.apple.com/us/album/first-encounters/id377275340\">\"iTunes - Music - First Encounters by Max Schneider\"</a>. <i>iTunes</i><span class=\"reference-accessdate\">. Retrieved <span class=\"nowrap\">October 20,</span> 2014</span>.</span><span title=\"ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMax+Schneider&amp;rft.atitle=iTunes+-+Music+-+First+Encounters+by+Max+Schneider&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fitunes.apple.com%2Fus%2Falbum%2Ffirst-encounters%2Fid377275340&amp;rft.jtitle=iTunes&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal\" class=\"Z3988\"><span style=\"display:none;\">&#160;</span></span></span></li>\n<li id=\"cite_note-NewPoliticsRock.com-10\"><span class=\"mw-cite-backlink\">^ <a href=\"#cite_ref-NewPoliticsRock.com_10-0\"><sup><i><b>a</b></i></sup></a> <a href=\"#cite_ref-NewPoliticsRock.com_10-1\"><sup><i><b>b</b></i></sup></a></span> <span class=\"reference-text\"><span class=\"citation web\"><a rel=\"nofollow\" class=\"external text\" href=\"http://saymaxohhh.com/post/82097535896\">\"MAX — Ok everyone, you ready?! NEW SONG, NEW TOUR, and...\"</a>. <i>NewPoliticsRock.com</i><span class=\"reference-accessdate\">. Retrieved <span class=\"nowrap\">October 20,</span> 2014</span>.</span><span title=\"ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMax+Schneider&amp;rft.atitle=MAX+%E2%80%94+Ok+everyone%2C+you+ready%3F%21+NEW+SONG%2C+NEW+TOUR%2C+and...&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fsaymaxohhh.com%2Fpost%2F82097535896&amp;rft.jtitle=NewPoliticsRock.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal\" class=\"Z3988\"><span style=\"display:none;\">&#160;</span></span></span></li>\n<li id=\"cite_note-ost-11\"><span class=\"mw-cite-backlink\">^ <a href=\"#cite_ref-ost_11-0\"><sup><i><b>a</b></i></sup></a> <a href=\"#cite_ref-ost_11-1\"><sup><i><b>b</b></i></sup></a> <a href=\"#cite_ref-ost_11-2\"><sup><i><b>c</b></i></sup></a> <a href=\"#cite_ref-ost_11-3\"><sup><i><b>d</b></i></sup></a></span> <span class=\"reference-text\">List of soundtrack albums by Keke Palmer on Billboard charts:</span>\n<ul>\n<li><span class=\"reference-text\">Rags: <span class=\"citation web\"><a rel=\"nofollow\" class=\"external text\" href=\"http://www.allmusic.com/album/rags-music-from-the-original-movie-mw0002390172/awards\">\"Rags [Music From the Original Movie]\"</a>. <i><a href=\"/wiki/AllMusic\" title=\"AllMusic\">AllMusic</a></i><span class=\"reference-accessdate\">. Retrieved <span class=\"nowrap\">October 17,</span> 2012</span>.</span><span title=\"ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMax+Schneider&amp;rft.atitle=Rags+%5BMusic+From+the+Original+Movie%5D&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Falbum%2Frags-music-from-the-original-movie-mw0002390172%2Fawards&amp;rft.jtitle=AllMusic&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal\" class=\"Z3988\"><span style=\"display:none;\">&#160;</span></span></span></li>\n</ul>\n</li>\n<li id=\"cite_note-12\"><span class=\"mw-cite-backlink\"><b><a href=\"#cite_ref-12\">^</a></b></span> <span class=\"reference-text\"><a rel=\"nofollow\" class=\"external text\" href=\"https://itunes.apple.com/us/album/nothing-without-love-single/id646652826\">Nothing Without Love</a> iTunes</span></li>\n<li id=\"cite_note-13\"><span class=\"mw-cite-backlink\"><b><a href=\"#cite_ref-13\">^</a></b></span> <span class=\"reference-text\"><a rel=\"nofollow\" class=\"external autonumber\" href=\"http://www.nickutopia.com/2014/02/06/max-schneider-announces-mug-shot-song-and-video/\">[1]</a><sup class=\"noprint Inline-Template\"><span style=\"white-space: nowrap;\">[<i><a href=\"/wiki/Wikipedia:Link_rot\" title=\"Wikipedia:Link rot\"><span title=\"&#160;since October 2014\">dead link</span></a></i>]</span></sup></span></li>\n<li id=\"cite_note-14\"><span class=\"mw-cite-backlink\"><b><a href=\"#cite_ref-14\">^</a></b></span> <span class=\"reference-text\"><span class=\"citation web\"><a rel=\"nofollow\" class=\"external text\" href=\"http://www.idolator.com/7513072/max-streets-of-gold-premiere\">\"MAX’s \"Streets Of Gold\": Idolator Premiere - Music News, Reviews, and Gossip on Idolator.com\"</a>. <i>Music News, Reviews, and Gossip on Idolator.com</i><span class=\"reference-accessdate\">. Retrieved <span class=\"nowrap\">October 20,</span> 2014</span>.</span><span title=\"ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMax+Schneider&amp;rft.atitle=MAX%E2%80%99s+%22Streets+Of+Gold%22%3A+Idolator+Premiere+-+Music+News%2C+Reviews%2C+and+Gossip+on+Idolator.com&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.idolator.com%2F7513072%2Fmax-streets-of-gold-premiere&amp;rft.jtitle=Music+News%2C+Reviews%2C+and+Gossip+on+Idolator.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal\" class=\"Z3988\"><span style=\"display:none;\">&#160;</span></span></span></li>\n<li id=\"cite_note-15\"><span class=\"mw-cite-backlink\"><b><a href=\"#cite_ref-15\">^</a></b></span> <span class=\"reference-text\"><span class=\"citation web\"><a rel=\"nofollow\" class=\"external text\" href=\"https://twitter.com/MaxGSchneider/status/481104220087939072\">\"MAX on Twitter: \"If you guys didn't know already I put out a new song FOR FREE. \"Shot Of Pure Gold<span style=\"padding-right:0.2em;\">\"</span>\"</a>. Twitter.com<span class=\"reference-accessdate\">. Retrieved <span class=\"nowrap\">October 20,</span> 2014</span>.</span><span title=\"ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMax+Schneider&amp;rft.btitle=MAX+on+Twitter%3A+%22If+you+guys+didn%27t+know+already+I+put+out+a+new+song+FOR+FREE.+%22Shot+Of+Pure+Gold%22&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Ftwitter.com%2FMaxGSchneider%2Fstatus%2F481104220087939072&amp;rft.pub=Twitter.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook\" class=\"Z3988\"><span style=\"display:none;\">&#160;</span></span></span></li>\n<li id=\"cite_note-pop100-16\"><span class=\"mw-cite-backlink\"><b><a href=\"#cite_ref-pop100_16-0\">^</a></b></span> <span class=\"reference-text\"><span class=\"citation web\"><a rel=\"nofollow\" class=\"external text\" href=\"http://www.allmusic.com/artist/keke-palmer-p796147/charts-awards/billboard-singles\">\"Billboard Pop 100: Keke Palmer Singles Chart History\"</a>. Allmusic<span class=\"reference-accessdate\">. Retrieved <span class=\"nowrap\">May 13,</span> 2010</span>.</span><span title=\"ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMax+Schneider&amp;rft.btitle=Billboard+Pop+100%3A+Keke+Palmer+Singles+Chart+History&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Fartist%2Fkeke-palmer-p796147%2Fcharts-awards%2Fbillboard-singles&amp;rft.pub=Allmusic&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook\" class=\"Z3988\"><span style=\"display:none;\">&#160;</span></span></span></li>\n<li id=\"cite_note-17\"><span class=\"mw-cite-backlink\"><b><a href=\"#cite_ref-17\">^</a></b></span> <span class=\"reference-text\"><span class=\"citation journal\">\"The Official UK Singles Chart for the week ending December 27, 2011\". <i><a href=\"/wiki/ChartsPlus\" title=\"ChartsPlus\" class=\"mw-redirect\">ChartsPlus</a></i> (Milton Keynes: IQ Ware Ltd) (322): 7.</span><span title=\"ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMax+Schneider&amp;rft.atitle=The+Official+UK+Singles+Chart+for+the+week+ending+December+27%2C+2011&amp;rft.genre=article&amp;rft.issue=322&amp;rft.jtitle=ChartsPlus&amp;rft.pages=7&amp;rft.place=Milton+Keynes&amp;rft.pub=IQ+Ware+Ltd&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal\" class=\"Z3988\"><span style=\"display:none;\">&#160;</span></span> <span style=\"display:none;font-size:100%\" class=\"error citation-comment\"><code style=\"color:inherit; border:inherit; padding:inherit;\">|accessdate=</code> requires <code style=\"color:inherit; border:inherit; padding:inherit;\">|url=</code> (<a href=\"/wiki/Help:CS1_errors#accessdate_missing_url\" title=\"Help:CS1 errors\">help</a>)</span></span></li>\n</ol>\n</div>\n<h2><span class=\"mw-headline\" id=\"External_links\">External links</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/w/index.php?title=Max_Schneider&amp;action=edit&amp;section=13\" title=\"Edit section: External links\">edit</a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<ul>\n<li>Max Schneider <a rel=\"nofollow\" class=\"external text\" href=\"http://maxschneider.com\">Website</a></li>\n<li><a rel=\"nofollow\" class=\"external text\" href=\"http://www.imdb.com/name/nm3449343/\">Max Schneider</a> at the <a href=\"/wiki/Internet_Movie_Database\" title=\"Internet Movie Database\">Internet Movie Database</a></li>\n<li><a rel=\"nofollow\" class=\"external text\" href=\"http://www.kickstarter.com/projects/2022036323/max-schneiders-upcoming-album-nothing-without-love\">Nothing Without Love Kickstarter</a></li>\n<li><a rel=\"nofollow\" class=\"external text\" href=\"//www.youtube.com/watch?v=V5OoUG_Ec9I\">Nothing Without Love Question and Answer Video</a></li>\n<li><a rel=\"nofollow\" class=\"external text\" href=\"http://www.kickstarter.com/projects/2022036323/max-schneiders-upcoming-album-nothing-without-love\">Nothing Without Love Kickstarter</a></li>\n</ul>\n<table id=\"persondata\" class=\"persondata noprint\" style=\"border:1px solid #aaa; display:none; speak:none;\">\n<tr>\n<th colspan=\"2\"><a href=\"/wiki/Wikipedia:Persondata\" title=\"Wikipedia:Persondata\">Persondata</a></th>\n</tr>\n<tr>\n<td class=\"persondata-label\" style=\"color:#aaa;\">Name</td>\n<td>Schneider, Maxwell, George</td>\n</tr>\n<tr>\n<td class=\"persondata-label\" style=\"color:#aaa;\">Alternative names</td>\n<td></td>\n</tr>\n<tr>\n<td class=\"persondata-label\" style=\"color:#aaa;\">Short description</td>\n<td>Actor, Musician</td>\n</tr>\n<tr>\n<td class=\"persondata-label\" style=\"color:#aaa;\">Date of birth</td>\n<td>June 21, 1992</td>\n</tr>\n<tr>\n<td class=\"persondata-label\" style=\"color:#aaa;\">Place of birth</td>\n<td>Manhattan, New York, United States</td>\n</tr>\n<tr>\n<td class=\"persondata-label\" style=\"color:#aaa;\">Date of death</td>\n<td></td>\n</tr>\n<tr>\n<td class=\"persondata-label\" style=\"color:#aaa;\">Place of death</td>\n<td></td>\n</tr>\n</table>\n\n\n<!-- \nNewPP limit report\nParsed by mw1205\nCPU time usage: 0.410 seconds\nReal time usage: 0.504 seconds\nPreprocessor visited node count: 1673/1000000\nPreprocessor generated node count: 0/1500000\nPost‐expand include size: 36378/2097152 bytes\nTemplate argument size: 2427/2097152 bytes\nHighest expansion depth: 16/40\nExpensive parser function count: 7/500\nLua time usage: 0.166/10.000 seconds\nLua memory usage: 3.98 MB/50 MB\n-->\n\n<!-- \nTransclusion expansion time report (%,ms,calls,template)\n100.00%  400.016      1 - -total\n 28.83%  115.336      1 - Template:Reflist\n 26.97%  107.894      1 - Template:Pp-pc1\n 16.17%   64.680     14 - Template:Cite_web\n 15.91%   63.639      1 - Template:Infobox_musical_artist\n 12.92%   51.669      1 - Template:Infobox\n  8.58%   34.331      1 - Template:BLP_sources\n  8.42%   33.701      1 - Template:IMDb_name\n  7.02%   28.080      1 - Template:Ambox\n  4.24%   16.942      1 - Template:Use_mdy_dates\n-->\n\n<!-- Saved in parser cache with key enwiki:pcache:idhash:34734093-0!*!0!!en!4!* and timestamp 20150102015034 and revision id 640355556\n -->\n"
+    },
+    "langlinks": [
+      {
+        "lang": "de",
+        "url": "http://de.wikipedia.org/wiki/Max_Schneider_(Schauspieler)",
+        "langname": "German",
+        "autonym": "Deutsch",
+        "*": "Max Schneider (Schauspieler)"
+      },
+      {
+        "lang": "es",
+        "url": "http://es.wikipedia.org/wiki/Max_Schneider",
+        "langname": "Spanish",
+        "autonym": "español",
+        "*": "Max Schneider"
+      },
+      {
+        "lang": "fa",
+        "url": "http://fa.wikipedia.org/wiki/%D9%85%D8%A7%DA%A9%D8%B3_%D8%A7%D8%B4%D9%86%D8%A7%DB%8C%D8%AF%D8%B1",
+        "langname": "Persian",
+        "autonym": "فارسی",
+        "*": "ماکس اشنایدر"
+      },
+      {
+        "lang": "fr",
+        "url": "http://fr.wikipedia.org/wiki/Max_Schneider",
+        "langname": "French",
+        "autonym": "français",
+        "*": "Max Schneider"
+      },
+      {
+        "lang": "ko",
+        "url": "http://ko.wikipedia.org/wiki/%EB%A7%A5%EC%8A%A4_%EC%8A%88%EB%82%98%EC%9D%B4%EB%8D%94",
+        "langname": "Korean",
+        "autonym": "한국어",
+        "*": "맥스 슈나이더"
+      },
+      {
+        "lang": "it",
+        "url": "http://it.wikipedia.org/wiki/Max_Schneider",
+        "langname": "Italian",
+        "autonym": "italiano",
+        "*": "Max Schneider"
+      },
+      {
+        "lang": "nl",
+        "url": "http://nl.wikipedia.org/wiki/Max_Schneider",
+        "langname": "Dutch",
+        "autonym": "Nederlands",
+        "*": "Max Schneider"
+      },
+      {
+        "lang": "pl",
+        "url": "http://pl.wikipedia.org/wiki/Max_Schneider",
+        "langname": "Polish",
+        "autonym": "polski",
+        "*": "Max Schneider"
+      },
+      {
+        "lang": "ru",
+        "url": "http://ru.wikipedia.org/wiki/%D0%A8%D0%BD%D0%B0%D0%B9%D0%B4%D0%B5%D1%80,_%D0%9C%D0%B0%D0%BA%D1%81",
+        "langname": "Russian",
+        "autonym": "русский",
+        "*": "Шнайдер, Макс"
+      },
+      {
+        "lang": "sv",
+        "url": "http://sv.wikipedia.org/wiki/Max_Schneider",
+        "langname": "Swedish",
+        "autonym": "svenska",
+        "*": "Max Schneider"
+      },
+      {
+        "lang": "tr",
+        "url": "http://tr.wikipedia.org/wiki/Max_Schneider",
+        "langname": "Turkish",
+        "autonym": "Türkçe",
+        "*": "Max Schneider"
+      },
+      {
+        "lang": "uk",
+        "url": "http://uk.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BA%D1%81_%D0%A8%D0%BD%D0%B5%D0%B9%D0%B4%D0%B5%D1%80",
+        "langname": "Ukrainian",
+        "autonym": "українська",
+        "*": "Макс Шнейдер"
+      }
+    ],
+    "categories": [
+      {
+        "sortkey": "",
+        "hidden": "",
+        "*": "All_articles_with_dead_external_links"
+      },
+      {
+        "sortkey": "",
+        "hidden": "",
+        "*": "Articles_with_dead_external_links_from_October_2014"
+      },
+      {
+        "sortkey": "",
+        "hidden": "",
+        "*": "Pages_using_citations_with_accessdate_and_no_URL"
+      },
+      {
+        "sortkey": "Max Schneider",
+        "hidden": "",
+        "*": "Wikipedia_pending_changes_protected_pages_(level_1)"
+      },
+      {
+        "sortkey": "Max Schneider",
+        "hidden": "",
+        "*": "Wikipedia_protected_pages_without_expiry"
+      },
+      {
+        "sortkey": "Schneider, Max",
+        "hidden": "",
+        "*": "BLP_articles_lacking_sources_from_February_2012"
+      },
+      {
+        "sortkey": "Schneider, Max",
+        "hidden": "",
+        "*": "Use_mdy_dates_from_February_2012"
+      },
+      {
+        "sortkey": "Schneider, Max",
+        "hidden": "",
+        "*": "Articles_with_hCards"
+      },
+      {
+        "sortkey": "Schneider, Max",
+        "*": "1992_births"
+      },
+      {
+        "sortkey": "Schneider, Max",
+        "*": "Living_people"
+      },
+      {
+        "sortkey": "Schneider, Max",
+        "*": "21st-century_American_male_actors"
+      },
+      {
+        "sortkey": "Schneider, Max",
+        "*": "Male_actors_from_New_York_City"
+      },
+      {
+        "sortkey": "Schneider, Max",
+        "*": "American_male_child_actors"
+      },
+      {
+        "sortkey": "Schneider, Max",
+        "*": "American_child_models"
+      },
+      {
+        "sortkey": "Schneider, Max",
+        "*": "American_male_film_actors"
+      },
+      {
+        "sortkey": "Schneider, Max",
+        "*": "American_child_singers"
+      },
+      {
+        "sortkey": "Schneider, Max",
+        "*": "American_Jews"
+      },
+      {
+        "sortkey": "Schneider, Max",
+        "*": "American_male_models"
+      },
+      {
+        "sortkey": "Schneider, Max",
+        "*": "American_male_singer-songwriters"
+      },
+      {
+        "sortkey": "Schneider, Max",
+        "*": "American_male_dancers"
+      },
+      {
+        "sortkey": "Schneider, Max",
+        "*": "American_male_stage_actors"
+      },
+      {
+        "sortkey": "Schneider, Max",
+        "*": "American_male_television_actors"
+      },
+      {
+        "sortkey": "Schneider, Max",
+        "*": "Jewish_American_male_actors"
+      },
+      {
+        "sortkey": "Schneider, Max",
+        "*": "Jewish_male_models"
+      },
+      {
+        "sortkey": "Schneider, Max",
+        "*": "People_from_Manhattan"
+      },
+      {
+        "sortkey": "Schneider, Max",
+        "*": "American_tenors"
+      },
+      {
+        "sortkey": "Schneider, Max",
+        "*": "People_from_Woodstock,_New_York"
+      }
+    ],
+    "links": [
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "Template:BLP sources"
+      },
+      {
+        "ns": 14,
+        "exists": "",
+        "*": "Category:BLP articles lacking sources from February 2012"
+      },
+      {
+        "ns": 14,
+        "exists": "",
+        "*": "Category:Use mdy dates from February 2012"
+      },
+      {
+        "ns": 14,
+        "exists": "",
+        "*": "Category:Articles with dead external links from October 2014"
+      },
+      {
+        "ns": 4,
+        "exists": "",
+        "*": "Wikipedia:Protection policy"
+      },
+      {
+        "ns": 4,
+        "exists": "",
+        "*": "Wikipedia:Biographies of living persons"
+      },
+      {
+        "ns": 4,
+        "exists": "",
+        "*": "Wikipedia:Citing sources"
+      },
+      {
+        "ns": 4,
+        "exists": "",
+        "*": "Wikipedia:Identifying reliable sources"
+      },
+      {
+        "ns": 4,
+        "exists": "",
+        "*": "Wikipedia:Link rot"
+      },
+      {
+        "ns": 4,
+        "exists": "",
+        "*": "Wikipedia:Persondata"
+      },
+      {
+        "ns": 4,
+        "exists": "",
+        "*": "Wikipedia:Verifiability"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Actor"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "AllMusic"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Avery (singer)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Beauty & the Beast (2012 TV series)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Billboard 200"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Billboard Hot 100"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Bruno Mars"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Bubbling Under Hot 100 Singles"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "CD"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Can't Hold Us"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ChartsPlus"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Cody Simpson"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Columbia Records"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Crisis (TV series)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Dancer"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Defamation"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Figure It Out"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Guitar"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Hoodie Allen"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "How to Rock"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Independent Albums"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Internet Movie Database"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Jordan Pruitt"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Justin Timberlake"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Keke Palmer"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Keyboard instrument"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Kid Albums"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Kurt Hugo Schneider"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Law & Order: Special Victims Unit"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Law & Order: Special Victims Unit (season 10)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Love and Mercy (film)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Macklemore"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Madonna (entertainer)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Manhattan"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Maroon 5"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Me and You Against the World"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Megan and Liz"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Model (person)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Music download"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Musician"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "New York"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Nick Records"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Nickelodeon"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "One Life to Live"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Paradise (Cody Simpson album)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "People Keep Talking"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Piano"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Pop 100"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Rags (2012 film)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Ryan Lewis"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Sam Tsui"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Savannah Outen"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Shake It Up (TV series)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Singer-songwriter"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "TeenNick HALO Awards"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "The Script"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Top Soundtracks"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "UK Singles Chart"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Ukulele"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Usher (entertainer)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Van Dyke Parks"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Veronica Mars (film)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Victoria Justice"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Vocals"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Worldwide Day of Play"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "YoungArts"
+      },
+      {
+        "ns": 0,
+        "*": "Second Minor"
+      },
+      {
+        "ns": 12,
+        "exists": "",
+        "*": "Help:CS1 errors"
+      }
+    ],
+    "templates": [
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "Template:Pp-pc1"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "Template:BLP sources"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "Template:Ambox"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "Template:Use mdy dates"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "Template:DMCA"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "Template:Dated maintenance category"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "Template:FULLROOTPAGENAME"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "Template:Ns has subpages"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "Template:Infobox musical artist"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "Template:Infobox"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "Template:Infobox musical artist/hCard class"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "Template:Infobox musical artist/color"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "Template:Br separated entries"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "Template:Birth date and age"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "Template:MONTHNAME"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "Template:MONTHNUMBER"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "Template:Age"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "Template:Flat list"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "Template:Flatlist"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "Template:Ns0"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "Template:Main other"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "Template:Infobox musical artist/tracking"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "Template:Ref label"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "Template:Note"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "Template:Reflist"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "Template:Cite web"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "Template:Dead link"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "Template:Fix"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "Template:Category handler"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "Template:Fix/category"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "Template:Cite journal"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "Template:IMDb name"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "Template:Str left"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "Template:Trim"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "Template:PAGENAMEBASE"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "Template:Persondata"
+      },
+      {
+        "ns": 828,
+        "exists": "",
+        "*": "Module:Protection banner"
+      },
+      {
+        "ns": 828,
+        "exists": "",
+        "*": "Module:No globals"
+      },
+      {
+        "ns": 828,
+        "exists": "",
+        "*": "Module:File link"
+      },
+      {
+        "ns": 828,
+        "exists": "",
+        "*": "Module:Yesno"
+      },
+      {
+        "ns": 828,
+        "exists": "",
+        "*": "Module:Effective protection level"
+      },
+      {
+        "ns": 828,
+        "exists": "",
+        "*": "Module:Protection banner/config"
+      },
+      {
+        "ns": 828,
+        "exists": "",
+        "*": "Module:Arguments"
+      },
+      {
+        "ns": 828,
+        "exists": "",
+        "*": "Module:Unsubst"
+      },
+      {
+        "ns": 828,
+        "exists": "",
+        "*": "Module:Message box"
+      },
+      {
+        "ns": 828,
+        "exists": "",
+        "*": "Module:Category handler"
+      },
+      {
+        "ns": 828,
+        "exists": "",
+        "*": "Module:Message box/configuration"
+      },
+      {
+        "ns": 828,
+        "exists": "",
+        "*": "Module:Category handler/data"
+      },
+      {
+        "ns": 828,
+        "exists": "",
+        "*": "Module:Category handler/config"
+      },
+      {
+        "ns": 828,
+        "exists": "",
+        "*": "Module:Category handler/shared"
+      },
+      {
+        "ns": 828,
+        "exists": "",
+        "*": "Module:Category handler/blacklist"
+      },
+      {
+        "ns": 828,
+        "exists": "",
+        "*": "Module:Namespace detect/data"
+      },
+      {
+        "ns": 828,
+        "exists": "",
+        "*": "Module:Namespace detect/config"
+      },
+      {
+        "ns": 828,
+        "exists": "",
+        "*": "Module:Ns has subpages"
+      },
+      {
+        "ns": 828,
+        "exists": "",
+        "*": "Module:Infobox"
+      },
+      {
+        "ns": 828,
+        "exists": "",
+        "*": "Module:InfoboxImage"
+      },
+      {
+        "ns": 828,
+        "exists": "",
+        "*": "Module:Br separated entries"
+      },
+      {
+        "ns": 828,
+        "exists": "",
+        "*": "Module:Citation/CS1"
+      },
+      {
+        "ns": 828,
+        "exists": "",
+        "*": "Module:Citation/CS1/Configuration"
+      },
+      {
+        "ns": 828,
+        "exists": "",
+        "*": "Module:Citation/CS1/Whitelist"
+      },
+      {
+        "ns": 828,
+        "exists": "",
+        "*": "Module:Citation/CS1/Date validation"
+      },
+      {
+        "ns": 828,
+        "exists": "",
+        "*": "Module:String"
+      }
+    ],
+    "images": [
+      "Padlock-silver-light.svg",
+      "Ambox_important.svg"
+    ],
+    "externallinks": [
+      "https://twitter.com/Maxgschneider/status/549715631839649792",
+      "http://maxschneider.com/bio/",
+      "//www.youtube.com/watch?v=JEq0W-QGq9c",
+      "https://twitter.com/Maxgschneider/status/416329416101621760",
+      "https://twitter.com/KurtHSchneider/status/549422605753524224",
+      "http://www.metro.us/newyork/entertainment/music/2014/10/08/hoodie-allen/",
+      "https://itunes.apple.com/us/album/schneider-brother-covers/id601934694",
+      "https://itunes.apple.com/us/album/first-encounters/id377275340",
+      "http://saymaxohhh.com/post/82097535896",
+      "http://www.allmusic.com/album/rags-music-from-the-original-movie-mw0002390172/awards",
+      "https://itunes.apple.com/us/album/nothing-without-love-single/id646652826",
+      "http://www.nickutopia.com/2014/02/06/max-schneider-announces-mug-shot-song-and-video/",
+      "http://www.idolator.com/7513072/max-streets-of-gold-premiere",
+      "https://twitter.com/MaxGSchneider/status/481104220087939072",
+      "http://www.allmusic.com/artist/keke-palmer-p796147/charts-awards/billboard-singles",
+      "http://maxschneider.com/",
+      "http://maxschneider.com",
+      "http://www.imdb.com/name/nm3449343/",
+      "http://www.kickstarter.com/projects/2022036323/max-schneiders-upcoming-album-nothing-without-love",
+      "//www.youtube.com/watch?v=V5OoUG_Ec9I"
+    ],
+    "sections": [
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Biography",
+        "number": "1",
+        "index": "1",
+        "fromtitle": "Max_Schneider",
+        "byteoffset": 1390,
+        "anchor": "Biography"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Career",
+        "number": "2",
+        "index": "2",
+        "fromtitle": "Max_Schneider",
+        "byteoffset": 2777,
+        "anchor": "Career"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "2010–12: collaborations, <i>Rags</i>, & <i>How To Rock</i>",
+        "number": "2.1",
+        "index": "3",
+        "fromtitle": "Max_Schneider",
+        "byteoffset": 2789,
+        "anchor": "2010.E2.80.9312:_collaborations.2C_Rags.2C_.26_How_To_Rock"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "2013–present: <i>Nothing Without Love</i>",
+        "number": "2.2",
+        "index": "4",
+        "fromtitle": "Max_Schneider",
+        "byteoffset": 5005,
+        "anchor": "2013.E2.80.93present:_Nothing_Without_Love"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Discography",
+        "number": "3",
+        "index": "5",
+        "fromtitle": "Max_Schneider",
+        "byteoffset": 6490,
+        "anchor": "Discography"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Studio albums",
+        "number": "3.1",
+        "index": "6",
+        "fromtitle": "Max_Schneider",
+        "byteoffset": 6507,
+        "anchor": "Studio_albums"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Extended plays",
+        "number": "3.2",
+        "index": "7",
+        "fromtitle": "Max_Schneider",
+        "byteoffset": 7438,
+        "anchor": "Extended_plays"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Soundtrack albums",
+        "number": "3.3",
+        "index": "8",
+        "fromtitle": "Max_Schneider",
+        "byteoffset": 8447,
+        "anchor": "Soundtrack_albums"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Singles",
+        "number": "3.4",
+        "index": "9",
+        "fromtitle": "Max_Schneider",
+        "byteoffset": 9728,
+        "anchor": "Singles"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Featured singles",
+        "number": "3.5",
+        "index": "10",
+        "fromtitle": "Max_Schneider",
+        "byteoffset": 11561,
+        "anchor": "Featured_singles"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Filmography",
+        "number": "4",
+        "index": "11",
+        "fromtitle": "Max_Schneider",
+        "byteoffset": 13112,
+        "anchor": "Filmography"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "References",
+        "number": "5",
+        "index": "12",
+        "fromtitle": "Max_Schneider",
+        "byteoffset": 14591,
+        "anchor": "References"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "External links",
+        "number": "6",
+        "index": "13",
+        "fromtitle": "Max_Schneider",
+        "byteoffset": 14619,
+        "anchor": "External_links"
+      }
+    ],
+    "displaytitle": "Max Schneider",
+    "iwlinks": [],
+    "properties": [
+      {
+        "name": "defaultsort",
+        "*": "Schneider, Max"
+      },
+      {
+        "name": "wikibase_item",
+        "*": "Q1190160"
+      }
+    ]
+  }
+}

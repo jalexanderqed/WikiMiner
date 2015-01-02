@@ -17,7 +17,7 @@ public class main {
 		
 		System.out.print("Loading page: ");
 		long start = System.currentTimeMillis();
-		String pageText = getUrl("http://en.wikipedia.org/w/api.php?action=parse&page=Max Schneider&contentmodel=json&format=json");
+		String pageText = getUrl("http://en.wikipedia.org/w/api.php?action=parse&page=Max_Schneider&contentmodel=json&format=json");
 		System.out.println(System.currentTimeMillis() - start);
 		
 		System.out.print("Writing first json to file: ");
@@ -25,8 +25,8 @@ public class main {
 		writeToFile("page_data/page.txt", pageText);
 		System.out.println(System.currentTimeMillis() - start);
 
-		
 		WikiPage page = new WikiPage();
+		
 		try{
 			System.out.print("Converting to object: ");
 			start = System.currentTimeMillis();

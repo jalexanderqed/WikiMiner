@@ -4,7 +4,7 @@ import JSONPackages.WikiPage;
 
 public class PageNode {
 	public String name;
-	public WikiPage pageData;
+	public String fileName;
 	public PageNode left;
 	public PageNode right;
 
@@ -12,8 +12,12 @@ public class PageNode {
 		name = n;
 	}
 	
-	public PageNode(String n, WikiPage data){
+	public PageNode(String n, String file){
 		name = n;
-		pageData = data;
+		fileName = file;
+	}
+	
+	public int compareTo(PageNode other){
+		return name.compareTo(other.name);
 	}
 }

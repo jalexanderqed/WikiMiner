@@ -1,0 +1,2775 @@
+{
+  "name": "UK Singles Chart",
+  "links": [
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Use British English from January 2014"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Use dmy dates from January 2014"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Articles with unsourced statements from September 2010"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Articles with unsourced statements from June 2007"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Articles with unsourced statements from February 2010"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Articles with dead external links from December 2012"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Articles with dead external links from June 2012"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Music industry"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:UK Music Charts"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Music industry"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "(Everything I Do) I Do It for You"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "12-inch single"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "1971 United Kingdom postal workers strike"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "1Xtra Chart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "7-inch"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "7-inch single"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "A-side and B-side"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "ABU Song Festivals"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "ARIA Charts"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "ARIA Music Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Adobe Flash"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Al Martino"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Alan Freeman"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Album"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Album cover"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Alexandra Burke"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Amazon.com"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "American Music Award"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Amy Winehouse"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "And?l Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Anugerah Industri Muzik"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ariana Grande"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Arrangement"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Artists and repertoire"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Audio engineering"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Audio format"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Aurel Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Australian Recording Industry Association"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Avant-garde music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "BBC"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "BBC Charter"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "BBC Light Programme"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "BBC Music Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "BBC News"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "BBC One"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "BBC Online"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "BBC Radio 1"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "BBC Radio 2"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "BET Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "BMG Rights Management"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "BMRB Ltd"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Backmasking"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Band Aid (band)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Barcode scanners"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Becky Hill"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Beggars Banquet Records"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Billboard (magazine)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Billboard Hot 100"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Billboard Music Award"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Billie Piper"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Billy Preston"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Black Entertainment Television"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Blag, Steal and Borrow (song)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Blues"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bohemian Rhapsody"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Boney M"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Brasil Hot 100 Airplay"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Brit Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "British Hit Singles & Albums"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "British Library"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "British Phonographic Industry"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Brown Girl in the Ring (song)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bruno Brookes"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bryan Adams"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Cambridge University Press"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Canadian Hot 100"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Canadian Recording Industry Association"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Candle in the Wind 1997"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Candyman (Christina Aguilera song)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Cara Mia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Cash register"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Cassette single"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Channel O Music Video Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "ChartsPlus"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Charts Plus"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Chasing Cars"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Childhood obesity"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Choice Music Prize"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Chris Moyles"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Christian music industry"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Christina Aguilera"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Classic Brit Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Classical Artist Albums Chart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Classical Compilation Albums Chart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Cliff Richard"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Coca-Cola"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Coldplay"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Compact Disc single"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Compact audio cassette"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Competition Commission (United Kingdom)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Complete UK Hit Singles 1952-2006"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Contemporary R&B"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Country Music Television"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Country music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Crazy (Gnarls Barkley song)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Crossover (music)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Dairy Milk"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Dansk Melodi Grand Prix"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Dave McAleer"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "David Jacobs (broadcaster)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "David Whitfield"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Deezer"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Diapason d'Or"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Digital Spy"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Digital object identifier"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Disc (magazine)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Disturbia (song)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Do They Know it's Christmas"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Drum and bass"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "EMI Music Publishing"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Easy listening"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Echo (music award)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ed Sheeran"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Edison Award"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Electronic dance music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Electronica"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Elton John"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Elvis Presley"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Elvis vs. JXL"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Entertainment law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Epson PX-4"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Eurovision Song Contest"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Evening Times"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Experimental music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Extended play"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "FIMI"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Fab 40"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Facebook"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Faith Evans"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Fearne Cotton"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Federazione Industria Musicale Italiana"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Feel Good Inc."
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "FindArticles"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Flexi disc"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Flying Without Wings"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Fnac"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Folk music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Frank Sinatra"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Frankie Goes to Hollywood"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Frankie Laine"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Fresh 40"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Funk"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Fuse TV"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Gaon Single Chart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Gecko (Overdrive)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Girls' School (song)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Gnarls Barkley"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Golden Disk Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Golden Melody Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Gorillaz"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Gospel music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Grammis"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Grammy Award"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Grammy Museum"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Gramophone Award"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Grand Prix du Disque"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Greg James"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Greg James (DJ)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Guinness Book of British Hit Singles"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Guinness Book of British Hit Singles & Albums"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "HMV"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "HMV Group"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hallelujah (Leonard Cohen song)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hand on Your Heart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Heavy metal music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Here in My Heart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "HiT Entertainment"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hidden track"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "High School Musical 2"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "High Street"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hip hop music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hit40UK"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hit40uk"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "HitQuarters"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hit Music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hit Music (Newsletter)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Honey to the Bee"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hot Press"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "I'll Be Missing You"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "ITV (TV network)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "ITunes Store"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "I Believe (1953 song)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "I Will Always Love You"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Idols (TV series)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Iggy Azalea"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Imagem"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "In the Air Tonight"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Independent record label"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Instrumental"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Interim order"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "International Standard Book Number"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "International Standard Serial Number"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Irish Singles Chart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Italian Music Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "JDA Software"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "JK and Joel"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Jameela Jamil"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Janet Jackson"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Japan Gold Disc Award"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Japan Record Award"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Jay-Z"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Jazz"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Jeff Buckley"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Jewel case"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Jimmy Savile"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "John Menzies"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "John Travolta"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Johnnie Walker (DJ)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Juice TV"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Junior Eurovision Song Contest"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Juno Award"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Justin Timberlake"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Kerrang!"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Killing in the Name"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Koopa (band)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Kylie Minogue"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Latin Grammy Award"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Latin music (genre)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Leona Lewis"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Leonard Cohen"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Let It Be (song)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Liquid Audio"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of Mersey Beat number-one singles"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of NME number-one singles"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of Record Mirror number-one singles"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of Top Pops number-one singles"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of UK Albums Chart Christmas number ones"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of UK Albums Chart number ones"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of UK Albums Chart number ones of the 1950s"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of UK Albums Chart number ones of the 1960s"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of UK Albums Chart number ones of the 1970s"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of UK Albums Chart number ones of the 1980s"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of UK Albums Chart number ones of the 1990s"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of UK Albums Chart number ones of the 2000s"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of UK Albums Chart number ones of the 2010s"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of UK Dance Chart number-one albums"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of UK Indie Breakers Chart number ones"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of UK Indie Chart number-one albums"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of UK Official Download Chart number-one albums"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of UK Official Download Chart number-one singles"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of UK R&B Chart number-one albums"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of UK R&B Chart number-one singles"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of UK Rock Chart number-one albums"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of UK Rock Chart number-one singles"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of UK Singles Chart Christmas number ones"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of UK Singles Chart number ones"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of UK Singles Chart number ones of the 1950s"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of UK Singles Chart number ones of the 1960s"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of UK Singles Chart number ones of the 1970s"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of UK Singles Chart number ones of the 1980s"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of UK Singles Chart number ones of the 1990s"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of UK Singles Chart number ones of the 2000s"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of UK Singles Chart number ones of the 2010s"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of UK charts and number-one singles (1952–1969)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of albums which have spent the most weeks on the UK Albums Chart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of artists by number of UK Albums Chart number ones"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of artists by number of UK Singles Chart number ones"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of artists who have achieved simultaneous UK and US number-one albums"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of artists who have achieved simultaneous UK and US number-one singles"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of artists who reached number one on the UK Singles Chart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of best-selling albums by year in the United Kingdom"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of best-selling albums in the United Kingdom"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of best-selling albums of the 1950s in the United Kingdom"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of best-selling albums of the 1960s in the United Kingdom"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of best-selling albums of the 1970s in the United Kingdom"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of best-selling albums of the 1980s in the United Kingdom"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of best-selling albums of the 1990s in the United Kingdom"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of best-selling albums of the 2000s in the United Kingdom"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of best-selling music downloads in the United Kingdom"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of best-selling singles by year in the United Kingdom"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of best-selling singles in the United Kingdom"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of best-selling singles of the 1950s in the United Kingdom"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of best-selling singles of the 1960s in the United Kingdom"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of best-selling singles of the 1970s in the United Kingdom"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of best-selling singles of the 1980s in the United Kingdom"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of best-selling singles of the 1990s in the United Kingdom"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of best-selling singles of the 2000s in the United Kingdom"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of best-selling singles of the 2010s in the United Kingdom"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of best-selling singles of the 20th century in the United Kingdom"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of best-selling singles of the 21st century in the United Kingdom"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of independent UK record labels"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of instrumental number ones on the UK Singles Chart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of million-selling singles in the United Kingdom"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of number-one EPs in the United Kingdom"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of one-hit wonders on the UK Albums Chart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of one-hit wonders on the UK Singles Chart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of popular music genres"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of posthumous number ones on the UK Albums Chart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of posthumous number ones on the UK Singles Chart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of singles which have spent the most weeks on the UK Singles Chart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Lists of UK Dance Chart number-one singles"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Lists of UK Indie Chart number-one singles"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Lists of UK top 10 singles"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Lord Don't Slow Me Down (song)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Love Is All Around"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Love Is All Around (The Troggs song)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Luciano Pavarotti"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Lulu (singer)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "MSN"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "MTV"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "MTV Europe Music Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "MTV Italia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "MTV Russian Music Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "MTV Video Music Award"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "MTV Video Music Brazil"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Macklemore"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Macmillan Publishers"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Madonna (entertainer)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Man in the Mirror"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Maneater (Nelly Furtado song)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mariah Carey"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mark Goodier"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mary's Boy Child – Oh My Lord"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Maxi single"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Media Control Charts"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mediaguide"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Melodi Grand Prix"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Melodifestivalen"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Melody Maker"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mercury Prize"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Meteor Music Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Michael Jackson"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Midweeks"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Millennium bug"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Miller Freeman, Inc."
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Millward Brown"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "MiniDisc"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mojo (magazine)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Motorcycle courier"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Motown"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "MuchMusic"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "MuchMusic Video Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mull of Kintyre (song)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music Canada"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music Week"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music download"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music education"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music executive"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music industry"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music journalism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Black Origin Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music publisher (popular music)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music recording sales certification"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music streaming"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music television"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music venue"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music video"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Musica e Dischi"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Musical instrument"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Musician"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "MyCoke"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "My Way (song)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "NME"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "NRJ Music Award"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Napster"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nelly Furtado"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nessun Dorma"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "New Age music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "New Musical Express"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "New Zealand Music Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Newsbeat"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nielsen Business Media, Inc."
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nielsen Company"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nigeria Entertainment Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "OK!"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Oasis (band)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Office of Fair Trading"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Office of Public Sector Information"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Official Audio Streaming Chart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Official Charts Company"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Official Christian & Gospel Albums Chart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Official Classical Singles Chart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Official New Zealand Music Chart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Official Record Store Chart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Official Subscription Plays Chart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Oliver Heldens"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Olivia Newton-John"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Omnibus Press"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Online music store"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Operatic pop"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Oricon"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pepsi Chart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pepsi Chart (UK)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pete Murray (disc jockey)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Phil Collins"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pick of the Pops"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Point of sale"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pop music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pound sterling"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Premio Nacional de Música"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Press Association"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Princess Diana"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Problem (Ariana Grande song)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Productores de Música de España"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Promoter (entertainment)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Promotion (marketing)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Puff Daddy"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pump It"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Punched card"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Punk rock"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Q (magazine)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Queen (band)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "RIAA certification"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Radio Luxembourg (English)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Radio promotion"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rage Against the Machine"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rara.com"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Record Mirror"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Record Retailer"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Record chart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Record industry"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Record label"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Record producer"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Record shop"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Recording Industry Association of America"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Reggae"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Reggie Yates"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Relax (song)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Release (music)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Research International"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Richard Skinner (broadcaster)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rihanna"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rivers of Babylon"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Road crew"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rock music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rolling Stone"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rose Marie (song)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Run (Snow Patrol song)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ryan Lewis"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sanremo Music Festival"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Say It Right"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Scott Mills"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Scottish Singles and Albums Charts"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Session musician"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "She Loves You"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sheet music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Simon Bates"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Single (music)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Slim Whitman"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Smash Hits"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Snow Patrol"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Some Might Say"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Songwriter"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sony/ATV Music Publishing"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sony Music Entertainment"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Soul Train Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Soul music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Soundtrack"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "South African Music Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Specialist Classical Albums Chart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Spirit (Leona Lewis album)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Spotify"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Star Academy"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Syndicat National de l'Édition Phonographique"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "TEC Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "TRL Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Take That"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Talent manager"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tendered"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Thank Your Lucky Stars (TV series)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Beatles"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Big Top 40 Show"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Black Eyed Peas"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Gallup Organization"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Guardian"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Headies"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Independent"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Jackson 5"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Music Factory"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Net 40"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Network Chart Show"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The New York Times"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Official Chart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Official Chart Company"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Official Charts Company"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Official UK Charts Company"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Pogues"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Shadows"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The UK R&B Chart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Virgin Book of British Hit Singles"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Vodafone Big Top 40"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Voice (TV series)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The X Factor"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The X Factor (UK)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Young Ones (TV series)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The eXpat Chart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Thinking Out Loud (Ed Sheeran song)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Thrift Shop (song)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tom Browne (broadcaster)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tom Browne (broadcaster and actor)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tommy Vance"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tony Blackburn"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Top of the Pops"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Top of the Pops (magazine)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tour promoter"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Trans World Entertainment"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "UKChartsPlus"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "UKHOT40"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "UK Albums Chart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "UK Classical Charts"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "UK Compilation Chart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "UK Dance Chart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "UK Indie Breakers Chart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "UK Indie Chart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "UK Music Charts"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "UK Official Download Chart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "UK R&B Chart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "UK Rock Chart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "UK Singles Chart records and statistics"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "UK Video Charts"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Umbrella (Rihanna song)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Union J"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "United Kingdom"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "United Newspapers"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Universal Music Group"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Universal Music Publishing Group"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "VH1 Classic"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Victoires de la Musique"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Vinyl record"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Violet Hill (song)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Virgin Megastores"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Viva (TV station)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "W H Smith"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Warner/Chappell Music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Warner Music Group"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Wembley Stadium"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Wes Butters"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Westlife"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Wet Wet Wet"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "White label"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Whitney Houston"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Wings (band)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Woolworths Group"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "World Music Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "World in Action"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "World music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Xbox Music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Year 2000 problem"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "You're The One That I Want"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "You Got It All (Union J song)"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Citation needed"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Link rot"
+    },
+    {
+      "ns": 11,
+      "exists": "",
+      "*": "Template talk:Music industry"
+    },
+    {
+      "ns": 11,
+      "exists": "",
+      "*": "Template talk:UK Music Charts"
+    }
+  ]
+}

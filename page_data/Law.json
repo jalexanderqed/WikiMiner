@@ -1,0 +1,5174 @@
+{
+  "name": "Law",
+  "links": [
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Legal concept"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Africa"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Western Sahara"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of North America"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Navassa Island"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of South America"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Asia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Vatican City"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of the European Union"
+    },
+    {
+      "ns": 0,
+      "*": "Law of the European Economic Area"
+    },
+    {
+      "ns": 0,
+      "*": "Law of the Sovereign Military Order of Malta"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Oceania"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Absolute monarchy"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Abstraction principle (law)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Academic degree"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Act of Congress"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Act of Parliament"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Actus reus"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Adam Smith"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Adjudication"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Administration of justice"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Administrative law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Admiralty law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Admission to the bar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Adolf Berle"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "African-American Civil Rights Movement (1955–1968)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Age of Enlightenment"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Agency (law)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Agricultural law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Alexis de Tocqueville"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Alternative dispute resolution"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Analytical jurisprudence"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Anatole France"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ancient Egypt"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ancient Greece"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ancient Greek"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ancient Greek law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ancient Rome"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Anglican Communion"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Antitrust"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Archbishop Anastasios of Albania"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Aristotle"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Armory v Delamirie"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Arthashastra"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Assault (tort)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Assize Court"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Athenian democracy"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Attorney at law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Authority"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Aviation law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Babylonian law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bachelor of Civil Law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bachelor of Laws"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ballot measure"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bank of Sweden Prize"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bank regulation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Banking regulation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bankruptcy"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bankruptcy law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bar (law)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bar association"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bar council"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bargaining"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Barrister"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Battery (tort)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bench (law)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bicameralism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bill (proposed law)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bill of rights"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Binding"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Body politic"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Breach of duty in English law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Brief (law)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "British Empire"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "British Museum"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Brocard (law)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Brown v. Board of Education"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bundestag"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bundesverfassungsgericht"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bureaucracy"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Byzantine Empire"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bürgerliches Gesetzbuch"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "CIA"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Canon law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Capital (economics)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Carl Schmitt"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Carlill v Carbolic Smoke Ball Company"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Case law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Casuistry"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Causation (law)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Central America"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Chambers (law)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Charitable trust"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Charles Pratt, 1st Earl Camden"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Charles de Secondat, Baron de Montesquieu"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Charter"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Charter of Fundamental Rights of the European Union"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Chiang Kai-shek"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Chicago school (economics)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Chimney sweep"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Chinese law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Cicero"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Citizenship"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Civil and political rights"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Civil law(legal system)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Civil law (common law)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Civil law (legal system)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Civil law notary"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Civil liberties"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Civil procedure"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Civil society"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Civilisation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Classical republicanism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Clayton Act"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Climate change"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Code Civil"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Code of Hammurabi"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Code of Ur-Nammu"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Codex Theodosianus"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Codification (law)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Cogers"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Collective bargaining"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Commercial law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Commercialization of space"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Common law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Communist state"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Community service"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Company (law)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Company law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Comparative law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Competition law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Conflict of interest"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Conflict of laws"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Conservation law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Consideration"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Constituency"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Constitution"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Constitution of India"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Constitution of the Athenians"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Constitutional convention (political custom)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Constitutional law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Constitutionality"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Construction law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Consumer protection"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Consumer welfare"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Contract"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Contract law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Contractual terms"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Convention on the Recognition and Enforcement of Foreign Arbitral Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Copyright"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Corporate law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Corporate tax"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Corpus Juris Civilis"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Council of Europe"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Council of State (France)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Counsel"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Cour de cassation (France)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Court"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Court-martial"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Court of Cassation (France)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Court of Chancery"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Courts"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Covenant (law)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Crime against humanity"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Criminal court"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Criminal justice"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Criminal law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Criminal procedure"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Criminology"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Critical legal studies"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Custom (law)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Cyberlaw"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Damages"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Dark Ages (historiography)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "David Hume"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Declaration of the Rights of Man and of the Citizen"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Decree"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Deed"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Defence minister"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Definition of law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Delegated legislation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Deliberative democracy"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Delict"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Deregulation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Derivative (finance)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Digital object identifier"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Dispute resolution"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Divine right of kings"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Doctrine of precedent"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Donoghue v Stevenson"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Duma"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Duty of care"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Early customary law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Easement"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Eastern Orthodox Church"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Economic analysis of law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Economics"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Edict"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Efficiency (economics)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Election commission"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Election law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Elements of the Philosophy of Right"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Energy conservation law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Energy law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Energy policy"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "English Court of Common Pleas"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Entertainment law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Entick v Carrington"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Environmental law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Equality before the law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Equity (law)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Eric Heinze"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Estate (law)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Estoppel"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Eugen Ehrlich"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "European Convention on Human Rights"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "European Court of Human Rights"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "European Court of Justice"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "European Parliament"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "European Union law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Everything which is not forbidden is allowed"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Evidence (law)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Executive (government)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Executive order"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Failed state"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Family law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Federal Constitutional Court of Germany"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Federal Convention (Germany)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Federal republic"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Feminist legal theory"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Financial regulation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Fine (penalty)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Fiqh"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Fordham University"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Foreign minister"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Foreign policy"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Fourteenth Amendment to the United States Constitution"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Francis Fukuyama"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Frederic George Kenyon"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Free market"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Freedom of association"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Freedom of speech"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Friedrich Carl von Savigny"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Friedrich Hayek"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Friedrich Melchior, baron von Grimm"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Friedrich Nietzsche"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "G-20 major economies"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Gary Becker"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Geneva Conventions"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Geoffrey Robertson"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Geoffrey Robertson QC"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Georg Wilhelm Friedrich Hegel"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "George Montague-Dunk, 2nd Earl of Halifax"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Georges Gurvitch"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ginger beer"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Glanville Williams"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Goddess"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Greek philosophy"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Groundwork of the Metaphysics of Morals"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Grundnorm"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Guardian Council"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Guilt (law)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "H. L. A. Hart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hague Convention on the Law Applicable to Trusts and on their Recognition"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Halakha"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Halfpenny (British coin)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hammurabi"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hanging"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hans Kelsen"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Harm principle"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Head of government"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Head of state"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Health law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Henry II of England"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hereditary monarchy"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "High Court of Australia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hindu law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hinduism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "History of Athens"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Homo economicus"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "House of Lords"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Houses of Parliament"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hugo Grotius"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hugo Sinzheimer"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Human rights"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Human rights law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ijma"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Immanuel Kant"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Immigration law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "In personam"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "In rem"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Income tax"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Index of law articles"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Influenza"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Insanity defense"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Insolvency"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Insurance law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Intellectual property"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Intellectual property law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Intention (criminal law)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "International Court of Justice"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "International Criminal Court"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "International Labour Organization"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "International Monetary Fund"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "International Standard Book Number"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "International criminal law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "International human rights law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "International law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "International legal theory"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "International organisations"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Interpretivism (legal)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Invitation to treat"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Is-ought problem"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Islamic resurgence"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "JSTOR"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "JURIST"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "James T. Patterson (historian)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Jean-Jacques Rousseau"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Jeremy Bentham"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Job security"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "John Austin (legal philosopher)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "John Coleridge, 1st Baron Coleridge"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "John Locke"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "John Scott, 1st Earl of Eldon"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "John of England"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Joint Stock Companies Act 1856"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Joseph Raz"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Judge"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Judgment (law)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Judicial review"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Judiciary"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Julius Stone"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Juris Doctor"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Jurisdiction"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Jurisprudence"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Juristic person"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Jury"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Justice"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Justice of the peace"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Justinian I"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Karl Marx"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Keech v Sandford"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Kyoto Protocol"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Labour (economics)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Labour law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Labour theory of property"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Lady Justice"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law (disambiguation)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law Merchant"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law and economics"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law and society"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law dictionary"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law enforcement"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law firm"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of France"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Germany"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Hong Kong"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of India"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Israel"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Japan"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Russia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Scotland"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Singapore"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of obligations"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of the People's Republic of China"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of the Republic of China"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of the United Kingdom"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of the United States"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of war"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law report"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law school"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law society"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Lawsuit"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Lawsuits"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Lawyer"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "League of Nations"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Lease"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Leasehold estate"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Legal (disambiguation)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Legal Research"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Legal Research in the United States"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Legal burden of proof"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Legal culture"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Legal education"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Legal formalism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Legal history"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Legal maxim"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Legal opinion"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Legal periodical"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Legal pluralism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Legal positivism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Legal profession"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Legal remedy"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Legal representation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Legal research"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Legal systems of the world"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Legal theory"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Legal treatise"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Legislation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Legislature"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Legitimacy (political)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Leon Petra?ycki"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Leviathan (book)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "License"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Lien"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Limited liability"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of national legal systems"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Litigant"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Lord Atkin"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Lord Chancellor"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Lord Chief Justice Pratt"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Louis XIV of France"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Louisiana law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ludwig von Mises"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ma'at"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Magistrate"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Magna Carta"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Manusmriti"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mao Zedong"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Marine salvage"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Maritime law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Max Weber"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Maximization (economics)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Maxims of equity"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "McDonald's"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "McDonald's Restaurants v Morris & Steel"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mecelle"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Media law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Medieval England"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mens rea"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Middle Ages"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mikhail Bakunin"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Military"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Military justice"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Milton Friedman"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Minimum wage"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Minister (government)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Monarchy"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Monopoly on the legitimate use of force"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mortgage law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Motion of no confidence"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Municipal law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Muslim world"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Napoleon I of France"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Napoleonic Code"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nathaniel Lindley, Baron Lindley"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "National Assembly of France"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nationality law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Natural and legal rights"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Natural law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Necessity"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Negligence"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Negotiable instrument"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "New York Stock Exchange"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nikos Kazantzakis"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nobel Prize in Economics"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Norman conquest of England"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nuisance"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Occupational safety and health"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Offer and acceptance"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ofgem"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Old Testament"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Oliver E. Williamson"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Opt-outs in the European Union"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Organisation for Economic Co-operation and Development"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ottoman Empire"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pacta sunt servanda"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Paisley"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Parliament of Italy"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Parliamentary sovereignty"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Parliamentary system"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pentateuch"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "People"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Personal property"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Peter King, 1st Baron King"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Philosophy"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Philosophy of law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pleading"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pluralism (political philosophy)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Police"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Political philosophy"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Political science"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Politics"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pollution"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Positivism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Possession (law)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pound sterling"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Practice of law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Precedent"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "President of Austria"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "President of Brazil"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "President of Germany"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "President of the United States"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Presidential system"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Price fixing"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Principle of legality"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Prison"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Private enterprise"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Private law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Privatisation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Privatization"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Probate"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Procedural law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Proclamation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Product liability"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Promulgation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Property"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Property law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Prosecutor"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Proximate cause"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "PubMed Identifier"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Public interest law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Public international law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Public law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Public services"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pure Theory of Law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Qing Dynasty"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Qiyas"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Quebec law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Queen of the United Kingdom"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Queen regnant"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Quentin Massys"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Question of fact"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Question of law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Quran"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "R v Dudley and Stephens"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Racial segregation in the United States"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Real property"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Reasonable man"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Red tape"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Regulation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Regulation (law)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rehabilitation (penology)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Related right"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Religious law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Repeal"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Restitution"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Restraint of trade"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rhetoric"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rich and poor alike"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Richard Posner"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Right of asylum"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Right to a fair trial"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rights"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rockefeller Foundation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Roger Cotterrell"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Roman Empire"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Roman Republic"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Roman law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Romford"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Romford Market"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ronald Coase"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ronald Dworkin"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ronald H. Coase"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Royal prerogative"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rule according to higher law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rule of law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rulemaking"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sale of Goods Act 1979"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Salem witch trials"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Scripture"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Self-defense (theory)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sentence (law)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Separation of church and state"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Separation of powers"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Shamash"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Share (finance)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sharia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sharia law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sherman Act"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Show trial"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Slander and libel"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Slavery"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Slavery in international law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Social construction"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Social norms"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Social order"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Social security"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Socialist law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Society"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sociology"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sociology of law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Solicitor"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sources of international law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sources of law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "South Korea"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "South Sea Bubble"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Southampton"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Soviet Union"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Space law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sports law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Stanford Encyclopedia of Philosophy"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Stare decisis"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "State (law)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "State (polity)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "State of emergency"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Statelessness"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "States Parties to the Rome Statute of the International Criminal Court"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Statute"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Statute law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Statutory law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Stele"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Strict liability (criminal)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sturges v Bridgman"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sumer"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Supranational law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Supreme Constitutional Court of Egypt"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Supreme Court of the United Kingdom"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Supreme Court of the United States"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "System"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tax law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Telecommunication policy"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Concept of Law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Constitution of Liberty"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Hague"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Nature of the Firm"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Problem of Social Cost"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Social Contract"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Spirit of the Laws"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Theodor Geiger"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Theodosius II"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Thomas Aquinas"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Thomas Hobbes"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Thomas More"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Thurman Arnold"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Torah"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tort"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tort law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Traditional Chinese law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Transaction cost"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Transaction costs"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Transliterated"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Treatise on Law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Treaty"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Treaty of Lisbon"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Trespass"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Trial"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Trial advocacy"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tribunal"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Trier of fact"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Trust law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Two Treatises of Government"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "U.S. Customs and Border Protection"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "UNISON"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Unicameralism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Uniform Commercial Code"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Unilateral contract"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Union of South American Nations"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "United Nations"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "United Nations Convention on the Law of the Sea"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "United Nations Headquarters"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "United States Bill of Rights"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "United States Congress"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "United States Constitution"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Universal Declaration of Human Rights"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "University of Bologna"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Unjust enrichment"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ur-Nammu"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Utilitarianism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Value added tax"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Verdict"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Vote"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Wall Street Crash of 1929"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Water law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Weighing scale"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Western culture"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Wikisource"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Will (law)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Will and testament"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Will to power"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "William Blackstone"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "William Graham Sumner"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "William H. Riker"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "William and Mary Quarterly"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Witchcraft"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Withering away of the state"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "World Intellectual Property Organization"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "World Trade Organisation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "World Trade Organization"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "World court"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "World politics"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Xeer"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Yassa"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Émile Durkheim"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Anthropology"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Anthrozoology"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Archaeology"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Area studies"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Blackstone Press Limited"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bristol and West Building Society v Mothew"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Business studies"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Canon law (Catholic Church)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Case citation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Cesare, Marquis of Beccaria"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Cognitive science"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Communication studies"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Community studies"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Cultural anthropology"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Cultural studies"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "De Officiis"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Dei delitti e delle pene"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Demography"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Dependent territory"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Development studies"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Doctor of Laws"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Education"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Environmental social science"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Environmental studies"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "European Economic and Social Committee"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Food studies"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Fritz Berolzheimer"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Gee v Pritchard"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Geisteswissenschaft"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Gender studies"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Geography"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "George Galloway"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Global studies"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "History"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "History of science"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "History of technology"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Human ecology"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Human geography"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Human science"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Humanities"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hunter v Canary Wharf Ltd"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Index of sociology articles"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Information science"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Integrated geography"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "International relations"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "International studies"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "John Selden"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Land-use planning"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law in Europe"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Afghanistan"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Albania"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Anguilla"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Antigua and Barbuda"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Argentina"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Armenia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Australia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Austria"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Azerbaijan"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Bahrain"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Bangladesh"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Barbados"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Belgium"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Bermuda"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Bhutan"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Brazil"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Bulgaria"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Canada"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Chile"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of China"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Comoros"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Croatia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Cuba"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Cyprus"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Denmark"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of East Timor"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Egypt"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Estonia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Finland"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Gibraltar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Greece"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Iceland"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Indonesia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Iran"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Iraq"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Italy"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Jersey"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Kosovo"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Laos"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Latvia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Libya"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Lithuania"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Luxembourg"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Macau"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Malaysia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Malta"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Mexico"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Nauru"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of New Zealand"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Niger"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Nigeria"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of North Korea"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Norway"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Pakistan"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Panama"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Papua New Guinea"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Poland"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Portugal"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Puerto Rico"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Romania"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Saudi Arabia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Serbia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Slovakia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Somalia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of South Africa"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of South Korea"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Spain"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Sri Lanka"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Sweden"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Switzerland"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of São Tomé and Príncipe"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Taiwan"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Thailand"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Turkey"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Tuvalu"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Ukraine"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Uruguay"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Vanuatu"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Venezuela"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of Vietnam"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of the Bahamas"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of the British Virgin Islands"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of the Cayman Islands"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of the Czech Republic"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of the Dominican Republic"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of the Isle of Man"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of the Netherlands"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law of the Republic of Ireland"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Legal transplants"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Linguistics"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of social science journals"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of sovereign states"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of states with limited recognition"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Literature"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Master of Laws"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Master of Legal Studies"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Media studies"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Montesquieu"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "National Labor Relations Act"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nestlé v National Westminster Bank plc"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Outline of law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Outline of social science"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Performing arts"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Peter Birks"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Philosophy and economics"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Philosophy of history"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Philosophy of psychology"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Philosophy of science"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Philosophy of social science"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Political ecology"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Political economy"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Powell v. Texas"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Psychology"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Public administration"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Public health"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Public policy"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Realm of New Zealand"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Regional planning"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Regional science"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Religious studies"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Robinson v. California"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rural sociology"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Science, technology and society"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Science studies"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Social anthropology"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Social psychology"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Social science"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sovereign state"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Summum ius, summa iniuria"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Taff Vale Railway Co v Amalgamated Society of Railway Servants"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Trade Union and Labour Relations (Consolidation) Act 1992"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Urban planning"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Visual arts"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Winston Churchill"
+    },
+    {
+      "ns": 0,
+      "*": "British Year Book of International Law"
+    },
+    {
+      "ns": 0,
+      "*": "Lord Lloyd of Hampstead"
+    },
+    {
+      "ns": 0,
+      "*": "Austotel v Franklins"
+    },
+    {
+      "ns": 0,
+      "*": "The Sunday Times v The United Kingdom"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Algeria"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Angola"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Benin"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Botswana"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Burkina Faso"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Burundi"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Cameroon"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Cape Verde"
+    },
+    {
+      "ns": 0,
+      "*": "Law of the Central African Republic"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Chad"
+    },
+    {
+      "ns": 0,
+      "*": "Law of the Democratic Republic of the Congo"
+    },
+    {
+      "ns": 0,
+      "*": "Law of the Republic of the Congo"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Djibouti"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Equatorial Guinea"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Eritrea"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Ethiopia"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Gabon"
+    },
+    {
+      "ns": 0,
+      "*": "Law of the Gambia"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Ghana"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Guinea"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Guinea-Bissau"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Ivory Coast"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Kenya"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Lesotho"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Liberia"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Madagascar"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Malawi"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Mali"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Mauritania"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Mauritius"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Morocco"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Mozambique"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Namibia"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Rwanda"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Senegal"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Seychelles"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Sierra Leone"
+    },
+    {
+      "ns": 0,
+      "*": "Law of South Sudan"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Sudan"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Swaziland"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Tanzania"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Togo"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Tunisia"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Uganda"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Zambia"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Zimbabwe"
+    },
+    {
+      "ns": 0,
+      "*": "Law of the Sahrawi Arab Democratic Republic"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Somaliland"
+    },
+    {
+      "ns": 0,
+      "*": "Law of the Canary Islands"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Ceuta"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Melilla"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Plazas de soberanía"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Madeira"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Mayotte"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Réunion"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Saint Helena"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Ascension Island"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Tristan da Cunha"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Belize"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Costa Rica"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Dominica"
+    },
+    {
+      "ns": 0,
+      "*": "Law of El Salvador"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Grenada"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Guatemala"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Haiti"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Honduras"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Jamaica"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Nicaragua"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Saint Kitts and Nevis"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Saint Lucia"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Saint Vincent and the Grenadines"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Trinidad and Tobago"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Aruba"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Bonaire"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Curaçao"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Greenland"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Guadeloupe"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Martinique"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Montserrat"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Saint Barthélemy"
+    },
+    {
+      "ns": 0,
+      "*": "Law of the Collectivity of Saint Martin"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Saint Pierre and Miquelon"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Saba"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Sint Eustatius"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Sint Maarten"
+    },
+    {
+      "ns": 0,
+      "*": "Law of the Turks and Caicos Islands"
+    },
+    {
+      "ns": 0,
+      "*": "Law of the United States Virgin Islands"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Bolivia"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Colombia"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Ecuador"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Guyana"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Paraguay"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Peru"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Suriname"
+    },
+    {
+      "ns": 0,
+      "*": "Law of the Falkland Islands"
+    },
+    {
+      "ns": 0,
+      "*": "Law of French Guiana"
+    },
+    {
+      "ns": 0,
+      "*": "Law of South Georgia and the South Sandwich Islands"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Brunei"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Burma"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Cambodia"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Georgia (country)"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Jordan"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Kazakhstan"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Kuwait"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Kyrgyzstan"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Lebanon"
+    },
+    {
+      "ns": 0,
+      "*": "Law of the Maldives"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Mongolia"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Nepal"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Oman"
+    },
+    {
+      "ns": 0,
+      "*": "Law of the Philippines"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Qatar"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Syria"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Tajikistan"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Turkmenistan"
+    },
+    {
+      "ns": 0,
+      "*": "Law of the United Arab Emirates"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Uzbekistan"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Yemen"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Abkhazia"
+    },
+    {
+      "ns": 0,
+      "*": "Law of the Nagorno-Karabakh Republic"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Northern Cyprus"
+    },
+    {
+      "ns": 0,
+      "*": "Law of the Palestinian territories"
+    },
+    {
+      "ns": 0,
+      "*": "Law of South Ossetia"
+    },
+    {
+      "ns": 0,
+      "*": "Law of the British Indian Ocean Territory"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Christmas Island"
+    },
+    {
+      "ns": 0,
+      "*": "Law of the Cocos (Keeling) Islands"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Andorra"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Belarus"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Bosnia and Herzegovina"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Hungary"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Liechtenstein"
+    },
+    {
+      "ns": 0,
+      "*": "Law of the Republic of Macedonia"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Moldova"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Monaco"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Montenegro"
+    },
+    {
+      "ns": 0,
+      "*": "Law of San Marino"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Slovenia"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Transnistria"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Åland"
+    },
+    {
+      "ns": 0,
+      "*": "Law of the Faroe Islands"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Guernsey"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Svalbard"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Fiji"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Kiribati"
+    },
+    {
+      "ns": 0,
+      "*": "Law of the Marshall Islands"
+    },
+    {
+      "ns": 0,
+      "*": "Law of the Federated States of Micronesia"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Palau"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Samoa"
+    },
+    {
+      "ns": 0,
+      "*": "Law of the Solomon Islands"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Tonga"
+    },
+    {
+      "ns": 0,
+      "*": "Law of the Cook Islands"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Niue"
+    },
+    {
+      "ns": 0,
+      "*": "Law of American Samoa"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Easter Island"
+    },
+    {
+      "ns": 0,
+      "*": "Law of French Polynesia"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Guam"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Hawaii"
+    },
+    {
+      "ns": 0,
+      "*": "Law of New Caledonia"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Norfolk Island"
+    },
+    {
+      "ns": 0,
+      "*": "Law of the Northern Mariana Islands"
+    },
+    {
+      "ns": 0,
+      "*": "Law of the Pitcairn Islands"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Tokelau"
+    },
+    {
+      "ns": 0,
+      "*": "Law of Wallis and Futuna"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Use dmy dates from April 2012"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Use British English from January 2014"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Articles with unsourced statements from May 2012"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Articles with unsourced statements from June 2012"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Articles with dead external links from September 2011"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Law"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Law"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Africa topic"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:North America topic"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:South America topic"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Asia topic"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Law in Europe"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Oceania topic"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Humanities"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Social sciences"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Citation needed"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:LIBRARY"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Link rot"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Wikimedia sister projects"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:WikiProject Sociology"
+    },
+    {
+      "ns": 11,
+      "exists": "",
+      "*": "Template talk:Law"
+    },
+    {
+      "ns": 11,
+      "exists": "",
+      "*": "Template talk:Africa topic"
+    },
+    {
+      "ns": 11,
+      "exists": "",
+      "*": "Template talk:Asia topic"
+    },
+    {
+      "ns": 11,
+      "exists": "",
+      "*": "Template talk:Humanities"
+    },
+    {
+      "ns": 11,
+      "exists": "",
+      "*": "Template talk:Law in Europe"
+    },
+    {
+      "ns": 11,
+      "exists": "",
+      "*": "Template talk:North America topic"
+    },
+    {
+      "ns": 11,
+      "exists": "",
+      "*": "Template talk:Oceania topic"
+    },
+    {
+      "ns": 11,
+      "exists": "",
+      "*": "Template talk:Social sciences"
+    },
+    {
+      "ns": 11,
+      "exists": "",
+      "*": "Template talk:South America topic"
+    },
+    {
+      "ns": 12,
+      "exists": "",
+      "*": "Help:CS1 errors"
+    },
+    {
+      "ns": 100,
+      "exists": "",
+      "*": "Portal:Law"
+    },
+    {
+      "ns": 100,
+      "exists": "",
+      "*": "Portal:Sociology"
+    },
+    {
+      "ns": 108,
+      "exists": "",
+      "*": "Book:Law"
+    }
+  ]
+}

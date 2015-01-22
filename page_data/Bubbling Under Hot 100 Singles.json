@@ -1,0 +1,755 @@
+{
+  "name": "Bubbling Under Hot 100 Singles",
+  "links": [
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Billboard"
+    },
+    {
+      "ns": 11,
+      "exists": "",
+      "*": "Template talk:Billboard"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Adult Alternative Songs"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Adult Contemporary (chart)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Adult Top 40"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Alive (Pearl Jam song)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Alternative Albums"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Alternative Songs"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Automatic identification and data capture"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Benny Benassi"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Billboard (magazine)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Billboard 200"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Billboard Brasil"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Billboard Comprehensive Albums"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Billboard En Español"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Billboard Greece"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Billboard Hot 100"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Billboard Hot 100 50th Anniversary Charts"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Billboard K-Town"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Billboard Radio Monitor"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Billboard Top Latin Albums"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Billboard Twitter Real-Time"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Billboard Türkiye"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Billboard charts"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Brasil Hot 100 Airplay"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bubbling Under R&B/Hip-Hop Singles"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Canadian Albums Chart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Canadian Hot 100"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Christian Albums"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Christian Songs"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Cinema (Benny Benassi song)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Comedy Albums"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Country Airplay"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Dance/Electronic Albums"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Dance/Electronic Digital Songs"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Dance/Electronic Singles Sales"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Dance/Electronic Songs"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Dance/Mix Show Airplay"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Deseret News"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Detroit"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Digital Albums"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Digital Songs"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Don Everly"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Doris Day"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Euro Digital Songs"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "European Hot 100 Singles"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "European Top 100 Albums"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Even Flow"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Folk Albums"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Gary Go"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "George Clinton (musician)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hard Rock Albums"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hot 100 Airplay (Radio Songs)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hot Country Songs"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hot Dance Club Songs"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hot Digital Tracks"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hot Latin Songs"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hot R&B/Hip-Hop Airplay"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hot R&B/Hip-Hop Songs"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hot Rap Songs"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hot RingMasters"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hot Rock Songs"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hot Singles Sales"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Independent Albums"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "International Standard Book Number"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Japan Hot 100"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Joel Whitburn"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Kid Albums"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Korea K-Pop Hot 100"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Latin Pop Airplay"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Latin Pop Albums"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Latin Rhythm Airplay"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Latin Rhythm Albums"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of Billboard 200 number-one albums"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of Billboard Hot 100 chart achievements and milestones"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of Billboard Hot Country Songs chart achievements"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of Billboard Mainstream Rock number-one songs of the 2010s"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of Billboard Social 50 number-one artists"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of Billboard Year-End number-one singles and albums"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of Billboard number-one R&B Songs"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of Billboard number-one adult contemporary hits"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of Billboard number-one alternative hits"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of Billboard number-one country albums"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of Billboard number-one country hits"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of Billboard number-one dance airplay hits"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of Billboard number-one dance hits"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of Billboard number-one electronic albums"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of Billboard number-one folk albums"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of Billboard number-one rhythm and blues hits"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of Billboard number-one singles"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of Korea K-Pop Hot 100 number-one singles"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of artists who reached number one in the United States"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of artists who reached number one on the Billboard R&B chart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of artists who reached number one on the Canadian Hot 100"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of artists who reached number one on the Japan Hot 100"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of artists who reached number one on the U.S. Adult Contemporary chart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of artists who reached number one on the U.S. Adult Top 40 chart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of artists who reached number one on the U.S. Mainstream Rock chart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of artists who reached number one on the U.S. Mainstream Top 40 chart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of artists who reached number one on the U.S. Rhythmic chart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of artists who reached number one on the U.S. alternative rock chart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of artists who reached number one on the U.S. country chart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of artists who reached number one on the U.S. dance airplay chart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of artists who reached number one on the U.S. dance chart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of number-one artists on the Billboard Artist 100"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Little Anthony and the Imperials"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Luther Vandross"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mainstream Rock (chart)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mainstream Top 40"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mountain Sound"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nasty Girl (Vanity 6 song)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nielsen SoundScan"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Of Monsters and Men"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "On-Demand Songs"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Parliament/Funkadelic"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pearl Jam"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pop 100"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "R&B Songs"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "R&R (magazine)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rap Albums"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ray Charles"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ready 'N Steady"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Reggae Albums"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Regional Mexican Airplay"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Regional Mexican Albums"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rhythmic (chart)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rise Against"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rock Albums"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sammy Davis, Jr."
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Savior (Rise Against song)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Shirley Ellis"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sir Mack Rice"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Smooth Jazz Songs"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Streaming Songs"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tastemaker Albums"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Applejacks (UK band)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Brides of Funkenstein"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Everly Brothers"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Robbs"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Top Catalog Albums"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Top Country Albums"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Top Heatseekers"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Top R&B/Hip-Hop Albums"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tropical Albums"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tropical Songs"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Türkiye Top 20"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Uncharted (chart)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Vanity 6"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "William \"Bootsy\" Collins"
+    },
+    {
+      "ns": 12,
+      "exists": "",
+      "*": "Help:CS1 errors"
+    }
+  ]
+}

@@ -1,0 +1,706 @@
+{
+  "name": "Ukulele",
+  "links": [
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Articles containing Hawaiian-language text"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Articles with unsourced statements from January 2012"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Articles with unsourced statements from April 2014"
+    },
+    {
+      "ns": 6,
+      "*": "File:Ukulele standard tuning.mid"
+    },
+    {
+      "ns": 6,
+      "*": "File:My dog has fleas.mid"
+    },
+    {
+      "ns": 6,
+      "*": "File:Ukulele chords.ogg"
+    },
+    {
+      "ns": 6,
+      "*": "File:Ukelele - Kailimai's hene - Ukepedia.ogg"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Acacia koa"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Andes"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Armadillo"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Arthur Godfrey"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Banjo"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Banjo ukulele"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Banjolele"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Birmingham"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bowed string instrument"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "C.F. Martin & Company"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Canada"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Canary Islands"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Cape Verde"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Catgut"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Cavaquinho"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Charango"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Chordophone"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Cliff Edwards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Colombia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Course (music)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Cowan Powers and his Family Band"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Cuatro (instrument)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Don Juan (1926 film)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Electric ukulele"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Feature film"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "George Formby, Jr."
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "George Harrison"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Guitalele"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Guitar pick"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Gut string"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Harmony Company"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Harp ukulele"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hawaii"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hawaiian language"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hornbostel–Sachs"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hot Digital Tracks"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "International Standard Book Number"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Israel Kamakawiwo'ole"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "J. Chalmers Doane"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Jake Shimabukuro"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "James Hill (Canadian musician)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Japan"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Jazz Age"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Jim Beloff"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Jimmie Rodgers (country singer)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "John Barrymore"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Jonah Kumalae"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Kal?kaua"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Kamaka Ukulele"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Kroncong"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Laminate"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Lap steel guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Lap steel ukulele"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Lee DeForest"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Lei (Hawaii)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Liliuokalani"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of ukulele musicians"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Louis M. Glackens"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Lute"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Macaronesia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Machete (musical instrument)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Madeira"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mahogany"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Medley (music)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mighty Uke"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music education"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Musical instrument"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "New York City"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nihon Ukulele Association"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nylon"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Old-time music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Open tuning"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Over the Rainbow"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Oxford English Dictionary"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Panama-Pacific International Exposition (1915)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Paul McCartney"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Phonofilm"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pizzicato"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Plucked string instrument"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Plywood"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Portuguese American"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Portuguese people"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rajao"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rajão"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ravenscrag (ship)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Reentrant tuning"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Regal Musical Instrument Company"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Requinto jarocho"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Resonator ukulele"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Resonators"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rock and roll"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Roy Smeck"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "San Francisco"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Scale (string instruments)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sheet music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Short film"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Slack key"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Songwriter"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sound-on-disc"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sound-on-film"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Spanish people"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Spruce"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "String instrument"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Stringed Instrument Tunings"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Swietenia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tablature"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tahitian ukulele"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Timple"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tin Pan Alley"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tiny Tim (musician)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tiple"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tiptoe Through the Tulips"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tonewood"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ukulele Orchestra of Great Britain"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "United States"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Vaudeville"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Vihuela"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Viral video"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Vitaphone"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "What a Wonderful World"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "While My Guitar Gently Weeps"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "World War II"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "YouTube"
+    },
+    {
+      "ns": 0,
+      "*": "Jeremy Wallach"
+    },
+    {
+      "ns": 0,
+      "*": "Hawaiian Gazette"
+    },
+    {
+      "ns": 0,
+      "*": "Yukihiko Haida"
+    },
+    {
+      "ns": 0,
+      "*": "Moselele"
+    },
+    {
+      "ns": 0,
+      "*": "Ernest V. Stoneman"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Citation needed"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Media help"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Pronunciation respelling key"
+    },
+    {
+      "ns": 12,
+      "exists": "",
+      "*": "Help:CS1 errors"
+    },
+    {
+      "ns": 12,
+      "exists": "",
+      "*": "Help:IPA for English"
+    },
+    {
+      "ns": 12,
+      "exists": "",
+      "*": "Help:IPA for Hawaiian"
+    }
+  ]
+}

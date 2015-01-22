@@ -1,0 +1,509 @@
+{
+  "name": "Keyboard instrument",
+  "links": [
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Instrument tunings"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Musical keyboards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "3rd bridge"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Accordion"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Archicembalo"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Articulation (music)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bagpipe"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bandoneon"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bell tower"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bowed clavier"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Calliope (music)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Carillon"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Celesta"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Clavichord"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Clavicymbalum"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Clavinet"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Claviola"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Digital piano"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Dulcitone"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Dynamics (music)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Electric piano"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Electronic keyboard"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Electronic organ"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Electronic piano"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Enharmonic keyboard"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Expression pedal"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Flageolet tone"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Fortepiano"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Franz Liszt"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Frédéric Chopin"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Generalized keyboard"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Glasschord"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Guqin"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Harmonica"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Harpsichord"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Human voice"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hurdy gurdy"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hydraulis"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Idiophone"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Intonation (music)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Isomorphic keyboard"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Italian language"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Jankó keyboard"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Johannes Brahms"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Joseph Haydn"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Just intonation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Key (instrument)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Keyboard glockenspiel"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Keyed fiddle"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Keytar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Lautenwerck"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Long string instrument"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ludwig van Beethoven"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mellotron"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Melodeon (organ)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Melodica"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Monochord"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Moodswinger"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Municipality"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Musical instrument"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Musical keyboard"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Natural horn"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ondes Martenot"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Optigan"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Orchestrina di camera"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Organ (music)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Overtone series"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pedal keyboard"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pedal steel guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pencilina"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Phrase (music)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pianet"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pianist"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Piano"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Piano pedals"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pipe organ"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pump organ"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Reed organ"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Regal (musical instrument)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rhodes piano"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Short octave"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Soft pedal"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Spinet"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Split sharp"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "String instrument"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sustain pedal"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Symphony"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Synthesizer"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tangent piano"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Metropolitan Museum of Art"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Timbre"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Toy piano"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tromba marina"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Trombone"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Virginal"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Wind instrument"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Wolfgang Amadeus Mozart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Wurlitzer electric piano"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "?àn b?u"
+    },
+    {
+      "ns": 11,
+      "exists": "",
+      "*": "Template talk:Instrument tunings"
+    },
+    {
+      "ns": 11,
+      "*": "Template talk:Musical keyboards"
+    }
+  ]
+}

@@ -16,7 +16,10 @@ public class PageTree {
 		if(addFrom == null){
 			return toAdd;
 		}
-		if(toAdd.compareTo(addFrom) <= 0){
+		else if(toAdd.compareTo(addFrom) == 0){
+			return addFrom;
+		}
+		else if(toAdd.compareTo(addFrom) < 0){
 			addFrom.left = addPage(toAdd, addFrom.left);
 		}
 		else{

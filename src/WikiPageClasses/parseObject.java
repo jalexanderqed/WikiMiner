@@ -1,17 +1,17 @@
 package WikiPageClasses;
 
 public class parseObject {
-	String title;
-	long revid;
-	textObject text;
-	langObject[] langlinks;
-	categoryObject[] categories;
-	linkObject[] links;
-	templateObject[] templates;
-	String[] images;
-	String[] externallinks;
-	sectionObject[] sections;
-	String displaytitle;
-	iwlinkObject[] iwlinks;
-	propertyObject[] properties;
+	public String title;
+	public long revid;
+	public textObject text;
+	public langObject[] langlinks;
+	public categoryObject[] categories;
+	public linkObject[] links;
+	public templateObject[] templates;
+	public String[] images;
+	public String[] externallinks;
+	public sectionObject[] sections;
+	public String displaytitle;
+	public iwlinkObject[] iwlinks;
+	public propertyObject[] properties;
 }

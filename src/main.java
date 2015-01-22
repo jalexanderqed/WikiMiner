@@ -7,6 +7,7 @@ import com.google.gson.*;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
+import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -19,46 +20,98 @@ public class main {
 	public static void main(String[] args) {
 		long start = System.currentTimeMillis();
 		Gson gson = getGsonObject();
+		File dataTreeFile = new File("PageDataTree.json");
 
-		String pageText = getUrl("http://en.wikipedia.org/w/api.php?action=parse&"
-				+ "page=Max_Schneider&contentmodel=json&format=json");
+		PageTree myTree;
 
-		WikiPage firstPage = new WikiPage();
+		if(!dataTreeFile.exists()){
+			String pageText = getUrl("http://en.wikipedia.org/w/api.php?action=parse&"
+					+ "page=John_Doe&contentmodel=json&format=json");
 
-		try{
-			firstPage = gson.fromJson(pageText, WikiPage.class);
+			WikiPage firstPage = new WikiPage();
+
+			try{
+				firstPage = gson.fromJson(pageText, WikiPage.class);
+			}
+			catch(com.google.gson.JsonSyntaxException e){
+				System.out.println("Invalid URL: " + e.getMessage());
+			}
+
+			WikiPageStore firstPageStore = new WikiPageStore(firstPage.parse.title, firstPage.parse.links);
+			writeToFile("page_data/" + firstPageStore.name + ".json", gson.toJson(firstPageStore));
+
+			myTree = new PageTree(new PageNode(firstPageStore.name, "page_data/" + firstPageStore.name + ".json"));
+
+			getPagesLinkedFrom(firstPageStore, myTree);
 		}
-		catch(com.google.gson.JsonSyntaxException e){
-			System.out.println("Invalid URL: " + e.getMessage());
+		else{
+			myTree = gson.fromJson(readFromFile("PageDataTree.json"), PageTree.class);
+		}
+		
+		for(int i = 0; i < 5; i++){
+			getPagesLinkedFrom(new WikiPageStore(myTree.getUnindexed()), myTree);
+			writeToFile("PageDataTree.json", gson.toJson(myTree));
 		}
 
-		WikiPageStore firstPageStore = new WikiPageStore(firstPage.parse.title, firstPage.parse.links);
-		writeToFile("page_data/" + firstPageStore.name + ".json", gson.toJson(firstPageStore));
+		System.out.println("Total program time: " + ((System.currentTimeMillis() - start) / 1000) + " seconds.");
+	}
 
-		PageTree myTree = new PageTree(new PageNode(firstPageStore.name, "page_data/" + firstPageStore.name + ".json"));
+	public static void getPagesLinkedFrom(WikiPageStore sourcePage, PageTree myTree){
+		System.out.println("Getting pages linked from page: " + sourcePage.name);
+		Gson gson = getGsonObject();
 
-		for(int i = 0; i < firstPageStore.links.length; i++){
-			if(firstPageStore.links[i].exists != null){
-				pageText = getUrl("http://en.wikipedia.org/w/api.php?action=parse&"
-						+ "page=" + firstPageStore.links[i].page.replace(' ', '_')
-						+ "&contentmodel=json&format=json");
+		int pagesAdded = 0;
+		int halfLinksArrayLength = sourcePage.links.length / 2;
 
-				WikiPage currentPage = new WikiPage();
+		for(int i = 0; i <= halfLinksArrayLength; i++){
+			int index = halfLinksArrayLength + i;
+			for(int j = 0; j < 2; j++){
+				System.out.println("Index: " + index);
+				if(index >= 0 && index < sourcePage.links.length){
+					pagesAdded++;
+					if(sourcePage.links[index].exists != null){
+						// Only create new page if the page is new
+						if(!myTree.contains(new PageNode(sourcePage.links[index].page))){
+							String pageText = getUrl("http://en.wikipedia.org/w/api.php?action=parse&"
+									+ "page=" + sourcePage.links[index].page.replace(' ', '_')
+									+ "&contentmodel=json&format=json");
 
-				try{
-					currentPage = gson.fromJson(pageText, WikiPage.class);
+							WikiPage currentPage = new WikiPage();
+
+							try{
+								currentPage = gson.fromJson(pageText, WikiPage.class);
+							}
+							catch(com.google.gson.JsonSyntaxException e){
+								System.out.println("Invalid URL: " + e.getMessage());
+								break;
+							}
+		
+							if(currentPage == null || currentPage.parse == null || currentPage.parse.title == null || currentPage.parse.links == null){
+								break;
+							}
+							WikiPageStore currentPageStore = new WikiPageStore(currentPage.parse.title, currentPage.parse.links);
+
+							if(writeToFile("page_data/" + currentPage.parse.title + ".json", gson.toJson(currentPageStore))){
+								myTree.addPage(new PageNode(currentPageStore.name, "page_data/" + currentPageStore.name + ".json"));
+							}
+							else{
+								System.out.println("Could not write " + currentPage.parse.title + " to file.");
+							}
+						}
+						else{
+							System.out.println("Data tree already contained page " + sourcePage.links[index].page);
+						}
+					}
 				}
-				catch(com.google.gson.JsonSyntaxException e){
-					System.out.println("Invalid URL: " + e.getMessage());
+				if(i != 0){
+					index = halfLinksArrayLength - i;
 				}
-
-				WikiPageStore currentPageStore = new WikiPageStore(currentPage.parse.title, currentPage.parse.links);
-				writeToFile("page_data/" + currentPage.parse.title + ".json", gson.toJson(currentPageStore));
-				myTree.addPage(new PageNode(currentPageStore.name, "page_data/" + currentPageStore.name + ".json"));
+				else break;
 			}
 		}
-		writeToFile("PageDataTree.json", gson.toJson(myTree));
-		System.out.println("Total program time: " + ((System.currentTimeMillis() - start) / 1000) + " seconds.");
+		myTree.getPage(new PageNode(sourcePage.name)).indexed = true;
+		System.out.println("Length of links array: " + sourcePage.links.length);
+		System.out.println("Number of pages added: " + pagesAdded);
 	}
 
 	public static String getUrl(String urlText){
@@ -103,6 +156,27 @@ public class main {
 		catch(IOException e){
 			System.out.println("Could not write to file: " + fileName + "\n" + e.getMessage());
 			return false;
+		}
+	}
+
+	public static String readFromFile(String fileName){
+		System.out.print("Reading from file: ");
+		long start = System.currentTimeMillis();
+		try {
+			File file = new File(fileName);
+			BufferedReader input = new BufferedReader(new FileReader(file));
+			String nextLine;
+			StringBuilder inText = new StringBuilder();
+			while((nextLine = input.readLine()) != null){
+				inText.append(nextLine);
+			}
+			input.close();
+			System.out.println(System.currentTimeMillis() - start);
+			return inText.toString();
+		}
+		catch(IOException e){
+			System.out.println("Could not read from file: " + fileName + "\n" + e.getMessage());
+			return "";
 		}
 	}
 

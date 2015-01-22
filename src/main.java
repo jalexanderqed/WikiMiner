@@ -48,7 +48,7 @@ public class main {
 			myTree = gson.fromJson(readFromFile("PageDataTree.json"), PageTree.class);
 		}
 		
-		for(int i = 0; i < 5; i++){
+		for(int i = 0; i < 15; i++){
 			getPagesLinkedFrom(new WikiPageStore(myTree.getUnindexed()), myTree);
 			writeToFile("PageDataTree.json", gson.toJson(myTree));
 		}
@@ -92,7 +92,10 @@ public class main {
 							WikiPageStore currentPageStore = new WikiPageStore(currentPage.parse.title, currentPage.parse.links);
 
 							if(writeToFile("page_data/" + currentPage.parse.title + ".json", gson.toJson(currentPageStore))){
+								System.out.println("Writing page " + currentPage.parse.title + " to tree: ");
+								long start = System.currentTimeMillis();
 								myTree.addPage(new PageNode(currentPageStore.name, "page_data/" + currentPageStore.name + ".json"));
+								System.out.println(System.currentTimeMillis() - start);
 							}
 							else{
 								System.out.println("Could not write " + currentPage.parse.title + " to file.");

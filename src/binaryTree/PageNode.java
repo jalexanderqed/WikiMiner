@@ -2,7 +2,7 @@ package binaryTree;
 
 import JSONPackages.WikiPage;
 
-public class PageNode {
+public class PageNode implements Comparable<PageNode>{
 	public String name;
 	public String fileName;
 	public PageNode left;

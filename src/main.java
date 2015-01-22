@@ -1,4 +1,6 @@
 import JSONPackages.WikiPage;
+import binaryTree.PageNode;
+import binaryTree.PageTree;
 
 import com.google.gson.*;
 
@@ -15,10 +17,8 @@ public class main {
 	public static void main(String[] args) {
 		Gson gson = getGsonObject();
 		
-		System.out.print("Loading page: ");
-		long start = System.currentTimeMillis();
+
 		String pageText = getUrl("http://en.wikipedia.org/w/api.php?action=parse&page=Max_Schneider&contentmodel=json&format=json");
-		System.out.println(System.currentTimeMillis() - start);
 		
 		System.out.print("Writing first json to file: ");
 		start = System.currentTimeMillis();
@@ -49,6 +49,8 @@ public class main {
 	}
 	
 	public static String getUrl(String urlText){
+		System.out.print("Loading page: ");
+		long start = System.currentTimeMillis();
 		try{
 			final URL url = new URL(urlText);
 			InputStreamReader i = new InputStreamReader(url.openStream());
@@ -61,6 +63,7 @@ public class main {
 				totalText.append(inputLine + "\n");
 			}
 
+			System.out.println(System.currentTimeMillis() - start);
 			return totalText.toString();
 		}
 		catch(MalformedURLException e){
@@ -74,11 +77,14 @@ public class main {
 	}
 
 	public static boolean writeToFile(String fileName, String text){
+		System.out.print("Writing to file: ");
+		long start = System.currentTimeMillis();
 		try {
 			File file = new File(fileName);
 			BufferedWriter output = new BufferedWriter(new FileWriter(file));
 			output.write(text);
 			output.close();
+			System.out.println(System.currentTimeMillis() - start);
 			return true;
 		}
 		catch(IOException e){

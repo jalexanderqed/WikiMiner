@@ -1,4 +1,4 @@
-public class MinerThread extends Thread {
+public class MinerThread implements Runnable {
 	private Thread t;
 	private String threadName;
 

@@ -1,0 +1,2721 @@
+{
+  "name": "Defamation",
+  "links": [
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Libel"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Slander"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Vilification"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Calumny"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "111th United States Congress"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "2014 Isla Vista killings"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "ARTICLE 19"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Absence of Malice"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Abuse"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Abuse of process"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Act Against Bullying"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Actual malice"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ad hominem"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Advocacy journalism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Aggravation (legal concept)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Alabama"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Albania"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Alex Konanykhin"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Alienation of affections"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Allan Hubley"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Alternative media"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "American Revolution"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Analytic journalism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ancestor"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Andrea Adams"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Andy Hickson"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Annie Oakley"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Anti-Bullying Day"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Anti-Bullying Week"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Anti-Defamation League"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Anti-bullying legislation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Anti-social behaviour"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Argentina"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Argentine peso"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Art"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Arts journalism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Assault (tort)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Associated Press"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Attractive nuisance doctrine"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Azerbaijan"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ban (law)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Barack Obama"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Battery (tort)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "BeatBullying"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Belief"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Berezovsky v Michaels"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Betrayal"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Blacklisting"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Blasphemous libel"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Blog"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Blood libel"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Brazil"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Breach of confidence"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Breach of peace"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Broadcast journalism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bulgaria"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bullying"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bullying UK"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bullying and emotional intelligence"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bullying and suicide"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bullying culture"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bullying in Higher Education"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bullying in academia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bullying in information technology"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bullying in medicine"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bullying in nursing"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bullying in teaching"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bullying in the military"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Business"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Business journalism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Calculus of negligence"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Camille du Gast"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Canadian defamation law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Catholic Encyclopedia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Character assassination"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Child abuse"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Child grooming"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Child neglect"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Child sexual abuse"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Chile"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Chilling effect (law)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Chilling effect (term)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Churnalism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Citizen journalism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Civic journalism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Civil Code"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Civil and political rights"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Civil law (common law)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Civil law (legal system)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Civil rights"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Civil wrong"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Coercion"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Collaborative journalism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Colorado"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Columbine High School massacre"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Columnist"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Common law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Commonwealth of Independent States"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Commonwealth of Nations"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Community journalism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Comparative negligence"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Complex post-traumatic stress disorder"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Consent"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Conspiracy (civil)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Constitution of India"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Contempt"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Context (language use)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Contributory negligence"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Control freak"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Conversion (law)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Copy editing"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Coroners and Justice Act 2009"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Corporation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Corpus Juris Civilis"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Council of Europe"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Creative nonfiction"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Crime"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Crimen injuria"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Criminal"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Criminal Code of Finland"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Criminal law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Criminal libel"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Croatia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Cruelty to animals"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Culture of fear"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Cumberland School of Law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Cyber defamation law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Cyberbullying"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Cybercrime Prevention Act of 2012"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "DMOZ"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Damages"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Data-driven journalism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Database journalism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Defamation (film)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Defamation Act"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Defamation of religion and the United Nations"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Defamation per se"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Defamatory libel"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Defendant"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Dehumanization"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Denial"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Depression (mood)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Destabilisation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Detinue"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Detraction"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Digital journalism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Dignitary torts"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Dignity"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Disability"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Disability abuse"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Discrediting tactic"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Domestic violence"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Domino mask"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Dow Jones"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Duty of care"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Duty to rescue"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Economic torts"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Editing"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Editorial independence"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Edward I of England"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Eggshell skull"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Elder abuse"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Elliot Rodger"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Embarrassment"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Emotional blackmail"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "English common law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "English defamation law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Entertainment journalism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Environmental journalism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Eric Harris and Dylan Klebold"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Errico Malatesta"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ethnic group"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "European Convention on Human Rights"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Evidence (law)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ex turpi causa non oritur actio"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Exaggeration"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Face (sociological concept)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Fair comment"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "False accusation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "False accusations"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "False imprisonment"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "False light"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Falsifiability"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Fashion journalism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "First Amendment to the United States Constitution"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "First language"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Florida"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Florida Statutes"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Fourth Estate"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Fraud"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Freedom of expression"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Freedom of speech"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Freedom of the press"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Fundamental Rights in India"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "GRIN Campaign"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Gary Namie"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Gaslighting"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Gay"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Gay bashing"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Gender"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Georgia (U.S. state)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Georgia Code"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Gonzo journalism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Gossip"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Government"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Gutnick v Dow Jones"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Halakha"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Harassment"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hate speech"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hazing"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Heinz Leymann"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "High Court of Australia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hill v. Church of Scientology of Toronto"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Homosexuality"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Humiliation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hélie de Talleyrand-Périgord, Duc de Sagan"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Idaho"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Illegal per se"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Incivility"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Index of journalism articles"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Indian Penal Code"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Individual"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Infotainment"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Inheritance"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Injunction"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Innocent dissemination"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Innuendo"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Institutional abuse"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Insult"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Intentional infliction of emotional distress"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Intentional tort"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Intentional torts"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "International Covenant on Civil and Political Rights"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "International Day of Pink"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "International STAND UP to Bullying Day"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Intimidation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Invasion of privacy"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Investigative journalism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Invitee"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "It Gets Better Project"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Izvestia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Jadin Bell"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "James I of England"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Jeff Weise"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Jer's Vision"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "John Peter Zenger"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Journalism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Journalism ethics and standards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Journalism school"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Journalist"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Journalistic objectivity"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Jury nullification"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Kansas"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Kenneth Weishuhn"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Kenneth Westhues"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Kidscape"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Kiss up kick down"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Kommersant"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Lange v Australian Broadcasting Corporation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Lashon hara"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Last clear chance"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Law in Australia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Libel (disambiguation)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Libel Act"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Libel Act 1843"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Libel tourism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Licensee"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Lie"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Lingens v. Austria"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of minimum wages by country"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of school pranks"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of suicides which have been attributed to bullying"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Literature"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Logical assertion"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Louise Burfitt-Dons"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Louisiana"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Magazine"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Malfeasance in office"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Malicious prosecution"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Malpractice"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Marcus Antistius Labeo"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Marital status"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mass media"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Media bias"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Medical journalism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Meteorology"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Michigan"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Milkovich v. Lorain Journal Co."
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mind games"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Minimisation (psychology)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Minnesota"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Minnesota Statutes"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Misconduct"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Misdemeanor"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Misrepresentation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mistake of fact"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mobbing"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Montana"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Moving the goalposts"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Muckraker"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Murder–suicide"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nagging"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Name calling"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Narcissism in the workplace"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Narrative journalism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nationality"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Necessity (tort)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Neglect"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Negligence"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Negligence in employment"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Negligent entrustment"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Negligent infliction of emotional distress"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nevada"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nevada Revised Statutes"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "New Hampshire"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "New International Encyclopedia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "New Journalism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "New Mexico"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "New York Times Co. v. Sullivan"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "News"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "News agency"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "News broadcasting"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "News media"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "News presenter"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "News style"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "News values"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Newspaper"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Non-profit journalism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "North Carolina"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "North Dakota"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "North Dakota Century Code"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nuisance"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Oklahoma"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Online newspaper"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ontario Superior Court of Justice"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Opinion journalism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Organisation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Organization for Security and Co-operation in Europe"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Parliamentary privilege"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pasquil"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Passive-aggressive behavior"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Peace journalism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Peer victimization"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Period of prescription"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Persecution"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Personal boundaries"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Personality disorder"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Petitioner"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Philippines"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Photojournalism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Physical abuse"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Political journalism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Political libel"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Power and control in abusive relationships"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Prima facie"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Privacy law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Probation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Product (business)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Product liability"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Professional abuse"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Property"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Property torts"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Province of New York"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Proximate cause"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Psychological abuse"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Psychological manipulation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Psychological projection"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Psychological trauma"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Psychopathy"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Psychopathy in the workplace"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Public figure"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Public interest"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Public nuisance"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Public official"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Public opinion"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Public relations"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Puerto Rico"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pundit"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Quebec"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Quebec Court of Appeal"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Race (classification of human beings)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rachel Ehrenfeld"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Racial vilification"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rankism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rationalization (making excuses)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Reasonable person"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Red Lake massacre"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Relational aggression"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Religion"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Religious abuse"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Religious belief"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Replevin"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Republic of Ireland"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Reputation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Res ipsa loquitur"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rescue doctrine"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Restraint of trade"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Revised Code of Washington"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Revised Penal Code of the Philippines"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Roman Catholic"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Royal Governor"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rudeness"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rumor"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rylands v. Fletcher"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "SPEECH Act"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Samford University"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sarcasm"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Scapegoating"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "School bullying"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Science journalism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Scientific journalism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Scientific literature"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Scots law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sedition"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Seditious libel"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Self-defense (theory)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Self-esteem"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Setting up to fail"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sexual abuse"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sexual bullying"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sexual orientation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sin"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Slander (disambiguation)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Small penis rule"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Smear campaign"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Social class"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Social group"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Social rejection"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Social undermining"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Soundness"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Source (journalism)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Soviet Union"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sports journalism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Stalking"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Standard of care"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Statute of limitations"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Strafgesetzbuch"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Structural abuse"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "SuEllen Fried"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Substantial truth"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Suicide"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Suicide among LGBT youth"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Suicide of Amanda Todd"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Suicide of Audrie Pott"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Suicide of Dawn-Marie Wesley"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Suicide of Jamey Rodemeyer"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Suicide of Kelly Yeomans"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Suicide of Megan Meier"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Suicide of Nicola Ann Raphael"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Suicide of Phoebe Prince"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Suicide of Rehtaeh Parsons"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Suicide of Ryan Halligan"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Suicide of Tyler Clementi"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Supreme Court of British Columbia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Supreme Court of Canada"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Supreme Court of the United States"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sycophancy"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Taunting"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Teasing"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Technology journalism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tempest Smith"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Teofisto Guingona III"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tim Field"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tim Hector"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tort"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tort law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tortious interference"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Trade journalism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Trademark dilution"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Traffic reporting"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Traumatic bonding"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Trespass"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Trespasser"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Trover"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "U.S. Constitution"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "U.S. Supreme Court"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ulpian"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ultrahazardous activity"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "United Nations"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "United Nations Commission on Human Rights"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "United States defamation law"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Utah"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Verbal abuse"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Verbal injury"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Vicarious liability"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Victim blaming"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Victim playing"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Victimisation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Video game journalism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Vigilante"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Virgin Islands"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Virginia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Visual journalism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Vociferation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Volenti non fit injuria"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Washington (U.S. state)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Washington and Lee Law Review"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Watchdog journalism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Weather forecasting"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Whispering campaign"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Whistleblower"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Wikisource"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "William Cosby"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Wisconsin"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Work of art"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Workplace bullying"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Workplace incivility"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "World news"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Yellow journalism"
+    },
+    {
+      "ns": 0,
+      "*": "Arthur Alan Wolk v. Walter Olson"
+    },
+    {
+      "ns": 0,
+      "*": "Praetorian Edict"
+    },
+    {
+      "ns": 0,
+      "*": "Alan Miller (economist)"
+    },
+    {
+      "ns": 0,
+      "*": "Ronen Perry"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Articles with unsourced statements from August 2010"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Articles with unsourced statements from January 2015"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Articles with unsourced statements from April 2010"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Wikipedia articles needing style editing from March 2013"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Articles with unsourced statements from November 2010"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Articles containing potentially dated statements from September 2012"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Articles with specifically marked weasel-worded phrases from September 2009"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Articles with unsourced statements from December 2007"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Articles with unsourced statements from October 2009"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Articles with dead external links from September 2010"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:ISO 639 name fr"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:ISO 639 name it"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:ISO 639 name pt"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:ISO 639 name es"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:ISO 639 name en"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Abuse"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Bullying"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Tort footer"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Journalism"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Citation needed"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Libel"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Link rot"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Manual of Style/Words to watch"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Writing better articles"
+    },
+    {
+      "ns": 11,
+      "exists": "",
+      "*": "Template talk:Abuse"
+    },
+    {
+      "ns": 11,
+      "exists": "",
+      "*": "Template talk:Bullying"
+    },
+    {
+      "ns": 11,
+      "exists": "",
+      "*": "Template talk:Journalism"
+    },
+    {
+      "ns": 11,
+      "exists": "",
+      "*": "Template talk:Tort footer"
+    },
+    {
+      "ns": 12,
+      "exists": "",
+      "*": "Help:CS1 errors"
+    },
+    {
+      "ns": 100,
+      "exists": "",
+      "*": "Portal:Law"
+    }
+  ]
+}

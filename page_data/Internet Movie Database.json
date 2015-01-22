@@ -1,0 +1,1110 @@
+{
+  "name": "Internet Movie Database",
+  "links": [
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "IMDb"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "1-Click"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "1997 Webby Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "1998 Webby Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "1999 Webby Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "2000 Webby Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "2001 Webby Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "2002 Webby Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "2003 Webby Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "2004 Webby Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "2005 Webby Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "2006 Webby Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "2007 Webby Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "2008 Webby Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "2009 Webby Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "2010 Webby Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "2011 Webby Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "2012 Webby Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "2013 Webby Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "2014 Webby Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "43 Things"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "A9.com"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "AbeBooks"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Actuarial science"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Alexa Internet"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "AllMusic"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "AllRovi"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Amapedia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Amazon's Best Books of the Year"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Amazon.com"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Amazon.com controversies"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "AmazonFresh"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Amazon Appstore"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Amazon Breakthrough Novel Award"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Amazon China"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Amazon CloudFront"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Amazon Cloud Drive"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Amazon Digital Game Store"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Amazon DynamoDB"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Amazon Echo"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Amazon Elastic Block Store"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Amazon Elastic Compute Cloud"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Amazon Fire TV"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Amazon Fishbowl"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Amazon Flexible Payments Service"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Amazon Glacier"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Amazon Instant Video"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Amazon Kindle"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Amazon Light"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Amazon Locker"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Amazon Machine Image"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Amazon Marketplace"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Amazon Mechanical Turk"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Amazon Music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Amazon Payments"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Amazon Prime"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Amazon Product Advertising API"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Amazon Publishing"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Amazon Relational Database Service"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Amazon S3"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Amazon Silk"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Amazon SimpleDB"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Amazon Simple Email Service"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Amazon Simple Queue Service"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Amazon Standard Identification Number"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Amazon Studios"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Amazon Vine"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Amazon Virtual Private Cloud"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Amazon Web Services"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Amazon tax"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Amie Street"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Animator.ru"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ars Technica"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Askville"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Audible.com"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ballot stuffing"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bayesian statistics"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bibliographic database"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Big Cartoon DataBase"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Box Office Mojo"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Breach of contract"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Brian Krueger"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Brian McBride (director)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Brian Valentine"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "CDNow"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Carbonado (Java)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Cardiff University"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Cnet"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Col Needham"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "ComiXology"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Command-line interface"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Creative Commons license"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "DBCult Film Institute"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Data compression"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "David Risher"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Diapers.com"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Digital Photography Review"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Digital object identifier"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Discogs"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Double Helix Games"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Dynamo (storage system)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Endless.com"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "English language"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Film"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Film director"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Filmweb"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "FindAnyFilm.com"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Finnish language"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Fire OS"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Fire Phone"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Flickchart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "French language"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "GNU Free Documentation License"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "German language"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Goodreads"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Graphical user interface"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Gurupa"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hoang v. Amazon.com"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hungarian language"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "In-memory database"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Independent film"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "International Standard Book Number"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Internet Adult Film Database"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Internet Broadway Database"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Internet Movie Firearms Database"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Internet Off-Broadway Database"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Internet Speculative Fiction Database"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Internet Theatre Database"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Internet censorship in the People's Republic of China"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Italian language"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Jeff Bezos"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Jonas Brothers: The 3D Concert Experience"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Junglee.com"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Kindle Fire"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Kindle Fire HD"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Kindle Fire HDX"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Lab126"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Lexcycle"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "LibraryThing"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of Webby Award winners"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of films considered the best"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of films considered the worst"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "LivingSocial"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Los Angeles Times"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "LoveFilm"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Lycos Europe"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Marsha J. Pechman"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Metacritic"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mobipocket"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Obidos (software)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Online database"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "OpenStreetMap"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Perfect 10, Inc. v. Amazon.com, Inc."
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Perl"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "PlanetAll"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Polish language"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Portuguese language"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Proxy server"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Python (programming language)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "RECAP"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ram Shriram"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rating scale"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Reflexive Entertainment"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rick Dalzell"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rob Hartill"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Romanian language"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rotten Tomatoes"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rovi Corporation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Résumé"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "SQL"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sellaband"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Shelfari"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Shell script"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Songza"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Statistically Improbable Phrases"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Techdirt"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Television program"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "TheTVDB"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Book Depository"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Shawshank Redemption"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tom Szkutak"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tony Hsieh"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Twitch (website)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Uniform resource locator"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "United Kingdom"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "United States"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "United States dollar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Unix"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Usenet"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "VPN"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Video game"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Wales"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Web API"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Web mirror"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Webby Award"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Weighted arithmetic mean"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Weighted mean"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Werner Vogels"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Wikidata"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Wikipedia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Withoutabox"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Woot"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "World Wide Web"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Zappos"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Use mdy dates from November 2014"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Articles containing potentially dated statements from September 2014"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Articles needing additional references from December 2012"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Articles with unsourced statements from December 2012"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Vague or ambiguous time from December 2012"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Articles with unsourced statements from April 2010"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Articles with unsourced statements from October 2013"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Amazon.com people"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Amazon"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Webby Awards"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Citation needed"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Citing sources"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Manual of Style/Dates and numbers"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Verifiability"
+    },
+    {
+      "ns": 11,
+      "exists": "",
+      "*": "Template talk:Amazon"
+    },
+    {
+      "ns": 11,
+      "exists": "",
+      "*": "Template talk:Webby Awards"
+    },
+    {
+      "ns": 12,
+      "exists": "",
+      "*": "Help:Introduction to referencing/1"
+    }
+  ]
+}

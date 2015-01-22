@@ -1,0 +1,1824 @@
+{
+  "name": "Wikipedia:Citing sources",
+  "links": [
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:CS"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:WHYCITE"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:INCITE"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:ASL"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:CITEFOOT"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:IBID"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:CITESHORT"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:GENREF"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:CITEHOW"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Page numbers"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:PAGELINK"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:SAYWHEREYOUGOTIT"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:CITESTYLE"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:CITEVAR"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:SOURCELINKS"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:DEADREF"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:INTEGRITY"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:CITEBUNDLE"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:INTEXT"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:NOCITE"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:CITECONSENSUS"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Protection policy"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Accessibility"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Alternative text for images"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Archive.is RFC"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Article size"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Article titles"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Assume good faith"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:BLP"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:BOOKLINKS"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:BUNDLING"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Be bold"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Behavioral policies"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Biographies of living persons"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Bombardment"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Bypass your cache"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:CHALLENGED"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:CITE"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:COPYVIO"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Caption"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Categories, lists, and navigation templates"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Categorization"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Child protection"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Citation needed"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Citation overkill"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Citation templates"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Citing Wikipedia"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Citing sources/Example edits for different methods"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Citing sources/Example style"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Citing sources/Further considerations"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Citing sources/example style"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Citing sources with Zotero"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Civility"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Close paraphrasing"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Conflict of interest"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Consensus"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Content policies"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Copyright problems"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Copyrights"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Core content policies"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Courtesy vanishing"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:DOI"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Dead external links"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Deletion guidelines for administrators"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Deletion policy"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Deletion process"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Digital Object Identifier"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Disambiguation"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Dispute resolution"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Disruptive editing"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Do not create hoaxes"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Do not disrupt Wikipedia to illustrate a point"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Do not include the full text of lengthy primary sources"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:EL"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:ENGVAR"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Edit warring"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Editing policy"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Embedded citations"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Etiquette"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:External links"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Five pillars"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Footers"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Footnote1"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Footnote2"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Footnote3"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Footnote4"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Fringe theories"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Gaming the system"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Harassment"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Hatnote"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:How to mine a source"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:INLINECITE"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:ISBN"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Identifying reliable sources"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Ignore all rules"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Image use policy"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Improving referencing efforts"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Inline citation"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:LDR"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:LEAD"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:LINK"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Layout"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Libel"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Link rot"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Linkrot"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:List of guidelines"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:List of policies"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:List of policies and guidelines"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:List of sources"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:MINREF"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:MOSDAB"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Mainspace"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Make technical articles understandable"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Manual of Style"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Manual of Style/Accessibility"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Manual of Style/Contents"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Manual of Style/Dates and numbers"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Manual of Style/Images"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Manual of Style/Layout"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Manual of Style/Lead section"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Manual of Style/Linking"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Manual of Style/Lists"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Manual of Style/Tables"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Mirrors and forks"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:NAMEDREFS"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:NOENG"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:NOR"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Neutral point of view"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:No legal threats"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:No original research"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:No personal attacks"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Non-free content"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Notability"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Offensive material"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Offline sources"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Ownership of articles"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:PAGELINKS"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:PAREN"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:PAYWALL"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:PLAGFORM"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Parenthetical references"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Parenthetical referencing"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Patent nonsense"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Plagiarism"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Please do not bite the newcomers"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Policies and guidelines"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Principles"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:QUOTE"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:REF"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:REFPUNC"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:RefToolbar 2.0"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Reference database"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:References dos and don'ts"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Referencing for beginners"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:SAYWHEREYOUREADIT"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:SFN"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:SOURCES"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Scientific citation guidelines"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Shortcut"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Signatures"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Sock puppetry"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Speedy keep"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Subpages"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Talk page guidelines"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Template namespace"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:UCS"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:UNDUE"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:User pages"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Using WebCite"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Using the Wayback Machine"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:V"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Vandalism"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Verifiability"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Verification methods"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Video links"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:What \"Ignore all rules\" means"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:What Wikipedia is not"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:WikiProject Citation cleanup"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:WikiProject Council/Guide"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:WikiProject Integrity"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Wikicite"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:You do need to cite that the sky is blue"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:You don't need to cite that the sky is blue"
+    },
+    {
+      "ns": 6,
+      "*": "File:Rembrandt-Belsazar.jpg"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Guideline list"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Reflist"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Cite book"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Wikipedia policies and guidelines"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Wikipedia referencing"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Citation Style 1"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Citation"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Citation/core"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Citation Style documentation"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Citation needed"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Citations missing"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:CitePMIDs"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Cite AV media"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Cite AV media notes"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Cite DVD notes"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Cite arXiv"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Cite conference"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Cite doi"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Cite encyclopedia"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Cite episode"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Cite hdl"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Cite interview"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Cite isbn"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Cite journal"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Cite jstor"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Cite mailing list"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Cite map"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Cite news"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Cite newsgroup"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Cite pmid"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Cite podcast"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Cite press release"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Cite serial"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Cite sign"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Cite speech"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Cite techreport"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Cite thesis"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Cite web"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Dead link"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Edit refs"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Harvard citation documentation"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Ibid"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Reflist newuser"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Refref"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Refref2"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Refstart"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Rp"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Unreferenced"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": ".NET Framework"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "APA style"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "ASA style"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "A Theory of Justice"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Affero GPL"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Annotation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "ArXiv"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Author-date referencing"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bekker numbers"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Belshazzar's Feast (Rembrandt)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "BibTeX"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Block quotation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bluebook"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Byline"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "COinS"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Caret"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Charles Darwin"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Citation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Comparison of reference management software"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Deprecation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Digital object identifier"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Direct speech"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "EBSCO Publishing"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ebook"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "EndNote"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Extensible Stylesheet Language"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Google Books"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Gregorian calendar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Handle System"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hard copy"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Harvard style"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "House style"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "ISBN"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ibid."
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Id."
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Indirect speech"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "International Standard Book Number"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Internet Archive"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "JSTOR"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "John Rawls"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Link rot"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of academic databases and search engines"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "MLA style"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "MOS:IBID"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "MOS:PUNCTFOOT"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Memento Project"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mendeley"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Microform"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mono (software)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Natural selection"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "OCLC"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Online and offline"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Op. cit."
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Open-source software"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Paperpile"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Papers (software)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Parenthetical referencing"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Permalink"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "ProQuest"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "PubMed"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Query string"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "RIS (file format)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Reading machine"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Reference management software"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Reliability of Wikipedia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Roman numeral"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Roy Rosenzweig Center for History and New Media"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ruby (programming language)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Scroll box"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Chicago Manual of Style"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The MLA Style Manual"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "UK Government Web Archive"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Vancouver system"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Veil of ignorance"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Visual Basic .NET"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "W3C Markup Validation Service"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "WebCite"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Web archiving"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Zotero"
+    },
+    {
+      "ns": 2,
+      "exists": "",
+      "*": "User:Ark25/RefScript"
+    },
+    {
+      "ns": 2,
+      "exists": "",
+      "*": "User:CitationTool"
+    },
+    {
+      "ns": 2,
+      "exists": "",
+      "*": "User:Citation bot"
+    },
+    {
+      "ns": 2,
+      "exists": "",
+      "*": "User:Nacimota/Wikicite+"
+    },
+    {
+      "ns": 2,
+      "exists": "",
+      "*": "User:Richiez"
+    },
+    {
+      "ns": 2,
+      "exists": "",
+      "*": "User:Salix alba/Citoid"
+    },
+    {
+      "ns": 2,
+      "exists": "",
+      "*": "User:Ucucha/HarvErrors"
+    },
+    {
+      "ns": 2,
+      "exists": "",
+      "*": "User:Zhaofeng Li/Reflinks"
+    },
+    {
+      "ns": 3,
+      "exists": "",
+      "*": "User talk:Apoc2400"
+    },
+    {
+      "ns": 5,
+      "exists": "",
+      "*": "Wikipedia talk:Citing sources"
+    },
+    {
+      "ns": 5,
+      "exists": "",
+      "*": "Wikipedia talk:Citing sources/Archive 18"
+    },
+    {
+      "ns": 5,
+      "exists": "",
+      "*": "Wikipedia talk:Citing sources/Archive 29"
+    },
+    {
+      "ns": 11,
+      "exists": "",
+      "*": "Template talk:Citation Style 1"
+    },
+    {
+      "ns": 11,
+      "exists": "",
+      "*": "Template talk:Guideline list"
+    },
+    {
+      "ns": 11,
+      "exists": "",
+      "*": "Template talk:Wikipedia policies and guidelines"
+    },
+    {
+      "ns": 11,
+      "exists": "",
+      "*": "Template talk:Wikipedia referencing"
+    },
+    {
+      "ns": 12,
+      "exists": "",
+      "*": "Help:Citation Style 1"
+    },
+    {
+      "ns": 12,
+      "exists": "",
+      "*": "Help:Citation Style 2"
+    },
+    {
+      "ns": 12,
+      "exists": "",
+      "*": "Help:Citation Style Vancouver"
+    },
+    {
+      "ns": 12,
+      "exists": "",
+      "*": "Help:Citation tools"
+    },
+    {
+      "ns": 12,
+      "exists": "",
+      "*": "Help:Citations quick reference"
+    },
+    {
+      "ns": 12,
+      "exists": "",
+      "*": "Help:Cite errors"
+    },
+    {
+      "ns": 12,
+      "exists": "",
+      "*": "Help:Cite link labels"
+    },
+    {
+      "ns": 12,
+      "exists": "",
+      "*": "Help:Cite messages"
+    },
+    {
+      "ns": 12,
+      "exists": "",
+      "*": "Help:Converting between references formats"
+    },
+    {
+      "ns": 12,
+      "exists": "",
+      "*": "Help:Edit summary"
+    },
+    {
+      "ns": 12,
+      "exists": "",
+      "*": "Help:File page"
+    },
+    {
+      "ns": 12,
+      "exists": "",
+      "*": "Help:Footnotes"
+    },
+    {
+      "ns": 12,
+      "exists": "",
+      "*": "Help:Introduction to referencing/1"
+    },
+    {
+      "ns": 12,
+      "exists": "",
+      "*": "Help:Overview of referencing styles"
+    },
+    {
+      "ns": 12,
+      "exists": "",
+      "*": "Help:Reference display customization"
+    },
+    {
+      "ns": 12,
+      "exists": "",
+      "*": "Help:References and page numbers"
+    },
+    {
+      "ns": 12,
+      "exists": "",
+      "*": "Help:Referencing for beginners"
+    },
+    {
+      "ns": 12,
+      "exists": "",
+      "*": "Help:Referencing for beginners with citation templates"
+    },
+    {
+      "ns": 12,
+      "exists": "",
+      "*": "Help:Referencing for beginners without using templates"
+    },
+    {
+      "ns": 12,
+      "exists": "",
+      "*": "Help:Section"
+    },
+    {
+      "ns": 12,
+      "exists": "",
+      "*": "Help:Shortened footnotes"
+    },
+    {
+      "ns": 13,
+      "exists": "",
+      "*": "Help talk:Citation Style 1"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Citation Style 1 templates"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Comics citation templates"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:LSA style citation templates"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Wikipedia administration"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Wikipedia behavioral guidelines"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Wikipedia categories"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Wikipedia categorization"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Wikipedia content guidelines"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Wikipedia deletion guidelines"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Wikipedia discussion"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Wikipedia editing guidelines"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Wikipedia guidelines"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Wikipedia policies"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Wikipedia style guidelines"
+    },
+    {
+      "ns": 108,
+      "exists": "",
+      "*": "Book:Key Wikipedia Policies & Guidelines"
+    }
+  ]
+}

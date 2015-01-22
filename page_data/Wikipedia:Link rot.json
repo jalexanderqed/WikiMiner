@@ -1,0 +1,1760 @@
+{
+  "name": "Wikipedia:Link rot",
+  "links": [
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:LR"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:PLRT"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:DEADLINK"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:MDLI"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:KDL"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:EXTERNALLR"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:\"Murder of\" articles"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:100,000 feature-quality articles"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:404"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:8 simple rules for editing our encyclopedia"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:AFD"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:A navbox on every page"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:About essay searching"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Accepting other users"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Acronym overkill"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Adjectives in your recommendations"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Advanced article editing"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Advanced table formatting"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Advanced template coding"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Advanced text formatting"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Alternative outlets"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Alternatives to the \"Expand\" template"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Amnesia test"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:An uncivil environment is a poor environment"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:An unfinished house is a real problem"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Apology"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Archive.is RFC"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Archive.is RFC 3"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Arguments to avoid in deletion discussions"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Arguments to avoid in deletion reviews"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Arguments to avoid in image deletion discussions"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Arguments to make in deletion discussions"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Article development"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Article half-life"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Articles for deletion is not a war zone"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Articles must be written"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Articles with a single source"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Assume bad faith"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Assume clue"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Assume good faith"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Assume good wraith"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Assume no clue"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Assume stupidity"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Assume that everyone's assuming good faith, assuming that you are assuming good faith"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Assume the assumption of good faith"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Autosizing images"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Avoid mission statements"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Avoid personal remarks"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Avoid repeated arguments"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Avoid the word \"vandal\""
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Avoid using preview button"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Avoid using wikilinks"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Avoid writing redundant essays"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:BADLINK"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:BOLD, revert, revert, revert"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Bad Jokes and Other Deleted Unblock Emails"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Bare URLs"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Bare notability"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Barnstaritis"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Be a reliable source"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Be neutral in form"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Be the glue"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Beef up that first revision"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Before commenting in a deletion discussion"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Bombardment"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Boston Tea Party"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Businesses with a single location"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:But it's true!"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:But there must be sources!"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Call a spade a spade"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Candor"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Cherrypicking"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Children's, adult new reader, and large-print sources questionable on reliability"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Citation overkill"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Citation templates"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Citing sources"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Citing sources/Further considerations"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Civility"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Civility warnings"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Close paraphrasing"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Coatrack"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Coherence and cohesion"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Concept cloud"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Concession"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Content removal"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Creating controversial content"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Cruftcruft"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Database reports/Broken section anchors"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Delete the junk"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Deletion process"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Deny recognition"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Dictionaries as sources"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Disambiguation"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Discriminate vs indiscriminate information"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Divisiveness"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Do not insult the vandals"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Does deletion help"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Don't-give-a-fuckism"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Don't accuse someone of a personal attack for accusing of a personal attack"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Don't be a WikiBigot"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Don't be a fanatic"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Don't be an ostrich"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Don't be ashamed"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Don't be inconsiderate"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Don't be obnoxious"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Don't be prejudiced"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Don't be rude"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Don't call a spade a spade"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Don't call the kettle black"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Don't cite essays or proposals as if they were policy"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Don't come down like a ton of bricks"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Don't cry COI"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Don't demolish the house while it's still being built"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Don't drink the consensus Kool-Aid"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Don't fight fire with fire"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Don't help too much"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Don't hope the house will build itself"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Don't leave giant breaks between sections"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Don't overuse shortcuts to policy and guidelines to win your argument"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Don't panic"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Don't remind others of past misdeeds"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Don't spite your face"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Don't take the bait"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Don't template the regulars"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Don't throw your toys out of the pram"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Drop the stick and back slowly away from the horse carcass"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:EXTERNALROT"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Editing on mobile devices"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Editors are not mindreaders"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Edits Per Day"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Encourage full discussions"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Encourage the newcomers"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Endorsements"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Enjoy yourself"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Essays are not policy"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Essays in a nutshell/Article writing"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Essays in a nutshell/Civility"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Essays in a nutshell/Deletion"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Essays in a nutshell/Notability"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Every snowflake is unique"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Existence ≠ Notability"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Explanationism"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:External links"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Failure"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Fart"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Featured articles may have problems"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Follow the leader"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:For publicists publicizing a client's work"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Forgive and forget"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:GNG"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Get over it"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Give an article a chance"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Go ahead, vandalize"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Google searches and numbers"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Harassment"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Hatnote"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Help desk"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Here to build an encyclopedia"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:High-functioning autism and Asperger's editors"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:How many Wikipedians does it take to change a lightbulb?"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:How to be civil"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:How to lose"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:How to mine a source"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:How to run an edit-a-thon"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:How to save an article proposed for deletion"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:I just don't like it"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Ignore STRONGNAT for date formats"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Immunity"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Inaccuracy"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Inclusion is not an indicator of notability"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Independent sources"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Inherent notability"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Insignificant"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:It's not the End of the World"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Just drop it"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Keep it down to earth"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:LINKROT"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Lamest edit wars"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Law sources as reliable sources"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Liar Liar Pants on Fire"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:List of guidelines"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:List of policies"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Lua requests"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Make stubs"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Masking the lack of notability"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Merge Test"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Mind your own business"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Minors and persons judged incompetent"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Mirrors and forks"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Most people who disagree with you on content are not vandals"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Moving a page"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:NONWIKIROT"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Negotiation"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Neutrality of Sources"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Newcomers are delicious, so go ahead and bite them"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:News coverage does not decrease notability"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:No, you can't have a pony"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:No amount of editing can overcome a lack of notability"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:No angry mastodons"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:No big loss"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:No climbing the Reichstag dressed as Spider-Man"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:No one cares about your garage band"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:No one really cares"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Nobody cares"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Non-free content"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Not editing because of Wikipedia restriction"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Not every story/event/disaster needs a biography"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Not everything needs a navbox"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Notability"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Notability/Historical/Arguments"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Notability (high schools)"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Notability is not a level playing field"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Notability is not a matter of opinion"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Notability means impact"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Notability points"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Notability sub-pages"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Nothing"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Nothing is in stone"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Obscure does not mean not notable"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Offline sources"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:On Wikipedia, solutions are mixtures and nothing else"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:One sentence does not an article make"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Other stuff exists"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Overzealous deletion"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:POV and OR from editors, sources, and fields"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:POV railroad"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Paradoxes"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Passive Aggressive"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Permastub"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Please be a giant dick, so we can ban you"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Please bite the newbies"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Pokémon test"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Policies and guidelines"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Potential, not just current state"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Product, process, policy"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Pruning article revisions"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Public domain"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Purpose"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Put a little effort into it"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Quote your own essay"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:R-e-s-p-e-c-t"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:REDLINKS"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:RM"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:ROT"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:RS"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Redirect"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Relationships with academic editors"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Relisting can be abusive"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Restoring part of a reverted edit"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Robotic editing"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Run-of-the-mill"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:STiki"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:STiki/Dead links"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Sham consensus"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Shortcut"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Significant coverage"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Soft redirect"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Staying cool when the editing gets hot"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Subjective importance"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Temporary versions of articles"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Ten Simple Rules for Editing Wikipedia"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Tendentious editing"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Thank you"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:The Five Pillars of Untruth"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:The Last Word"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:The Rules of Polite Discourse"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:The deadline is now"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:The difference between policies, guidelines and essays"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:The first rule of Wikipedia"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:The grey zone"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:The role of policies in collaborative anarchy"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:The rules are principles"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:The value of essays"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:The world will not end tomorrow"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:There is a deadline"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:There is no deadline"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Third-party sources"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Trifecta"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Trivial mentions"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Truce"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Using WebCite"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Using the Wayback Machine"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Vague introductions"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Verifiability"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Village pump"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Walled garden"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Watchlistitis"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:What \"Ignore all rules\" means"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:What an article should not include"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:What notability is not"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:What to do if your article gets tagged for speedy deletion"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:When in doubt, hide it in the woodwork"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Why not create an account?"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Why was the page I created deleted?"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:WikiBullying"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:WikiCrime"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:WikiHate"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:WikiLove"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:WikiPeace"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:WikiProject Council/Directory"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:WikiProject External links"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:WikiProject Resource Exchange"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Wikilawyering"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Wikipedia clones"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Wikipedia in brief"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Wikipedia is a community"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Wikipedia is a work in progress"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Wikipedia is an encyclopedia"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Wikipedia is not Whac-A-Mole"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Wikipedia is not about winning"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Wikipedia is not being written in an organized fashion"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Wikipedia is not here to tell the world about your noble cause"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Write the article first"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Writing better articles"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Writing for the opponent"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Dead link"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Wikipedia essays"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Linkrot"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Adobe Flash"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Battle of the Atlantic"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Google"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Internet Archive"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Javascript"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Link rot"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of HTTP status codes"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of Web archiving initiatives"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Memento Project"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "News"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pay wall"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Percent-encoding"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Query string"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Robots exclusion standard"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "UK Government Web Archive"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "URL"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Wayback Machine"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "WebCite"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Web archiving"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Website"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Wikisource"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Yahoo"
+    },
+    {
+      "ns": 2,
+      "exists": "",
+      "*": "User:Legobot"
+    },
+    {
+      "ns": 2,
+      "exists": "",
+      "*": "User:MerlLinkBot"
+    },
+    {
+      "ns": 2,
+      "exists": "",
+      "*": "User:RileyBot"
+    },
+    {
+      "ns": 2,
+      "exists": "",
+      "*": "User:RileyBot/Requests"
+    },
+    {
+      "ns": 2,
+      "exists": "",
+      "*": "User:RjwilmsiBot"
+    },
+    {
+      "ns": 3,
+      "exists": "",
+      "*": "User talk:Legoktm"
+    },
+    {
+      "ns": 3,
+      "exists": "",
+      "*": "User talk:MerlLinkBot"
+    },
+    {
+      "ns": 3,
+      "exists": "",
+      "*": "User talk:RjwilmsiBot"
+    },
+    {
+      "ns": 11,
+      "exists": "",
+      "*": "Template talk:Wikipedia essays"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Articles needing link rot cleanup"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Articles with dead external links"
+    }
+  ]
+}

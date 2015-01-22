@@ -1,0 +1,4218 @@
+{
+  "name": "Nickelodeon",
+  "links": [
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Articles to be merged from October 2014"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Articles needing additional references from March 2014"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Articles with unsourced statements from October 2014"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Articles containing potentially dated statements from 2014"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Nickelodeon"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Protection policy"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Citation needed"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Merging"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Verifiability"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:WikiProject Nickelodeon"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Nickelodeon"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Nickelodeon original series and Nicktoons"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Nick at Nite"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Nick Jr."
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Nickelodeon Original Movies"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Viacom Media Networks"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Viacom"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:U.S. family-oriented television channels"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Hasbro"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Webby Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "100 Deeds for Eddie McDowd"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "1080i"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "16:9"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "1997 Webby Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "2014 Kids' Choice Sports Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "480i"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "4:3"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "4DTV"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "ABC Family"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "ACNielsen"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "AMGTV"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "AT&T U-verse"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "A Fairly Odd Christmas"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "A Fairly Odd Movie: Grow Up, Timmy Turner!"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "A Fairly Odd Summer"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "A Very School Gyrls Holla-Day (film)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Aaahh!!! Real Monsters"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Abra-Catastrophe!"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Action League Now!"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Action Man: 1993–2006"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Adolescence"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Aggravation (board game)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Alan C. Greenberg"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "All Growed Up"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "All Grown Up!"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "All That"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "All That Live! (100th episode)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Allegra's Window"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "America Online"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Android (operating system)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Angus, Thongs and Perfect Snogging"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Animation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Animorphs (TV series)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Antenna TV"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Anthology series"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Apple Inc."
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Are You Afraid of the Dark?"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Are You Smarter Than a 5th Grader?"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "As Told by Ginger"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Asia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Atom Entertainment"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Australia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Avalon Hill"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Avatar: The Last Airbender"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Awards show"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "AwesomenessTV"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Axis & Allies"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "BET"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "BET Gospel"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "BET Hip-Hop"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "BabyFirstTV"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "BabyTV"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Baby Alive"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Back at the Barnyard"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Barbie: A Fashion Fairytale"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Barnyard: The Original Party Animals"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Barrel of Monkeys (game)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Battleship (game)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bella and the Bulldogs"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bellator MMA"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Best Player"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Beyblade (toy)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Big Time Audition"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Big Time Beach Party"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Big Time Concert"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Big Time Movie"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Big Time Rush"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Black Entertainment Television"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Blackpool Pleasure Beach"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Blaze and the Monster Machines"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Block programming"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Blue's Clues"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Blue's Room"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Blue Man Group Sharp Aquos Theatre"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Blythe (doll)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Boggle"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Boomerang (TV channel)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bop It"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "BrainSurge"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Breadwinners (TV series)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Broadband"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Brokered programming"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bubble Guppies"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Buckaroo! (game)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bucket & Skinner's Epic Adventures"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Burbank, California"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Burning off"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "CBS"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "CBS Corporation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "CMT Pure Country"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "CNBC-e"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "C band"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Cable television in the United States"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Caitlin's Way"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "California"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "California's Great America"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Canada"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Canada's Wonderland"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Canal J"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Candy Land"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Carowinds"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Cartoon Network"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "CatDog"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "CatDog: The Great Parent Mystery"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Catch Phrase (game)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Catscratch"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Central Time Zone"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Centric"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "ChalkZone"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Charles Phillips (businessman)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Child"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "CirKis"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Clarissa Explains It All"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Cluedo"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Columbus, Ohio"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Comedy Central"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Comedy Central Records"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Concentration (game)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Connect Four"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Cookie Jar Group"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Cookie Jar TV"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Country Music Television"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Cousin Skeeter"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Cranium (board game)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Crocodile Dentist"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Cry Baby Lane"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Curious George"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Cyma Zarghami"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "DIC Entertainment"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "DStv"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Dance on Sunset"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Danny Phantom"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Degrassi: The Next Generation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Designer's World"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Despicable Me"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Despicable Me: Minion Mayhem"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Didi and B."
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Digital cable"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Dinner theater"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Dino Dan"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "DirecTV"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Direct broadcast satellite"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Disc jockey"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Discovery Channel"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Discovery Family"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Dish Network"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Disney Channel"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Disney Consumer Products"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Disney Junior"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Disney XD"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Don't Just Sit There"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Dora and Friends: Into the City!"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Dora the Explorer"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Double Dare (Nickelodeon game show)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Doug"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Drake & Josh"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Drake & Josh: Really Big Shrimp"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Drake & Josh Go Hollywood"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "DreamWorks Animation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Dreamworld"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Duel Masters"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Dungeons & Dragons"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Eastern Time Zone"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Easy-Bake Oven"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Edutainment"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "El Tigre: The Adventures of Manny Rivera"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Electronic program guide"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Elefun"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ellen V. Futter"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "English language"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Epix (TV network)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Escape from Cluster Prime"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Eureeka's Castle"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Europe"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Every Witch Way"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Fairly OddBaby"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Fairy Idol"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Family-friendliness"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "FamilyNet"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Fanboy & Chum Chum"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Fanboy and Chum Chum"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Fatherhood (TV series)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Federal Communications Commission"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Figure It Out"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Film"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "France"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Franklin (TV series)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Franklin and Friends"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Fred: The Movie"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Fred: The Show"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Friends"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Full House"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "FurReal Friends"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Furby"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "G.I. Joe"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Game Show Network"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Game show"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Gator Golf"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "George Lopez (TV series)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Geraldine Laybourne"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Girl Talk (board game)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Glenn Martin, DDS"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Glo Worm"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Go, Diego, Go!"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Good Burger"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Google Fiber"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Gotta See Saturdays"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Greece"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Guess Who?"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Guinness record"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Gulf and Western Industries"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Gullah Gullah Island"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Gym Teacher: The Movie"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "HD radio"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hallmark Channel"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hallmark Movies & Mysteries"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hard Rock Cafe"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Harriet the Spy (film)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hasbro"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hasbro Studios"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hawaii–Aleutian Time Zone"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Henry Danger"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Herb Scannell"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hey Arnold!"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hey Dude"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hi-Jinks"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hi Ho! Cherry-O"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "High-definition television"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "High speed internet"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hillside (TV series)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "History of Nickelodeon"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hollywood, California"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hollywood Heights (TV series)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Home Improvement (TV series)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hot in Cleveland"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "House of Anubis"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "How I Met Your Mother"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "How to Rock"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hungry Hungry Hippos"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "ICarly"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "ICarly: iDate a Bad Boy"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "ICarly: iFight Shelby Marx"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "ICarly: iGo to Japan"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "ICarly: iPsycho"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "ICarly: iQuit iCarly"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "IDog"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "IGoodbye"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "IHeartMedia, Inc."
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "IHeartRadio"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "INSP (TV network)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "IPTV"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "IParty with Victorious"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Idaten Jump"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Indiana Jones (franchise)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Infomercial"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Instant Mom"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "International Standard Book Number"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Internet service provider"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Invader Zim"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ireland"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Island of the Menehune (Rocket Power)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Israel"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Jack's Big Music Show"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Jem (TV series)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Jenga"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Jetix"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Jimmy Neutron's Nicktoon Blast"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Jimmy Neutron: Boy Genius"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Jinxed (2013 film)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Joint venture"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Julius Jr."
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Jurassic Park (franchise)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Just Jordan"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Just for Kicks (TV series)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "KHMM-CD"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "KI.KA"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "KZMM-CD"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "KaBlam!"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Kappa Mikey"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Kenan & Kel"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Kids & Teens TV"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Kindernet"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Kings Dominion"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Kings Island"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Koosh ball"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Kre-O"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Kung Fu Panda: Legends of Awesomeness"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "La Familia Network"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Lalaloopsy"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Lazer Tag"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "LazyTown"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Legends of the Hidden Temple"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Let's Just Play Go Healthy Challenge"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of Hasbro games"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of Hasbro toys"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of Kenan & Kel episodes"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of Programs broadcast by Nickelodeon Pakistan"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of Rugrats episodes"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of films broadcast by Nickelodeon"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of programmes broadcast by Nickelodeon (UK & Ireland)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of programs broadcast by Nick Jr."
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of programs broadcast by Nick at Nite"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of programs broadcast by Nickelodeon"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of programs broadcast by Nickelodeon (Australia and New Zealand)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of programs broadcast by Nickelodeon (Brazil)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of programs broadcast by Nickelodeon (Canada)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of programs broadcast by Nickelodeon (Southeast Asia)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of programs broadcast by Nickelodeon Philippines"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of programs broadcast by Nicktoons"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of programs broadcast by TeenNick"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Lite-Brite"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Little Bear (TV series)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Little Bill"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Little Bill (TV series)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Littlest Pet Shop"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Logo TV"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Louisiana"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "MTV"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "MTV2"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "MTV Films"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "MTV Hits"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "MTV Jams"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "MTV Tres"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Maggie and the Ferocious Beast"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Magic: The Gathering"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Maisy"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Making Fiends (TV series)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mall Madness"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mall of America"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Maniac Magee"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Marvel Legends"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Marvel Super Hero Squad"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Marvel Universe (toyline)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Marvin Marvin"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mattel"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Max & Ruby"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Max & Shred"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Me-TV"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Merry Christmas, Drake & Josh"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mighty Muggs"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mike the Knight"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Milton (game)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Milton Bradley Company"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Miss Spider's Sunny Patch Friends"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mobile app"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mohawk hairstyle"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mon Nickelodeon Junior"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Monopoly (game)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Monster High"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Monsters vs. Aliens (TV series)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mountain Time Zone"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mouse Trap (game)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "MovieTickets.com"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Movie Park Germany"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mr. Bill"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mr. Ed"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mr. Meaty"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mr. Potato Head"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mr. Troop Mom"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "MtvU"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Multiple-camera setup"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "My Brother and Me"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "My Family's Got Guts"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "My Life as a Teenage Robot"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "My Little Pony"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mystery Date (game)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "NBC"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Naked Brothers Band: Mystery Girl"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Naked Idol (TV movie)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "National Amusements"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "National Register for Historic Places"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ned's Declassified School Survival Guide"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nerf"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nerf Blaster"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "New Orleans, Louisiana"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "New York"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "New York City"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "New York University"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ni Hao, Kai-Lan"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nick.com"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "NickMom"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nick (Pakistan)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nick Hits (Netherlands & Flanders)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nick Hits (Nickelodeon Latin America Block)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nick Jr."
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nick Jr. (Australia)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nick Jr. (CIS)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nick Jr. (Germany)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nick Jr. (Greece)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nick Jr. (Italy)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nick Jr. (Kazakhstan)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nick Jr. (Latin America)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nick Jr. (Netherlands & Flanders)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nick Jr. (Russia)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nick Jr. (Southeast Asia)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nick Jr. (Sweden)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nick Jr. (Turkey)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nick Jr. (Turkmenistan)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nick Jr. (UK and Ireland)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nick Jr. (block)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nick Jr. Too"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nick Jr India"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nick News"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nick Play Date"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nick Radio"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nick Records"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nick Studio 10"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nick at Nite"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nick in the Afternoon"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickel-O-Zone"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon (Africa)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon (Australia)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon (Australia and New Zealand)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon (Brazil)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon (Bulgaria)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon (CIS)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon (Canada)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon (Croatia)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon (Denmark)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon (Europe)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon (Finland)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon (France & Wallonia)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon (Germany)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon (Greece)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon (Hungary)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon (Israel)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon (Italy)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon (Japan)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon (Latin America)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon (Mainland China)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon (Malaysia)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon (Mongolia)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon (Netherlands)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon (New Zealand)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon (Norway)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon (Pakistan)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon (Philippines)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon (Poland)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon (Portugal)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon (Scandinavia)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon (Serbia)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon (South Korea)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon (Southeast Asia)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon (Spain)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon (Sweden)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon (Switzerland)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon (Taiwan)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon (Turkey)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon (UK and Ireland)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon (Ukraine)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon (Vietnam)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon (disambiguation)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon (international)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon Animated Shorts Program"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon Animation Studio"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon Arabia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon Blast Zone"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon Central"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon Creative Labs"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon Games and Sports for Kids"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon India"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon Junior"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon Kids' Choice Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon Land"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon Magazine"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon Movies"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon On Sunset"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon Resorts by Marriott"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon Rewind"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon Splat!"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon Splat City"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon Studios"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon Suites Resort"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon Suites Resort Orlando"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon Toys"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon Universe"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon around the world"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon in amusement parks"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon on CBS"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nickelodeon on Sunset"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nicktoons"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nicktoons (Germany)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nicktoons (Netherlands & Flanders)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nicktoons (TV channel)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nicktoons (UK and Ireland)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nicktoons (United States)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nicktoons Film Festival"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nicktoons France"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nicktoonsters"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nicky, Ricky, Dicky & Dawn"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nicky Deuce"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nielsen Holdings"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Noah Knows Best"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Noggin (TV channel)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Noggin (Viva UK block)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Norwegian Cruise Line"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Oceania"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Oh Yeah! Cartoons"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ohio"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Old Warner Bros. Studio"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Olivia (TV series)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Oobi (TV series)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Operation (game)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Orlando, Florida"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Oswald (TV series)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ouija"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Out of Control (TV series)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "PAW Patrol"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "PBJ (TV network)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "PBS Kids"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pacific Time Zone"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Palladia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Paramount Animation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Paramount Motion Pictures Group"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Paramount Pictures"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Paramount Pictures Corporation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Paramount Vantage"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Parcheesi"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Parker Brothers"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Paul Christie (voice actor)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pay television"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pelswick"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Penguin"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Perfection (board game)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Petah Tikva"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Peter Rabbit (TV series)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Philippe Dauman"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pictionary"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pinky Dinky Doo"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pinwheel (TV series)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pit (game)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "PixL"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Planet Sheen"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Play-Doh"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Playhouse Disney"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Playskool"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pop music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pound Puppies"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Power Rangers Megaforce"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Power Rangers Samurai"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Prime time"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Profanity"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "QUBE"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Qubo"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "RCA"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "RTÉ Two"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rabbids Invasion"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Race Across New Zealand (Rocket Power)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Radio edit"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Radio network"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rags (2012 film)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Republic Pictures"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rerun"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Retro Television Network"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Risk (game)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Robert Kraft"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Robot and Monster"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rocket Monkeys"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rocket Power"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rocko's Modern Life"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Romeo!"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rook (card game)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Roseanne (TV series)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Roundhouse (TV series)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Roxy Hunter and the Horrific Halloween"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Roxy Hunter and the Mystery of the Moody Ghost"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Roxy Hunter and the Myth of the Mermaid"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Roxy Hunter and the Secret of the Shaman"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rubik's Cube"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rugrats"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rugrats Pre-School Daze"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Runaway Reptar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "SNICK"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Salute Your Shorts"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sam & Cat"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "San Diego"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sanjay and Craig"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Satcom (satellite)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Scattergories"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "School's Out! The Musical"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "School Gyrls: The Movie"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Scrabble"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Second audio program"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "See Dad Run"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sesame Workshop"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Shari Redstone"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Shredderman Rules"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Shrek 4-D"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sid the Science Kid"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Simon (game)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Simulcast"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Single-camera setup"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sit 'n Spin"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sitcom"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Slime Time Live"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Smartphone"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Smile of a Child TV"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Snakes and Ladders"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "SonBeam Channel"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sonic (TV channel)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sorry! (game)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sozin's Comet: The Final Battle"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Space Cases"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Spectacular!"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Spider-Man Classics"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Spike (TV network)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Spirograph"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "SpongeBob's Atlantis SquarePantis"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "SpongeBob's Truth or Square"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "SpongeBob SquarePants"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sprout (TV network)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Standard-definition television"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Star Wars"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Stickle Bricks"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Stratego"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Strawberry Shortcake"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sumner Redstone"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Supah Ninjas"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Super RTL"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Super Soaker"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Swindle (2013 film)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "T.U.F.F. Puppy"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "TBS (TV channel)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "TEENick"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "TG4"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "TV Everywhere"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "TV Land"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tablet computer"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Taboo (game)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Taina (TV series)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tak and the Power of Juju (TV series)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Team Umizoomi"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "TeenNick"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Teenage Mutant Ninja Turtles (2012 TV series)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Teenagers"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Telemundo"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Television film"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Television network"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Television program"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Television series"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Terry the Tomboy"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Text messaging"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The '90s Are All That"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Adventures of Jimmy Neutron: Boy Genius"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Adventures of Ozzie and Harriet"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Adventures of Pete & Pete"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Amanda Show"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Angry Beavers"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Backyardigans"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Big Day (Rocket Power)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Big Help"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Boy Who Cried Werewolf (2010 film)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Brothers Flub"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Brothers García"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Busy World of Richard Scarry"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Cosby Show"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Donna Reed Show"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Fairly OddParents"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Fresh Beat Band"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Fresh Prince of Bel Air"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Game of Cootie"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Game of Life"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Haunted Hathaways"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Jimmy Timmy Power Hour 2: When Nerds Collide"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Jimmy Timmy Power Hour 3: The Jerkinators"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Journey of Allen Strange"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Last Day of Summer"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Legend of Korra"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Mighty B!"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Mystery Files of Shelby Woo"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Naked Brothers Band: Battle of the Bands"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Naked Brothers Band: Operation Mojo"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Naked Brothers Band: Polar Bears"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Naked Brothers Band: Sidekicks"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Naked Brothers Band (TV series)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Naked Brothers Band (film)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Nick Cannon Show"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Penguins of Madagascar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Premiere (TV movie)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Ren & Stimpy Show"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Ren and Stimpy Show"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Rugrats Movie"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Search for the Funniest Mom in America"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Secret Show"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Secret World of Alex Mack"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Simpsons (franchise)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The SpongeBob SquarePants Movie"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Spongebob Squarepants Movie"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Thundermans"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Troop"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Upside Down Show"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Wild Thornberrys"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Wubbulous World of Dr. Seuss"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The X's"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Thomas E. Dooley"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tickety Toc"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tiger Electronics"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Time Warner Cable"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Times Square"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tinkertoy"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tonka"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Toon Disney"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Toot & Puddle (TV series)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Top 40"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Transformers (toy line)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Trivial Pursuit"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Trouble (board game)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "True Jackson, VP"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Turkey"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Turtles Forever"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Twister (game)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "U-Pick Live"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "URGE (digital music service)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Underwriting"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Unfabulous"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Unfabulous: The Perfect Moment"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "United International Pictures"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "United States"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Universal Orlando"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Universal Studios Hollywood"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Universal Studios Home Entertainment"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Universal Studios Resort"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Upwords"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "VH1"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "VH1 Classic"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "VH1 Soul"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Verizon FiOS"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Viacom"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Viacom (original)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Viacom 18"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Viacom Entertainment Store"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Viacom International"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Viacom International Media Networks"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Viacom Media Networks"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Viacom criticisms and controversies"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Victorious"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Victorious: Freak the Freak Out"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Victorious: Locked Up"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Video game"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Video on demand"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Vrak.TV"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "WHTZ"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Wallykazam!"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Walt Disney World"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Warner Bros."
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Wayside (TV series)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Webby Award"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Weeble"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Welcome Freshmen"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Wendell & Vinnie"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "What Would You Do?"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Wild & Crazy Kids"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "William Schwartz (law professor)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Winx Club"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Wishology"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Wizards of the Coast"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Wolverine and the X-Men (toyline)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Wonder Girls"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Wonder Pets!"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "World Wide Web"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Worldwide Day of Play"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Wow! Wow! Wubbzy!"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "X-Men Origins: Wolverine (toyline)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "YTV (TV channel)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Yahtzee"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Yes, Dear"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Yo Gabba Gabba!"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "You Gotta See This"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Youtoo TV"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Zack & Quack"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Zoey 101"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Zoey 101: Chasing Zoey"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Zoey 101: Goodbye Zoey?"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Zoey 101: Spring Break-Up"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Zoey 101: The Curse of PCA"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "¡Sorpresa!"
+    },
+    {
+      "ns": 0,
+      "*": "Pillarboxing (filming)"
+    },
+    {
+      "ns": 0,
+      "*": "Nick Jr. (Africa)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "1998 Webby Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "1999 Webby Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "2000 Webby Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "2001 Webby Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "2002 Webby Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "2003 Webby Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "2004 Webby Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "2005 Webby Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "2006 Webby Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "2007 Webby Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "2008 Webby Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "2009 Webby Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "2010 Webby Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "2011 Webby Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "2012 Webby Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "2013 Webby Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "2014 Webby Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Chicago Sun-Times"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "HighBeam Research"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "KTVK"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of Webby Award winners"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Phoenix, Arizona"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "TV by the Numbers"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Times-Picayune"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Zap2it"
+    },
+    {
+      "ns": 1,
+      "exists": "",
+      "*": "Talk:Nickelodeon"
+    },
+    {
+      "ns": 11,
+      "exists": "",
+      "*": "Template talk:Hasbro"
+    },
+    {
+      "ns": 11,
+      "exists": "",
+      "*": "Template talk:Nick Jr."
+    },
+    {
+      "ns": 11,
+      "exists": "",
+      "*": "Template talk:Nick at Nite"
+    },
+    {
+      "ns": 11,
+      "exists": "",
+      "*": "Template talk:Nickelodeon"
+    },
+    {
+      "ns": 11,
+      "exists": "",
+      "*": "Template talk:Nickelodeon Original Movies"
+    },
+    {
+      "ns": 11,
+      "exists": "",
+      "*": "Template talk:Nickelodeon original series and Nicktoons"
+    },
+    {
+      "ns": 11,
+      "exists": "",
+      "*": "Template talk:U.S. family-oriented television channels"
+    },
+    {
+      "ns": 11,
+      "exists": "",
+      "*": "Template talk:Viacom"
+    },
+    {
+      "ns": 11,
+      "exists": "",
+      "*": "Template talk:Viacom Media Networks"
+    },
+    {
+      "ns": 11,
+      "exists": "",
+      "*": "Template talk:Webby Awards"
+    },
+    {
+      "ns": 12,
+      "exists": "",
+      "*": "Help:Introduction to referencing/1"
+    },
+    {
+      "ns": 100,
+      "exists": "",
+      "*": "Portal:Film"
+    },
+    {
+      "ns": 100,
+      "exists": "",
+      "*": "Portal:Nickelodeon"
+    },
+    {
+      "ns": 100,
+      "exists": "",
+      "*": "Portal:Television"
+    },
+    {
+      "ns": 100,
+      "exists": "",
+      "*": "Portal:Companies"
+    },
+    {
+      "ns": 100,
+      "exists": "",
+      "*": "Portal:Television in the United States"
+    },
+    {
+      "ns": 108,
+      "exists": "",
+      "*": "Book:Nick Jr."
+    },
+    {
+      "ns": 108,
+      "exists": "",
+      "*": "Book:Nick at Nite"
+    },
+    {
+      "ns": 108,
+      "exists": "",
+      "*": "Book:Nickelodeon"
+    }
+  ]
+}

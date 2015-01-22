@@ -1,0 +1,1875 @@
+{
+  "name": "Musician",
+  "links": [
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Instrumentalist"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music artist"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Afghanistan"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Albania"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Algeria"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Andorra"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Angola"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Antigua and Barbuda"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Argentina"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Armenia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Australia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Austria"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Azerbaijan"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of the Bahamas"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Bahrain"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Bangladesh"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Barbados"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Belarus"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Belgium"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Belize"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Benin"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Bhutan"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Bolivia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Bosnia and Herzegovina"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Botswana"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Brazil"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Brunei"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Bulgaria"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Burkina Faso"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Burma"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Burundi"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Cambodia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Cameroon"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Canada"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Cape Verde"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of the Central African Republic"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Chad"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Chile"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of China"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Colombia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Comoros"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Costa Rica"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Croatia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Cuba"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Cyprus"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of the Czech Republic"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of the Democratic Republic of the Congo"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Denmark"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Djibouti"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Dominica"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of the Dominican Republic"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of East Timor"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Ecuador"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Egypt"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of El Salvador"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Equatorial Guinea"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Eritrea"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Estonia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Ethiopia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of the Federated States of Micronesia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Fiji"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Finland"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of France"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Gabon"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of the Gambia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Georgia (country)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Germany"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Ghana"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Greece"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Greenland"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Grenada"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Guatemala"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Guinea"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Guinea-Bissau"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Guyana"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Haiti"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Honduras"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Hong Kong"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Hungary"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Iceland"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of India"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Indonesia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Iran"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Iraq"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Ireland"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Israel"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Italy"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Ivory Coast"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Jamaica"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Japan"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Jordan"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Kazakhstan"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Kenya"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Kiribati"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Kuwait"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Kyrgyzstan"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Laos"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Latvia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Lebanon"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Lesotho"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Liberia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Libya"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Liechtenstein"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Lithuania"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Luxembourg"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Macau"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of the Republic of Macedonia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Madagascar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Malawi"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Malaysia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of the Maldives"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Mali"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Malta"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of the Marshall Islands"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Mauritania"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Mauritius"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Mexico"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Moldova"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Monaco"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Mongolia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Montenegro"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Morocco"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Mozambique"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Namibia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Nauru"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Nepal"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of the Netherlands"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of New Zealand"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Nicaragua"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Niger"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Nigeria"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of North Korea"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Norway"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Oman"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Pakistan"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Palau"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Panama"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Papua New Guinea"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Paraguay"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Peru"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of the Philippines"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Poland"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Portugal"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Qatar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of the Republic of the Congo"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Romania"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Russia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Rwanda"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Saint Kitts and Nevis"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Saint Lucia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Saint Vincent and the Grenadines"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Samoa"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of San Marino"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of São Tomé and Príncipe"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Saudi Arabia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Senegal"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Serbia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Seychelles"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Sierra Leone"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Singapore"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Slovakia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Slovenia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of the Solomon Islands"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Somalia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of South Africa"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of South Korea"
+    },
+    {
+      "ns": 0,
+      "*": "Music of South Sudan"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Spain"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Sri Lanka"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Sudan"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Suriname"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Swaziland"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Sweden"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Switzerland"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Syria"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Taiwan"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Tajikistan"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Tanzania"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Thailand"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Timor-Leste"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Togo"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Tonga"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Trinidad and Tobago"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Tunisia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Turkey"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Turkmenistan"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Tuvalu"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Uganda"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Ukraine"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of the United Arab Emirates"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of the United Kingdom"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of the United States"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Uruguay"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Uzbekistan"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Vanuatu"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Vatican City"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Venezuela"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Vietnam"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Yemen"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Zambia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Zimbabwe"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "20th-century music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "21st-century classical music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "A-side and B-side"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Absolute monarchy"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Album"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ancient music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Antonio Vivaldi"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Arranging"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Baroque era"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Baroque music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Baroque period"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Basso continuo"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Beatritz de Dia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Catholic Church"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Central American music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Chapel"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Church (building)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Classical music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Classical period (music)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Claudio Monteverdi"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Compilation album"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Composer"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Conducting"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Contemporary classical music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Counterpoint"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Cover version"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Culture in music cognition"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ecomusicology"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Economic"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Electronic music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ethnomusicology"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Extended play"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Folk music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "France"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Franz Liszt"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Franz Schubert"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Frédéric Chopin"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "George Frideric Handel"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Giovanni Gabrieli"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Glossary of jazz and popular music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Glossary of musical terminology"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Gregorian chant"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Guillaume Dufay"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Guillaume de Machaut"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Guy Pratt"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Harvard University"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hildegard of Bingen"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "History of classical music traditions"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "History of music in the biblical period"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Improvisation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Index of music articles"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Industrial Revolution"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Instrumentalism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Johann Sebastian Bach"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Johann Strauss II"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Johannes Brahms"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "John Jenkins"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Joseph Haydn"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Latin"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Latin American music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Leonardo da Vinci"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of Caribbean music genres"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of cultural and regional genres of music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of musical forms by era"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of musical instruments"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of popular music genres"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Lists of albums"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Lists of songs"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Live album"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Loudness"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ludwig Van Beethoven"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ludwig van Beethoven"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Lyrics"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mass (music)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mass media"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Medieval music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Melody"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Middle Ages"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Middle Eastern music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Military"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Modernism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mozart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music and politics"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music artist (occupation)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music education"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music genre"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music history"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music industry"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Africa"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Asia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Central Asia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Melanesia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Micronesia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of North Africa"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Polynesia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Southeast Asia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of Southeastern Europe"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music of West Africa"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music psychology"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music technology"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music theory"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music therapy"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Musical composition"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Musical ensemble"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Musical form"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Musical improvisation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Musical notation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Musicology"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nordic folk music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Orchestration"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Outline of music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Patronage"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Performing"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Phillipe de Vitry"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Poetry"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Political"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Polyphonic"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Popular music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Prehistoric music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Protestantism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pyotr Ilyich Tchaikovsky"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Record label"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Record producer"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Religious music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Remix"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Remix album"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Renaissance"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Renaissance music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Revolution"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Richard Wagner"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rock music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Roman Catholic Church"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Romantic music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Romantic period"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Romanticism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sampling (music)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Session musician"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Singer"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Singing"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Single (music)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Society"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Song"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sound recording and reproduction"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Spirituality"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Studio album"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Rite of Spring"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Thomas Tallis"
+    },
+    {
+      "ns": 6,
+      "exists": "",
+      "*": "File:A Chantar2.ogg"
+    },
+    {
+      "ns": 6,
+      "*": "File:Monteverdi - Combattimento - Battle music.ogg"
+    },
+    {
+      "ns": 6,
+      "exists": "",
+      "*": "File:Handel - messiah - 44 hallelujah.ogg"
+    },
+    {
+      "ns": 6,
+      "*": "File:Mozart Piano Sonata Amin3.ogg"
+    },
+    {
+      "ns": 6,
+      "*": "File:Beethoven Piano Concerto No.4 in G Major - Andante con moto.ogg"
+    },
+    {
+      "ns": 6,
+      "*": "File:Igor Stravinsky - 3 Pieces for Clarinet Alone.ogg"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Music topics"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Media help"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Sound/list"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:WikiProject Music"
+    },
+    {
+      "ns": 11,
+      "exists": "",
+      "*": "Template talk:Music topics"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Central African music (region)"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Central European music"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:East African music"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:East Asian music"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Eastern European music"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:European music"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Music"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:North American music"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Oceanian music"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:South American music"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:South Asian music"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Southern African music"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Southern European music"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Western European music"
+    },
+    {
+      "ns": 100,
+      "exists": "",
+      "*": "Portal:Music"
+    }
+  ]
+}

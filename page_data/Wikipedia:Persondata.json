@@ -1,0 +1,289 @@
+{
+  "name": "Wikipedia:Persondata",
+  "links": [
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:PERSON"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:AWB"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:BIO"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:BLP"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Categorization"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:DATA"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Disambiguation"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Manual of Style/Dates and numbers"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:PDATA"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:PDT"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Persondata-o-matic"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Persondata/extractPersondata.stx"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Persondata/pd2tab.stx"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Persondata/table.sql"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Persondata/transform.pl"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Shortcut"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:TONE"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:WikiProject Microformats/hcard"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:WikiProject Persondata"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Wikidata"
+    },
+    {
+      "ns": 5,
+      "exists": "",
+      "*": "Wikipedia talk:Persondata"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Persondata"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Birth date"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Lifetime"
+    },
+    {
+      "ns": 10,
+      "*": "Template:PND"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "AACR2"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Christopher Columbus"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Connie Mack (baseball)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "DBpedia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Eddy Merckx (billiards player)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Eddy Merckx (cyclist)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Emulator"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Extract, transform, load"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "German National Library"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "HCard"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Library of Congress"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Linux"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ludwig van Beethoven"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Metadata"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Microformat"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mohandas Karamchand Gandhi"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Oprah Winfrey"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Perl"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pseudonym"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Romaji"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Royal and noble styles"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Semantic Mediawiki"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Streaming Transformations for XML"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Townes Van Zandt"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Wget"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Wikidata"
+    },
+    {
+      "ns": 2,
+      "exists": "",
+      "*": "User:Nichtich"
+    },
+    {
+      "ns": 3,
+      "exists": "",
+      "*": "User talk:Dr pda/persondata.js"
+    },
+    {
+      "ns": 12,
+      "exists": "",
+      "*": "Help:Category"
+    },
+    {
+      "ns": 12,
+      "exists": "",
+      "*": "Help:User style"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Persondata templates without name parameter"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Persondata templates without short description parameter"
+    }
+  ]
+}

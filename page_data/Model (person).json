@@ -1,0 +1,10 @@
+{
+  "name": "Model (person)",
+  "links": [
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Model (people)"
+    }
+  ]
+}

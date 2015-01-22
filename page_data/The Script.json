@@ -1,0 +1,724 @@
+{
+  "name": "The Script",
+  "links": [
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Use Irish English from August 2013"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Use dmy dates from March 2014"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Articles that may contain original research from February 2013"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Articles with unsourced statements from August 2013"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Articles with dead external links from April 2014"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:The Script albums"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:The Script songs"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:The Script"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "2013 BRIT Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "3 (The Script album)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "3 World Tour"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "90210 (TV series)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "AOL Music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "AllMusic"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Allmusic"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Anastacia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Authority control"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Aviva Stadium"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "B.o.B"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "BBC Radio 1"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "BalconyTV"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Before the Worst"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Billboard 200"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bono"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Boyz II Men"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Breakeven (song)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Brit Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Britney Spears"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Children in Need 2010"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Citi Field"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Coca-Cola Dome"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Coldplay"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Columbia Records"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Contemporary R&B"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Daily Mirror"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Dallas Austin"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Danny O'Donoghue"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Dublin"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "EBBA Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "EastEnders"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Enrique Iglesias"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Epic Records"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "For the First Time (The Script song)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ghost Whisperer"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Gigwise"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hall of Fame (song)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Heidi Klum"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hip hop music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "House of Blues"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "ITunes"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "ITunes Festival"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "If You Could See Me Now (The Script song)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "If You Ever Come Back"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Integrated Authority File"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Irish Albums Chart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Irish Singles Chart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Isle of Wight Festival"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Jo Whiley"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Johannesburg"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Kris Allen"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Last.FM"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Leona Lewis"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Live Like We're Dying"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "London"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Los Angeles"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "MLB Fan Cave"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Made in Chelsea"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Major League Baseball postseason"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mark Ronson"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mcfly"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Meteor Ireland Music Awards"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Millionaires (The Script song)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Montell Jordan"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mrs. Brown's Boys D'Movie"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "MusicBrainz"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Music genre"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mytown"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "NBC"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "NME"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Native Summer Tour"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Native Tour"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "No Good in Goodbye"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "No Sound Without Silence"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "No Sound Without Silence Tour"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nothing (The Script song)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "OneRepublic"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Oxegen"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Park"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Paul McCartney"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Phonogenic Records"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pinkpop festival"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pop rock"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "RCA Records"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "RTE 2fm"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Record label"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Recording Industry Association of America"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Republic of Ireland"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rodney Alejandro"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Science & Faith"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Science & Faith (song)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Science & Faith Tour"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Script (disambiguation)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Six Degrees of Separation (song)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Skanderborg Festival"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Snow Patrol"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Soft rock"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sony Music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sony Music Entertainment"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sudoeste Festival"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Superheroes (The Script song)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "TLC (group)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "T in the park"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Take That"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Talk You Down"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Teddy Riley (producer)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tennents ViTal"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Coronas"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Hills"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Man Who Can't Be Moved"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Neptunes"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Police"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Saturdays"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Script (album)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Script discography"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Vampire Diaries (TV series)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Voice UK"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Timbaland"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tinie Tempah"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Today (NBC program)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Today FM"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "U2"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "UK Singles Chart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "V festival"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Van Morrison"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Victoria's Secret"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Virtual International Authority File"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Waterloo Road (TV series)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "We Cry"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Will.i.am"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "World Music Awards"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Citation needed"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Link rot"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:No original research"
+    },
+    {
+      "ns": 11,
+      "*": "Template talk:The Script"
+    }
+  ]
+}

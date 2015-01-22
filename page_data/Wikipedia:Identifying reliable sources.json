@@ -1,0 +1,1130 @@
+{
+  "name": "Wikipedia:Identifying reliable sources",
+  "links": [
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:RS"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:CONTEXTMATTERS"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:SCHOLARSHIP"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:NEWSORG"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:BIASED"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:QUESTIONABLE"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:USERGENERATED"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:SELFSOURCE"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:WPNOTRS"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:RS/MC"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:RS/AC"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:USEBYOTHERS"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:RSOPINION"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:RSBREAKING"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Protection policy"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:ASF"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Article size"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Article titles"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Articles on sources"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Assume good faith"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:BLP"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Be bold"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Behavioral policies"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Biographies of living persons"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:CIRCULAR"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:CITE"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Categories, lists, and navigation templates"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Categorization"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Cherrypicking"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Child protection"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Children's, adult new reader, and large print sources questionable on reliability"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Citation needed"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Citing sources"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Civility"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Common knowledge"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Conflict of interest"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Consensus"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Content policies"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Core content policies"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Courtesy vanishing"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Current event templates"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Current science and technology sources"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Deletion guidelines for administrators"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Deletion policy"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Deletion process"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Disambiguation"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Dispute resolution"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Disruptive editing"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Do not create hoaxes"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Do not disrupt Wikipedia to illustrate a point"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Do not include the full text of lengthy primary sources"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Edit warring"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Editing policy"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Etiquette"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Five pillars"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Free English newspaper sources"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Fringe theories"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Gaming the system"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Harassment"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Hatnote"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:How to mine a source"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:INTEXT"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Identifying reliable sources (history)"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Identifying reliable sources (medicine)"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Ignore all rules"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Image use policy"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Inaccuracy"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Independent sources"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Law sources as reliable sources"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:List of guidelines"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:List of online newspaper archives"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:List of policies"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:List of policies and guidelines"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Make technical articles understandable"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Manual of Style"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Manual of Style/Accessibility"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Manual of Style/Contents"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Manual of Style/Dates and numbers"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Manual of Style/Images"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Manual of Style/Layout"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Manual of Style/Lead section"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Manual of Style/Linking"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Manual of Style/Lists"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Manual of Style/Tables"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Merge"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:NEWSBLOG"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:NOTGOSSIP"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:NOTNEWS"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Namespace"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Neutral point of view"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Neutrality of Sources"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:News sources"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:No legal threats"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:No original research"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:No personal attacks"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Non-free content"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Notability"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Notability (events)"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Offensive material"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Offline sources"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Ownership of articles"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:PSTS"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Patent nonsense"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Please do not bite the newcomers"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Policies and guidelines"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Potentially unreliable sources"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Primary"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Principles"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Published"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:QUESTIONED"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:RELIABLE"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:RELY"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:RSCONTEXT"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Recentism"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Redirect"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Reliability"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Reliable source examples"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Reliable sources/Cost"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Reliable sources/Flaws"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Reliable sources/Noticeboard"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Reliable sources checklist"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:SAYWHEREYOUGOTIT"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:SOURCE"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:SYNTH"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Secondary"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Shortcut"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Signatures"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Sock puppetry"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Speedy keep"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Subpages"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Talk page guidelines"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Template messages/Cleanup/Verifiability and sources"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Template namespace"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Tertiary"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Third-party sources"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:UGC"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:UNDUE"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:USERG"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:User pages"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:VANDAL"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Vandalism"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Verifiability"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Video links"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:What \"Ignore all rules\" means"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:What Wikipedia is not"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:WikiProject Council/Guide"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:WikiProject Fact and Reference Check"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:WikiProject Resource Exchange/Resource Request"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:WikiProject Resource Exchange/Shared Resources"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:WikiProject Skepticism"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:WikiProject Taxation"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Wikipedia Signpost/2008-06-26/Dispatches"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Wikipedia clones"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Guideline list"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Notability"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Fact"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Vc"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Wikipedia policies and guidelines"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Cn"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Current"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Recent death"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Rs"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Agence France-Presse"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Associated Press"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "BBC News"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Barry Goldwater"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Betty Friedan"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Blog"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Cambridge University Press"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Change detection and notification"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Citation index"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Content farm"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Correction (newspaper)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Digital object identifier"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Editorial"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Facebook"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Groupthink"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Harry Magdoff"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Higher education accreditation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Internet Movie Database"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Internet forum"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of academic databases and search engines"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of digital library projects"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Literature review"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Medical guideline"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Medical journal"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Medicine"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Meta-analysis"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "News agency"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Op-ed"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Opinion piece"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Peer-review"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Personal web page"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Predatory open access publishing"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Private Eye"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Randall Munroe"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Random House"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Reuters"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Review articles"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Self-publishing"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Source criticism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Systematic review"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Charleston Advisor"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tumblr"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Twitter"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Wiki"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Wire service"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Xkcd"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Zine"
+    },
+    {
+      "ns": 5,
+      "exists": "",
+      "*": "Wikipedia talk:Identifying reliable sources"
+    },
+    {
+      "ns": 11,
+      "exists": "",
+      "*": "Template talk:Guideline list"
+    },
+    {
+      "ns": 11,
+      "exists": "",
+      "*": "Template talk:Wikipedia policies and guidelines"
+    },
+    {
+      "ns": 12,
+      "exists": "",
+      "*": "Help:Edit summary"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Wikipedia administration"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Wikipedia behavioral guidelines"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Wikipedia categories"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Wikipedia categorization"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Wikipedia content guidelines"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Wikipedia deletion guidelines"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Wikipedia discussion"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Wikipedia editing guidelines"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Wikipedia guidelines"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Wikipedia policies"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Wikipedia style guidelines"
+    },
+    {
+      "ns": 108,
+      "exists": "",
+      "*": "Book:Key Wikipedia Policies & Guidelines"
+    }
+  ]
+}

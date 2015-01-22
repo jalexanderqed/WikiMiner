@@ -1,0 +1,2122 @@
+{
+  "name": "Guitar",
+  "links": [
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Articles containing German-language text"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Articles containing French-language text"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Articles containing Spanish-language text"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Articles with unsourced statements from December 2014"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Articles containing Latin-language text"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Articles containing Ancient Greek-language text"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Articles with specifically marked weasel-worded phrases from April 2011"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Articles with unsourced statements from April 2011"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Articles with unsourced statements from August 2007"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Articles with unsourced statements from January 2009"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Guitar performance techniques"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Guitar tunings"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Guitars"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Protection policy"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Citation needed"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Manual of Style/Words to watch"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Media help"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Wikimedia sister projects"
+    },
+    {
+      "ns": 6,
+      "*": "File:Romanza española.ogg"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "12-string guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "5.1 surround guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Acoustic-electric guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Acoustic bass guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Acoustic guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Acoustics"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Action (music)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Agustin Barrios"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Alder"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "All-fifths tuning"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "All fifths tuning"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "All fourths tuning"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Amplifier"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ancient Greek"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ancient Rome"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Andalusian Arabic"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Antonio de Torres Jurado"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Apulia"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Archtop guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ash tree"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Augmented-fourths tuning"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "B-Bender"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "B tuning"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bajo sexto"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bandola"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Banjo"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Baritone guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Baroque"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Baroque guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Barre chord"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Basilicata"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bass guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bass guitar tuning"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Basswood"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Battery (electricity)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Billy Gibbons"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bluegrass music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Blues"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Blues music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bolt-on neck"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bone"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bonnie Raitt"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bottleneck guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bowed string instrument"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Brass"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Brian May"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bridge (instrument)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "British sixpence coin"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "B♭ tuning"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "C.F. Martin"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "C.F. Martin & Company"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "C6 tuning"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "C tuning (guitar)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Cable"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Calabria"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Campania"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Capacitors"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Capo"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Carolingian"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Catgut"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Cello"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Chapman Stick"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Chitarra battente"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Chord (music)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Chord inversion"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Chordophone"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Choro"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Chromatic scale"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Cithara"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Cittern"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Classical guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Classical guitar strings"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Classical guitar with additional strings"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Corian"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Country music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Course (music)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Craviola"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "DADGAD"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "D tuning"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Dave Murray (musician)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Derek Trucks"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Digitech"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Discipline Global Mobile"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Distortion"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Django Reinhardt"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Dobro"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Double bass"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Double drop D tuning"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Double neck guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Double neck guitars"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Doubleneck guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Dreadnought (guitar type)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Drop-D"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Drop B tuning"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Drop C tuning"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Drop D tuning"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Drop tunings"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Dropped A tuning"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Duane Allman"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "D♭ tuning"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "E9 tuning"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Early music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ebony"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Effects pedals"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Effects unit"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Eight-string guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Electric guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Electric guitar design"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Electrical generator"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Electromagnetism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Eleven-string alto guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Eleven-string guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Elmore James"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "English guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Equal temperament"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "European classical music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Experimental luthier"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Extended-range classical guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "E♭ tuning"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Fado"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Fender Musical Instruments Corporation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Fender Stratocaster"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Fingerboard"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Fingerpicking"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Flamenco"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Flamenco guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Folk"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Folk music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Frequency"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Fret"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Fretboard"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Fretless guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Frets"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Frying pan (guitar)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Gaspar Sanz"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "George Beauchamp"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "George Harrison"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "George Thorogood"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "George Van Eps"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Gibson Guitar Corporation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Gibson Les Paul"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Gibson Robot Guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Gittern"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Glissando"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Graphite"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Guitalele"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Guitar (disambiguation)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Guitar Craft"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Guitar amplifier"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Guitar battente"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Guitar bracing"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Guitar chord"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Guitar harmonics"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Guitar manufacturing"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Guitar pick"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Guitar picking"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Guitar solo"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Guitar tuning"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Guitar tunings"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Guitar wiring"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Guitarist"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Guitarra latina"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Guitarrón chileno"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Guitarrón mexicano"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Gypsy swing"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hammer-on"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Harp Guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Harp guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Headstock"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Heavy metal music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Helmholtz pitch notation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Henry George Farmer"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hertz"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "History"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "History of the classical guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hittites"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hornbostel–Sachs"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Humbucker"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ibanez Universe"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Inlay (guitar)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Integrated circuits"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "International Standard Book Number"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "International Standard Music Number"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Interval (music)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Intonation (music)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Iron Maiden"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Jazz"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Jazz guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Jimi Hendrix"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Johannes Vermeer"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "John Dopyera"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Jota (music)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Kithara"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Kramer Guitars"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "LED"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Lap steel guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Latin (language)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Lead guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Leather"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Legato"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Leo Fender"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Les Paul"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Line 6 (company)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of guitar manufacturers"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of guitar tunings"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of guitarists"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of guitars"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Lloyd Loar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Loudspeaker"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Lute"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Luthier"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Luthiers"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Lyre-guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "MIDI"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Machine head"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mahogany"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Major-thirds tuning"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Major second"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Major third"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Major thirds tuning"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mandolin"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Maple"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mariachi"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Middle C"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Minor second"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Minor seventh"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Minor third"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Modulus Guitars"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Moors"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Mortise and tenon"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Muddy Waters"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Multi-neck guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Museu de la Música de Barcelona"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Musical Instrument Digital Interface"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Musical instrument"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Musical tuning"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nashville tuning (high strung)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Neck-through"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Neck-through-body"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Neck (music)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "New standard tuning"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nine-string guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nitrocellulose"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nut (string instrument)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Octave"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Open B tuning"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Open C tuning"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Open D tuning"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Open E tuning"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Open G tuning"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Open string (music)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Open tunings"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Orville Gibson"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ostrich guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Oud"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Outline of guitars"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ovation Guitar Company"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Overtones tuning"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Paco de Lucía"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Parlour guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pedal steel"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pedal steel guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Perfect fifth"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Perfect fourth"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Peso"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pick up (music technology)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pickguard"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pickup (music technology)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Piezoelectricity"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pikasso guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pinch harmonic"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pitch (music)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pitch class"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pizzica"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Plastic"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Plectrum"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Plucked string instrument"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pop music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Poplar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Popular culture"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Portuguese guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Potentiometer"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Powerchord"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Prepared guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Psalter"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pull-off"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Punk rock"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Purfling"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Quarter (United States coin)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "R & B"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Radio"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ralph Patt"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Range (music)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ratio"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Reggae"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Regular tuning"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Regular tunings"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Renaissance"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Renaissance guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Repetitive tuning"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Requinto"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Resonator guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rhythm guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rickenbacker"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Robert Fripp"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Robert Johnson (musician)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rock and roll"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rock music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Roger McGuinn"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Roland Corporation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Root note"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rory Gallagher"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rosette (design)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rosewood"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Russian guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ry Cooder"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Scale (string instruments)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Scientific pitch notation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Scordatura"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Selmer-Maccaferri guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Semi-acoustic guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Semitone"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Set-in neck"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Seven-string guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Shoulders"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Signal (electronics)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Single-coil"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Single coil"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Six-string alto guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Slack-key guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Slide Guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Slide guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Solid body"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Solo (music)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Soul music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sound board (music)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sound box"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sound hole"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Spruce"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Stainless steel"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Stanley Jordan"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Steel-string acoustic guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Steel guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Steinberger"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Steve Vai"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Stock-keeping unit"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Stompbox"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "String instrument"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Stringed instrument tunings"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Strings (music)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Strong's Concordance"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Strum"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sympitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Synthetic fiber"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tapping"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tarantella"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ten-string guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tenor guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Terz guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Byrds"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Metropolitan Museum of Art"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Thirteen-string guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Thuja plicata"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tiple"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tonewood"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Transducer"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Transmitter"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Transposing instrument"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Travis Bean"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tremolo"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tremolo arm"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tremolo bar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tritone"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Truss rod"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Twelfth root of two"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Twelve-string guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ukulele"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Uli Jon Roth"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Unison"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Vacuum tube"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Variax"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Veleno (guitar)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Vibrating string"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Vibrato unit"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Vihuela"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Vintage guitar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Viola"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Viola caipira"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Violin"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Volume swells"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Warren Haynes"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Whammy bar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "William Sethares"
+    },
+    {
+      "ns": 0,
+      "*": "Eric Tamm (musicologist)"
+    },
+    {
+      "ns": 0,
+      "*": "00 guitar"
+    },
+    {
+      "ns": 0,
+      "*": "Jumbo (guitar type)"
+    },
+    {
+      "ns": 0,
+      "*": "ThreeGuitars"
+    },
+    {
+      "ns": 0,
+      "*": "Fretlight"
+    },
+    {
+      "ns": 0,
+      "*": "Warr Guitars"
+    },
+    {
+      "ns": 0,
+      "*": "History of the flamenco guitar"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Guitars"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Guitar tunings"
+    },
+    {
+      "ns": 11,
+      "exists": "",
+      "*": "Template talk:Guitar tunings"
+    },
+    {
+      "ns": 11,
+      "exists": "",
+      "*": "Template talk:Guitars"
+    },
+    {
+      "ns": 100,
+      "exists": "",
+      "*": "Portal:Guitar"
+    }
+  ]
+}

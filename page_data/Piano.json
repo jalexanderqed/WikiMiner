@@ -1,0 +1,1499 @@
+{
+  "name": "Piano",
+  "links": [
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pianoforte"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Grand Piano"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Piano keys"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Piano"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "A440 (pitch standard)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Accompaniment"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Accordion"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Acoustic impedance"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Action (piano)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "African-American"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Agraffe"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Alcoa"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Aliquot stringing"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Alpheus Babcock"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Aluminum piano plate"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Americus Backers"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Anton Walter"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Augsburg"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "August Förster"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Authentic performance"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bartolomeo Cristofori"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Basswood"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Beat (acoustics)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bebop"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Beech"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bill Evans"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Billy Joel"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Birmingham"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Blanchet (harpsichord makers)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Boogie-woogie"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Boston"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bridge (instrument)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Broadwood and Sons"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bud Powell"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Bösendorfer"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "C.F. Theodore Steinway"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "CD"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Cambridge University Press"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Carbon fiber reinforced plastic"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Carillon"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Cast iron"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Cast steel"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Casting (metalworking)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Celesta"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Chamber music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Chickering and Sons"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Chiroplast"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Chordophone"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Classical music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Clavichord"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Clipping (audio)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Clutch"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Comping"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Composer"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Coupling (physics)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Cross-stringing"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Damping"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Digital piano"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Digital sample"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Disklavier"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Dorothy Taubman"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "DuPont"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Duke Ellington"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ebony"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Edna Golandsky"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Electric piano"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Electronic keyboard"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Electronic piano"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Electronic pianos"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Elton John"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Emerson, Lake & Palmer"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Encyclopædia Britannica"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Enharmonic keyboard"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Equal temperament"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Estonia Piano Factory"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "European classical music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Eva Gauthier"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Expression pedal"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Fazioli"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Felix Mendelssohn"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Felt"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ferdinando de' Medici, Grand Prince of Tuscany"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Film music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "First Viennese School"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Fortepiano"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Franz Liszt"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Franz Schubert"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Fred Karpoff"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Frequency"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Frédéric Chopin"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Generalized keyboard"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "George Gershwin"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Gottfried Silbermann"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Grand Piano (film)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Guillaume-Lebrecht Petzold"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hammered dulcimer"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hardwood"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Harmonic"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Harmonichord"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Harpsichord"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Henri Herz"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Herbie Hancock"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Honky-tonk"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hornbeam"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hornbostel-Sachs"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Hornbostel–Sachs"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Industrial Revolution"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Inharmonicity"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Innovations in the piano"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "International Standard Book Number"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Interval (music)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Irving Berlin"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Isomorphic keyboard"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Italian language"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ivory"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Janko keyboard"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Jankó keyboard"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Jazz"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Jazz piano"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Jean-Henri Pape"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Jean-Louis Boisselot"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Jerry Lee Lewis"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Johann Andreas Stein"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Johann Sebastian Bach"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Johannes Brahms"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Johannes Zumpe"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "John Broadwood"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "John Cage"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Joseph Haydn"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Journal of the Acoustical Society of America"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Julius Blüthner"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Just intonation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Kawai (company)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Keith Emerson"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Key (instrument)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Keyboard instrument"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Keyboard instruments"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Keytar"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of classical pianists"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of films about pianists"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of piano brand names"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "List of piano makers"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Little Richard"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ludwig van Beethoven"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "MIDI"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "MP3 player"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Manoah Leide-Tedesco"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Maple"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Maurice Ravel"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Medici"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Melodica"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Middle Ages"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Minipiano"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Modernism"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Moritz von Schwind"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Musical composition"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Musical ensemble"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Musical improvisation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Musical instrument"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Musical keyboard"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Musical notation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Musical temperament"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Musical tuning"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Nannette Streicher"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "New York"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Octave"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Organ (music)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Orphica"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Oscar Fried"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Oscillators"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ostinato"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Otto Ortmann"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Overtone"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Oxford University Press"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Padua"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Paris"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pascal Taskin"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Patent"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pedal keyboard"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pedal piano"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pedal point"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Percussion instrument"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Perfect fifth"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Performance"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Philip Glass"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Physical modelling synthesis"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pianist"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pianists"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "PianoForte Foundation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Piano (disambiguation)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Piano accordion"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Piano acoustics"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Piano action"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Piano concerto"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Piano extended technique"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Piano history and musical performance"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Piano key frequencies"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Piano maintenance"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Piano pedals"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Piano roll"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Piano sonata"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Piano transcription"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Piano trio"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Piano tuning"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Piano wire"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pianoforte (film)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pianos"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pianoteq"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pickup (music technology)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pipe organ"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pitch (music)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Plastics"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Play by ear (music)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Player piano"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pleyel et Cie"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Plywood"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Polytetrafluoroethylene"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Prepared piano"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Pseudo-octave"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Ragtime"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Range (music)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rehearsal"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Resonance"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rhapsody in Blue"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Rhodes piano"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Robert Schumann"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Robert Wornum"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Romantic movement"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Royal Swedish Academy of Music"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Runway"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sampling (signal processing)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Scipione Maffei"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Scott Joplin"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sharp (music)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Shearing voicing"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Short octave"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Silent piano"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Social history of the piano"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Soft pedal"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sostenuto"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sound board (music)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Spinet"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Split sharp"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Spruce"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Square piano"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Stanford University Press"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Steinway"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Steinway & Sons"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Street piano"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "String (music)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "String instrument"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "String piano"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Strings (music)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Stuart & Sons"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sustain"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sustain pedal"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sympathetic strings"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Synthesizer"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Sébastien Érard"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Television"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tension (physics)"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The New Grove Dictionary of Music and Musicians"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "The Well-Tempered Clavier"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Thelonious Monk"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Tori Amos"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Toy piano"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Transposing piano"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Una corda"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Vienna"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Villeneuve-lès-Avignon"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "White House"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Wolfgang Amadeus Mozart"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Wolfram Demonstrations Project"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Yale University Press"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Yamaha Clavinova"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Yamaha Corporation"
+    },
+    {
+      "ns": 0,
+      "exists": "",
+      "*": "Étude Op. 25, No. 12 (Chopin)"
+    },
+    {
+      "ns": 0,
+      "*": "Collard & Collard"
+    },
+    {
+      "ns": 0,
+      "*": "Henri Fourneaux"
+    },
+    {
+      "ns": 0,
+      "*": "Edward Ryley"
+    },
+    {
+      "ns": 0,
+      "*": "Brasted brothers of the Eavestaff Ltd."
+    },
+    {
+      "ns": 0,
+      "*": "Kawai MP8"
+    },
+    {
+      "ns": 0,
+      "*": "PianoDisc"
+    },
+    {
+      "ns": 0,
+      "*": "Schoenhut"
+    },
+    {
+      "ns": 0,
+      "*": "Challen"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Articles needing additional references from July 2013"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Articles with unsourced statements from August 2014"
+    },
+    {
+      "ns": 14,
+      "exists": "",
+      "*": "Category:Articles prone to spam from January 2014"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Protection policy"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Citation needed"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Citing sources"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Media help"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Verifiability"
+    },
+    {
+      "ns": 4,
+      "exists": "",
+      "*": "Wikipedia:Wikimedia sister projects"
+    },
+    {
+      "ns": 6,
+      "*": "File:Frederic Chopin - Opus 25 - Twelve Grand Etudes - c minor.ogg"
+    },
+    {
+      "ns": 6,
+      "*": "File:Frederic Chopin - etude no. 12 in c minor, op. 25.ogg"
+    },
+    {
+      "ns": 10,
+      "exists": "",
+      "*": "Template:Musical keyboards"
+    },
+    {
+      "ns": 12,
+      "exists": "",
+      "*": "Help:Introduction to referencing/1"
+    },
+    {
+      "ns": 100,
+      "exists": "",
+      "*": "Portal:Music"
+    },
+    {
+      "ns": 100,
+      "exists": "",
+      "*": "Portal:Piano"
+    },
+    {
+      "ns": 11,
+      "*": "Template talk:Musical keyboards"
+    }
+  ]
+}

@@ -9,6 +9,11 @@ public class PageTree {
 	public PageTree(PageNode add){
 		top = add;
 	}
+	
+	public void resetCalls(){
+		calls = 0;
+		runs = 0;
+	}
 
 	public boolean addPage(PageNode toAdd){
 		long myCall = calls;

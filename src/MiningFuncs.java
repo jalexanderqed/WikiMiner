@@ -48,11 +48,13 @@ public class MiningFuncs {
 			myTree = gson.fromJson(readFromFile("PageDataTree.json"), PageTree.class);
 		}
 		
-		MinerThread[] miners = new MinerThread[5];
+		myTree.resetCalls();
+
+		MinerThread[] miners = new MinerThread[50];
 		for(int i = 0; i < miners.length; i++){
 			miners[i] = new MinerThread("miner" + i, myTree);
 		}
-		
+
 		for(int i = 0; i < miners.length; i++){
 			miners[i].start();
 			try{
@@ -62,7 +64,21 @@ public class MiningFuncs {
 			}
 		}
 
-		System.out.println("Total program time: " + ((System.currentTimeMillis() - start) / 60000) + " minutes.");
+		for(int i = 0; i < miners.length; i++){
+			if(!miners[i].finished){
+				try{
+					System.out.println("Thread " + i + " not complete.");
+					Thread.sleep(500);
+					i = -1;
+				} catch (InterruptedException e){
+					System.out.println("Sleep interrupted: " + e.getMessage());
+				}
+			}
+		}
+
+		System.out.println("Total program time: " + ((System.currentTimeMillis() - start) / 60000.0) + " minutes.");
+		System.out.println("Total program time: " + ((System.currentTimeMillis() - start) / 1000.0) + " seconds.");
+		System.out.println("Total program time: " + (System.currentTimeMillis() - start) + " milliseconds.");
 	}
 
 	public static void getPagesLinkedFrom(WikiPageStore sourcePage, PageTree myTree){
@@ -95,7 +111,7 @@ public class MiningFuncs {
 								System.out.println("Invalid URL: " + e.getMessage());
 								break;
 							}
-		
+
 							if(currentPage == null || currentPage.parse == null || currentPage.parse.title == null || currentPage.parse.links == null){
 								break;
 							}
@@ -122,6 +138,7 @@ public class MiningFuncs {
 			}
 		}
 		myTree.getPage(new PageNode(sourcePage.name)).indexed = true;
+		writeToFile("PageDataTree.json", gson.toJson(myTree));
 		System.out.println("Length of links array: " + sourcePage.links.length);
 		System.out.println("Number of pages added: " + pagesAdded);
 	}

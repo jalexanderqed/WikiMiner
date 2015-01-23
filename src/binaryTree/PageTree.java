@@ -3,14 +3,26 @@ package binaryTree;
 public class PageTree {
 	private PageNode top;
 	private boolean isNewPage;
+	private long calls;
+	private long runs;
 
 	public PageTree(PageNode add){
 		top = add;
 	}
 
 	public boolean addPage(PageNode toAdd){
+		long myCall = calls;
+		calls++;
+		while(myCall != runs){
+			try{
+				Thread.sleep(1);
+			} catch (InterruptedException e){
+				System.out.println("Sleep interrupted: " + e.getMessage());
+			}
+		}
 		isNewPage = true;
 		addPage(toAdd, top);
+		runs++;
 		return isNewPage;
 	}
 
@@ -32,7 +44,18 @@ public class PageTree {
 	}
 	
 	public PageNode getPage(PageNode toGet){
-		return getPage(toGet, top);
+		long myCall = calls;
+		calls++;
+		while(myCall != runs){
+			try{
+				Thread.sleep(1);
+			} catch (InterruptedException e){
+				System.out.println("Sleep interrupted: " + e.getMessage());
+			}
+		}
+		PageNode toReturn = getPage(toGet, top);
+		runs++;
+		return toReturn;
 	}
 	
 	private PageNode getPage(PageNode toGet, PageNode getFrom){
@@ -51,7 +74,18 @@ public class PageTree {
 	}
 	
 	public boolean contains(PageNode toGet){
-		return contains(toGet, top);
+		long myCall = calls;
+		calls++;
+		while(myCall != runs){
+			try{
+				Thread.sleep(1);
+			} catch (InterruptedException e){
+				System.out.println("Sleep interrupted: " + e.getMessage());
+			}
+		}
+		boolean contains = contains(toGet, top);
+		runs++;
+		return contains;
 	}
 	
 	private boolean contains(PageNode toGet, PageNode getFrom){
@@ -70,13 +104,24 @@ public class PageTree {
 	}
 	
 	public PageNode getUnindexed(){
-		return getUnindexed(top);
+		long myCall = calls;
+		calls++;
+		while(myCall != runs){
+			try{
+				Thread.sleep(1);
+			} catch (InterruptedException e){
+				System.out.println("Sleep interrupted: " + e.getMessage());
+			}
+		}
+		PageNode unindexed = getUnindexed(top);
+		runs++;
+		return unindexed;
 	}
 	
 	private PageNode getUnindexed(PageNode getFrom){
 		if(getFrom == null) return null;
 		
-		if(!getFrom.indexed) return getFrom;
+		if(!getFrom.indexed && !getFrom.beingIndexed) return getFrom;
 		
 		int initialSide = (int)(Math.random() * 2);
 		

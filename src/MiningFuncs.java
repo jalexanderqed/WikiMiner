@@ -16,7 +16,7 @@ import java.net.URL;
 
 import storageClasses.WikiPageStore;
 
-public class main {
+public class MiningFuncs {
 	public static void main(String[] args) {
 		long start = System.currentTimeMillis();
 		Gson gson = getGsonObject();
@@ -26,7 +26,7 @@ public class main {
 
 		if(!dataTreeFile.exists()){
 			String pageText = getUrl("http://en.wikipedia.org/w/api.php?action=parse&"
-					+ "page=John_Doe&contentmodel=json&format=json");
+					+ "page=Infinite_set&contentmodel=json&format=json");
 
 			WikiPage firstPage = new WikiPage();
 
@@ -48,15 +48,25 @@ public class main {
 			myTree = gson.fromJson(readFromFile("PageDataTree.json"), PageTree.class);
 		}
 		
-		for(int i = 0; i < 15; i++){
-			getPagesLinkedFrom(new WikiPageStore(myTree.getUnindexed()), myTree);
-			writeToFile("PageDataTree.json", gson.toJson(myTree));
+		MinerThread[] miners = new MinerThread[5];
+		for(int i = 0; i < miners.length; i++){
+			miners[i] = new MinerThread("miner" + i, myTree);
+		}
+		
+		for(int i = 0; i < miners.length; i++){
+			miners[i].start();
+			try{
+				Thread.sleep(50);
+			} catch (InterruptedException e){
+				System.out.println("Sleep interrupted: " + e.getMessage());
+			}
 		}
 
-		System.out.println("Total program time: " + ((System.currentTimeMillis() - start) / 1000) + " seconds.");
+		System.out.println("Total program time: " + ((System.currentTimeMillis() - start) / 60000) + " minutes.");
 	}
 
 	public static void getPagesLinkedFrom(WikiPageStore sourcePage, PageTree myTree){
+		myTree.getPage(new PageNode(sourcePage.name)).beingIndexed = true;
 		System.out.println("Getting pages linked from page: " + sourcePage.name);
 		Gson gson = getGsonObject();
 
@@ -92,10 +102,9 @@ public class main {
 							WikiPageStore currentPageStore = new WikiPageStore(currentPage.parse.title, currentPage.parse.links);
 
 							if(writeToFile("page_data/" + currentPage.parse.title + ".json", gson.toJson(currentPageStore))){
-								System.out.println("Writing page " + currentPage.parse.title + " to tree: ");
 								long start = System.currentTimeMillis();
 								myTree.addPage(new PageNode(currentPageStore.name, "page_data/" + currentPageStore.name + ".json"));
-								System.out.println(System.currentTimeMillis() - start);
+								System.out.println("Writing page " + currentPage.parse.title + " to tree: " + (System.currentTimeMillis() - start));
 							}
 							else{
 								System.out.println("Could not write " + currentPage.parse.title + " to file.");
@@ -118,7 +127,6 @@ public class main {
 	}
 
 	public static String getUrl(String urlText){
-		System.out.print("Loading page: ");
 		long start = System.currentTimeMillis();
 		try{
 			final URL url = new URL(urlText);
@@ -132,7 +140,7 @@ public class main {
 				totalText.append(inputLine + "\n");
 			}
 
-			System.out.println(System.currentTimeMillis() - start);
+			System.out.println("Loading page: " + (System.currentTimeMillis() - start));
 			return totalText.toString();
 		}
 		catch(MalformedURLException e){
@@ -146,14 +154,13 @@ public class main {
 	}
 
 	public static boolean writeToFile(String fileName, String text){
-		System.out.print("Writing to file: ");
 		long start = System.currentTimeMillis();
 		try {
 			File file = new File(fileName);
 			BufferedWriter output = new BufferedWriter(new FileWriter(file));
 			output.write(text);
 			output.close();
-			System.out.println(System.currentTimeMillis() - start);
+			System.out.println("Writing to file: " + (System.currentTimeMillis() - start));
 			return true;
 		}
 		catch(IOException e){
@@ -163,7 +170,6 @@ public class main {
 	}
 
 	public static String readFromFile(String fileName){
-		System.out.print("Reading from file: ");
 		long start = System.currentTimeMillis();
 		try {
 			File file = new File(fileName);
@@ -174,7 +180,7 @@ public class main {
 				inText.append(nextLine);
 			}
 			input.close();
-			System.out.println(System.currentTimeMillis() - start);
+			System.out.println("Reading from file " + fileName + ": " + (System.currentTimeMillis() - start));
 			return inText.toString();
 		}
 		catch(IOException e){

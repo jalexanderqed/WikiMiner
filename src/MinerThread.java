@@ -1,22 +1,22 @@
+import com.google.gson.Gson;
+
+import storageClasses.WikiPageStore;
+import binaryTree.PageTree;
+
 public class MinerThread implements Runnable {
 	private Thread t;
 	private String threadName;
+	private static PageTree myTree;
+	private static Gson gson = MiningFuncs.getGsonObject();
 
 	public void run() {
-		System.out.println("Running " +  threadName );
-		try {
-			for(int i = 4; i > 0; i--) {
-				System.out.println("Thread: " + threadName + ", " + i);
-				// Let the thread sleep for a while.
-				Thread.sleep(50);
-			}
-		} catch (InterruptedException e) {
-			System.out.println("Thread " +  threadName + " interrupted.");
+		for(int i = 0; i < 1; i++){
+			MiningFuncs.getPagesLinkedFrom(new WikiPageStore(myTree.getUnindexed()), myTree);
+			MiningFuncs.writeToFile("PageDataTree.json", gson.toJson(myTree));
 		}
-		System.out.println("Thread " +  threadName + " exiting.");
 	}
 
-	public void start ()
+	public void start()
 	{
 		System.out.println("Starting " +  threadName );
 		if(t == null)
@@ -29,8 +29,9 @@ public class MinerThread implements Runnable {
 		}
 	}
 
-	public MinerThread(String name) {
+	public MinerThread(String name, PageTree mT) {
 		threadName = name;
+		myTree = mT;
 		System.out.println("Creating " +  threadName );
 	}
 }

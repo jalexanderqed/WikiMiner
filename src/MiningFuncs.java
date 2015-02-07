@@ -119,7 +119,9 @@ public class MiningFuncs {
 
 							if(writeToFile("page_data/" + currentPage.parse.title + ".json", gson.toJson(currentPageStore))){
 								long start = System.currentTimeMillis();
-								myTree.addPage(new PageNode(currentPageStore.name, "page_data/" + currentPageStore.name + ".json"));
+								PageNode newPage = new PageNode(currentPageStore.name, "page_data/" + currentPageStore.name + ".json");
+								newPage.linkedFrom.addPage(new PageNode(sourcePage.name));
+								myTree.addPage(newPage);
 								System.out.println("Writing page " + currentPage.parse.title + " to tree: " + (System.currentTimeMillis() - start));
 							}
 							else{
@@ -141,6 +143,17 @@ public class MiningFuncs {
 		writeToFile("PageDataTree.json", gson.toJson(myTree));
 		System.out.println("Length of links array: " + sourcePage.links.length);
 		System.out.println("Number of pages added: " + pagesAdded);
+	}
+	
+	public static void indicatePagesLinkedFrom(PageNode sP, PageTree myTree){
+		WikiPageStore sourcePage = new WikiPageStore(sP);
+		for(int i = 0; i < sourcePage.links.length; i++){
+			System.out.println("Indicating page " + sourcePage.links[i].page + " linked from " + sourcePage.name);
+			PageNode latestLink = myTree.getPage(new PageNode(sourcePage.links[i].page));
+			if(latestLink != null){
+				latestLink.linkedFrom.addPage(new PageNode(sourcePage.name));
+			}
+		}
 	}
 
 	public static String getUrl(String urlText){

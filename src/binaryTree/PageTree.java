@@ -10,6 +10,10 @@ public class PageTree {
 		top = add;
 	}
 	
+	public PageTree(){
+		top = null;
+	}
+	
 	public void resetCalls(){
 		calls = 0;
 		runs = 0;
@@ -24,6 +28,10 @@ public class PageTree {
 			} catch (InterruptedException e){
 				System.out.println("Sleep interrupted: " + e.getMessage());
 			}
+		}
+		if(top == null){
+			top = toAdd;
+			return true;
 		}
 		isNewPage = true;
 		addPage(toAdd, top);
@@ -121,6 +129,21 @@ public class PageTree {
 		PageNode unindexed = getUnindexed(top);
 		runs++;
 		return unindexed;
+	}
+	
+	public int size(){
+		return size(top);
+	}
+	
+	private int size(PageNode start){
+		int sizeBelow = 0;
+		if(start.left != null){
+			sizeBelow += size(start.left);
+		}
+		if(start.right != null){
+			sizeBelow += size(start.right);
+		}
+		return sizeBelow + 1;
 	}
 	
 	private PageNode getUnindexed(PageNode getFrom){

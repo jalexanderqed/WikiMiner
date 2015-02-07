@@ -7,6 +7,7 @@ public class PageNode implements Comparable<PageNode>{
 	public String fileName;
 	public boolean beingIndexed;
 	public boolean indexed;
+	public PageTree linkedFrom;
 	public PageNode left;
 	public PageNode right;
 
@@ -14,12 +15,14 @@ public class PageNode implements Comparable<PageNode>{
 		indexed = false;
 		beingIndexed = false;
 		name = n;
+		linkedFrom = new PageTree();
 	}
 	
 	public PageNode(String n, String file){
 		name = n;
 		fileName = file;
 		indexed = false;
+		linkedFrom = new PageTree();
 	}
 	
 	public int compareTo(PageNode other){

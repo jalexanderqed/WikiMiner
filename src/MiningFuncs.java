@@ -18,6 +18,7 @@ import storageClasses.WikiPageStore;
 
 public class MiningFuncs {
 	public static void main(String[] args) {
+		
 		long start = System.currentTimeMillis();
 		Gson gson = getGsonObject();
 		File dataTreeFile = new File("PageDataTree.json");

@@ -8,14 +8,23 @@ public class MinerThread extends Thread {
 	public boolean finished = false;
 
 	public void run() {
+		long start = System.currentTimeMillis();
 		finished = false;
-		for(int i = 0; i < 10; i++){
-			PageNode next = myTree.getRandUnindexed();
-			if(next == null){
-				System.out.println("getUnindexed() returned null. Mischief managed.");
-				System.exit(0);
+		while(System.currentTimeMillis() - start < MiningFuncs.PROGRAM_TIME_MS){
+			try{
+				PageNode next = myTree.getRandUnindexed();
+				if(next == null){
+					System.out.println("getUnindexed() returned null. Mischief managed.");
+					System.exit(0);
+				}
+				MiningFuncs.getPagesLinkedFrom(new WikiPageStore(next), myTree);
 			}
-			MiningFuncs.getPagesLinkedFrom(new WikiPageStore(next), myTree);
+			catch(Exception e){
+				System.out.println("Error in thread " + threadName);
+				System.out.println(e.getMessage());
+				MiningFuncs.writeToFile("PageDataTree.json", gson.toJson(myTree));
+				break;
+			}
 			MiningFuncs.writeToFile("PageDataTree.json", gson.toJson(myTree));
 		}
 		finished = true;

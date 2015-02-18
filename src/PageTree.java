@@ -113,10 +113,15 @@ public class PageTree {
 	}
 	
 	public boolean iterateWithCallTo(NodeOperator op, PageNode from){
-		if(!op.call(from)) return false;
+		if(from == null) return true;
+		if(!op.call(from, this)) return false;
 		if(!iterateWithCallTo(op, from.left)) return false;
 		if(!iterateWithCallTo(op, from.right)) return false;
 		return true;
+	}
+	
+	public void iterateWithCallTo(NodeOperator op){
+		iterateWithCallTo(op, top);
 	}
 	
 	public PageNode getRandUnindexed(){

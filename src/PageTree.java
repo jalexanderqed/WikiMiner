@@ -1,4 +1,5 @@
-package binaryTree;
+
+
 
 public class PageTree {
 	private PageNode top;
@@ -111,7 +112,14 @@ public class PageTree {
 		}
 	}
 	
-	public PageNode getUnindexed(){
+	public boolean iterateWithCallTo(NodeOperator op, PageNode from){
+		if(!op.call(from)) return false;
+		if(!iterateWithCallTo(op, from.left)) return false;
+		if(!iterateWithCallTo(op, from.right)) return false;
+		return true;
+	}
+	
+	public PageNode getRandUnindexed(){
 		long myCall = calls;
 		calls++;
 		while(myCall != runs){
@@ -121,9 +129,49 @@ public class PageTree {
 				System.out.println("Sleep interrupted: " + e.getMessage());
 			}
 		}
-		PageNode unindexed = getUnindexed(top);
+		PageNode unindexed = getRandUnindexed(top);
 		runs++;
 		return unindexed;
+	}
+	
+	/* Returns a random unindexed node from the linked list
+	 * by calling recursively with a 1/15 chance of returning
+	 * the node it was called with each time. Leaf nodes return
+	 * themselves automatically.
+	 * NOTE: this does mean that at first, leaf nodes will have
+	 * a higher probability of being selected.
+	 */
+	private PageNode getRandUnindexed(PageNode getFrom){
+		if(getFrom == null) return null;
+		
+		if(!getFrom.indexed && !getFrom.beingIndexed){
+			if((getFrom.left == null && getFrom.right == null)
+					|| (int)(Math.random() * 15) == 0) return getFrom;
+		}
+		
+		int initialSide = (int)(Math.random() * 2);
+		
+		PageNode result;
+		
+		if(initialSide == 0){
+			if((result = getRandUnindexed(getFrom.left)) == null){
+				result = getRandUnindexed(getFrom.right);
+			}
+		}
+		else{
+			if((result = getRandUnindexed(getFrom.right)) == null){
+				result = getRandUnindexed(getFrom.left);
+			}
+		}
+		
+		if(result == null){
+			if(!getFrom.indexed && !getFrom.beingIndexed)
+				return getFrom;
+			else
+				return null;
+		}
+		else
+			return result;
 	}
 	
 	private int size(PageNode start){
@@ -131,30 +179,17 @@ public class PageTree {
 		return size(start.left) + size(start.right) + 1;
 	}
 	
-	private PageNode getUnindexed(PageNode getFrom){
-		if(getFrom == null) return null;
-		
-		if(!getFrom.indexed && !getFrom.beingIndexed) return getFrom;
-		
-		int initialSide = (int)(Math.random() * 2);
-		
-		PageNode result;
-		
-		if(initialSide == 0){
-			if((result = getUnindexed(getFrom.left)) == null){
-				result = getUnindexed(getFrom.right);
-			}
-		}
-		else{
-			if((result = getUnindexed(getFrom.right)) == null){
-				result = getUnindexed(getFrom.left);
-			}
-		}
-		
-		return result;
-	}
-	
 	public int size(){
 		return size(top);
+	}
+	
+	// Returns 0 for an empty tree and 1 for a tree with one element
+	public int depth(){
+		return depth(top);
+	}
+	
+	private int depth(PageNode start){
+		if(start == null) return 0;
+		return Math.max(depth(start.left), depth(start.right)) + 1;
 	}
 }

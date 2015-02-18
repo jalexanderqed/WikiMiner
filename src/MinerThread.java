@@ -1,9 +1,5 @@
 import com.google.gson.Gson;
 
-import storageClasses.WikiPageStore;
-import binaryTree.PageNode;
-import binaryTree.PageTree;
-
 public class MinerThread extends Thread {
 	private Thread t;
 	private String threadName;
@@ -14,7 +10,7 @@ public class MinerThread extends Thread {
 	public void run() {
 		finished = false;
 		for(int i = 0; i < 10; i++){
-			PageNode next = myTree.getUnindexed();
+			PageNode next = myTree.getRandUnindexed();
 			if(next == null){
 				System.out.println("getUnindexed() returned null. Mischief managed.");
 				System.exit(0);

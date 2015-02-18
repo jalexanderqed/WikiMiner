@@ -13,11 +13,6 @@ public class PageTree {
 	public PageTree(){
 		top = null;
 	}
-	
-	public void resetCalls(){
-		calls = 0;
-		runs = 0;
-	}
 
 	public boolean addPage(PageNode toAdd){
 		long myCall = calls;
@@ -144,6 +139,7 @@ public class PageTree {
 		int initialSide = (int)(Math.random() * 2);
 		
 		PageNode result;
+		
 		if(initialSide == 0){
 			if((result = getUnindexed(getFrom.left)) == null){
 				result = getUnindexed(getFrom.right);

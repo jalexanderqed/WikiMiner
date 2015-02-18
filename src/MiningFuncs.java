@@ -1,4 +1,5 @@
 import JSONPackages.WikiPage;
+import WikiPageClasses.linkObject;
 import binaryTree.PageNode;
 import binaryTree.PageTree;
 
@@ -18,7 +19,7 @@ import storageClasses.WikiPageStore;
 
 public class MiningFuncs {
 	public static void main(String[] args) {
-		
+
 		long start = System.currentTimeMillis();
 		Gson gson = getGsonObject();
 		File dataTreeFile = new File("PageDataTree.json");
@@ -48,7 +49,7 @@ public class MiningFuncs {
 		else{
 			myTree = gson.fromJson(readFromFile("PageDataTree.json"), PageTree.class);
 		}
-		
+
 		myTree.resetCalls();
 
 		MinerThread[] miners = new MinerThread[50];
@@ -87,65 +88,84 @@ public class MiningFuncs {
 		System.out.println("Getting pages linked from page: " + sourcePage.name);
 		Gson gson = getGsonObject();
 
-		int pagesAdded = 0;
-		int halfLinksArrayLength = sourcePage.links.length / 2;
+		addArrayOfPages(sourcePage.links, 0, sourcePage.links.length, myTree, sourcePage);
 
-		for(int i = 0; i <= halfLinksArrayLength; i++){
-			int index = halfLinksArrayLength + i;
-			for(int j = 0; j < 2; j++){
-				System.out.println("Index: " + index);
-				if(index >= 0 && index < sourcePage.links.length){
-					pagesAdded++;
-					if(sourcePage.links[index].exists != null){
-						// Only create new page if the page is new
-						if(!myTree.contains(new PageNode(sourcePage.links[index].page))){
-							String pageText = getUrl("http://en.wikipedia.org/w/api.php?action=parse&"
-									+ "page=" + sourcePage.links[index].page.replace(' ', '_')
-									+ "&contentmodel=json&format=json");
-
-							WikiPage currentPage = new WikiPage();
-
-							try{
-								currentPage = gson.fromJson(pageText, WikiPage.class);
-							}
-							catch(com.google.gson.JsonSyntaxException e){
-								System.out.println("Invalid URL: " + e.getMessage());
-								break;
-							}
-
-							if(currentPage == null || currentPage.parse == null || currentPage.parse.title == null || currentPage.parse.links == null){
-								break;
-							}
-							WikiPageStore currentPageStore = new WikiPageStore(currentPage.parse.title, currentPage.parse.links);
-
-							if(writeToFile("page_data/" + currentPage.parse.title + ".json", gson.toJson(currentPageStore))){
-								long start = System.currentTimeMillis();
-								PageNode newPage = new PageNode(currentPageStore.name, "page_data/" + currentPageStore.name + ".json");
-								newPage.linkedFrom.addPage(new PageNode(sourcePage.name));
-								myTree.addPage(newPage);
-								System.out.println("Writing page " + currentPage.parse.title + " to tree: " + (System.currentTimeMillis() - start));
-							}
-							else{
-								System.out.println("Could not write " + currentPage.parse.title + " to file.");
-							}
-						}
-						else{
-							System.out.println("Data tree already contained page " + sourcePage.links[index].page);
-						}
-					}
-				}
-				if(i != 0){
-					index = halfLinksArrayLength - i;
-				}
-				else break;
+		// Test that all pages were added.
+		for(int i = 0; i < sourcePage.links.length; i++){
+			if(!myTree.contains(new PageNode(sourcePage.links[i].page))){
+				System.out.println("Page " + sourcePage.links[i].page + " not added successfully!");
 			}
 		}
+
 		myTree.getPage(new PageNode(sourcePage.name)).indexed = true;
 		writeToFile("PageDataTree.json", gson.toJson(myTree));
-		System.out.println("Length of links array: " + sourcePage.links.length);
-		System.out.println("Number of pages added: " + pagesAdded);
+	}
+
+	/* Adds pages starting at "from" up to (not including) "to" in the array toAdd to the passed tree,
+	 * using "sourcePage" as the page from which they are linked.
+	 */
+	public static void addArrayOfPages(linkObject[] toAdd, int from, int to, PageTree myTree, WikiPageStore sourcePage){
+		if(to - from < 0){
+			System.out.println("Error in addArrayOfPages. Attempted to add from " + from + " to " + to);
+			System.exit(1);
+		}
+		if(to == from){
+			return;
+		}
+		else if(to - from > 1){
+			int halfPoint = (to - from) / 2;
+			addPage(toAdd[halfPoint], myTree, sourcePage);
+			addArrayOfPages(toAdd, from, from + halfPoint, myTree, sourcePage);
+			addArrayOfPages(toAdd, from + halfPoint + 1, to, myTree, sourcePage);
+		}
+		else{
+			addPage(toAdd[from], myTree, sourcePage);
+		}
 	}
 	
+	public static void addPage(linkObject current, PageTree myTree, WikiPageStore sourcePage){
+		Gson gson = getGsonObject();
+		if(current.exists != null){
+			// Only create new page if the page is new
+			if(!myTree.contains(new PageNode(current.page))){
+				String pageText = getUrl("http://en.wikipedia.org/w/api.php?action=parse&"
+						+ "page=" + current.page.replace(' ', '_')
+						+ "&contentmodel=json&format=json");
+
+				WikiPage currentPage = new WikiPage();
+
+				try{
+					currentPage = gson.fromJson(pageText, WikiPage.class);
+				}
+				catch(com.google.gson.JsonSyntaxException e){
+					System.out.println("Invalid URL: " + e.getMessage());
+					return;
+				}
+
+				if(currentPage == null || currentPage.parse == null || currentPage.parse.title == null || currentPage.parse.links == null){
+					return;
+				}
+				WikiPageStore currentPageStore = new WikiPageStore(currentPage.parse.title, currentPage.parse.links);
+
+				if(writeToFile("page_data/" + currentPage.parse.title + ".json", gson.toJson(currentPageStore))){
+					long start = System.currentTimeMillis();
+					PageNode newPage = new PageNode(currentPageStore.name, "page_data/" + currentPageStore.name + ".json");
+					newPage.linkedFrom.addPage(new PageNode(sourcePage.name));
+					myTree.addPage(newPage);
+					System.out.println("Writing page " + currentPage.parse.title + " to tree: " + (System.currentTimeMillis() - start));
+				}
+				else{
+					System.out.println("Could not write " + currentPage.parse.title + " to file.");
+					return;
+				}
+			}
+			else{
+				System.out.println("Data tree already contained page " + current.page);
+				return;
+			}
+		}
+	}
+
 	public static void indicatePagesLinkedFrom(PageNode sP, PageTree myTree){
 		WikiPageStore sourcePage = new WikiPageStore(sP);
 		for(int i = 0; i < sourcePage.links.length; i++){

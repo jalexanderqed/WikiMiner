@@ -131,19 +131,9 @@ public class PageTree {
 		return unindexed;
 	}
 	
-	public int size(){
-		return size(top);
-	}
-	
 	private int size(PageNode start){
-		int sizeBelow = 0;
-		if(start.left != null){
-			sizeBelow += size(start.left);
-		}
-		if(start.right != null){
-			sizeBelow += size(start.right);
-		}
-		return sizeBelow + 1;
+		if(start == null) return 0;
+		return size(start.left) + size(start.right) + 1;
 	}
 	
 	private PageNode getUnindexed(PageNode getFrom){
@@ -166,5 +156,9 @@ public class PageTree {
 		}
 		
 		return result;
+	}
+	
+	public int size(){
+		return size(top);
 	}
 }

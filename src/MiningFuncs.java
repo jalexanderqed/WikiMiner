@@ -49,9 +49,6 @@ public class MiningFuncs {
 		else{
 			myTree = gson.fromJson(readFromFile("PageDataTree.json"), PageTree.class);
 		}
-
-		myTree.resetCalls();
-
 		MinerThread[] miners = new MinerThread[50];
 		for(int i = 0; i < miners.length; i++){
 			miners[i] = new MinerThread("miner" + i, myTree);

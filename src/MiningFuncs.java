@@ -17,7 +17,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 
 public class MiningFuncs {
-	public static final int PROGRAM_TIME_SECONDS = 300;
+	public static final int PROGRAM_TIME_SECONDS = 30;
 	public static final int PROGRAM_TIME_MS = PROGRAM_TIME_SECONDS * 1000;
 	public static final boolean REPRESS_PRINT = true;
 	public static final String OPERATION = "run";
@@ -61,6 +61,7 @@ public class MiningFuncs {
 		}
 		else if(OPERATION.equals("index")){
 			myTree.iterateWithCallTo(new BackIndexer());
+			writeToFile("PageDataTree.json", MiningFuncs.getGsonObject().toJson(myTree));
 		}
 		else if(OPERATION.equals("run")){}
 		else{
@@ -171,9 +172,9 @@ public class MiningFuncs {
 				WikiPageStore currentPageStore = new WikiPageStore(currentPage.parse.title, currentPage.parse.links, currentPage.parse.text.text,
 						Jsoup.parse(currentPage.parse.text.text).text());
 
-				if(writeToFile("page_data/" + currentPage.parse.title + ".json", gson.toJson(currentPageStore))){
+				if(writeToFile("page_data/" + normalizeTitle(currentPage.parse.title) + ".json", gson.toJson(currentPageStore))){
 					long start = System.currentTimeMillis();
-					PageNode newPage = new PageNode(currentPageStore.name, "page_data/" + currentPageStore.name + ".json");
+					PageNode newPage = new PageNode(currentPageStore.name, "page_data/" + normalizeTitle(currentPage.parse.title) + ".json");
 					newPage.linkedFrom.addPage(new PageNode(sourcePage.name));
 					myTree.addPage(newPage);
 					if(!REPRESS_PRINT) System.out.println("Writing page " + currentPage.parse.title + " to tree: " + (System.currentTimeMillis() - start));
@@ -266,5 +267,9 @@ public class MiningFuncs {
 
 	public static Gson getGsonObject(){
 		return new GsonBuilder().setPrettyPrinting().disableHtmlEscaping().create();
+	}
+	
+	public static String normalizeTitle(String title){
+		return title.replaceAll("^[^a-zA-Z0-9\\s]+|[^a-zA-Z0-9\\s]+$", "" + (int)title.charAt(0));
 	}
 }

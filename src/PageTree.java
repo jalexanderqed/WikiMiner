@@ -139,7 +139,17 @@ public class PageTree {
 	}
 
 	public void iterateWithCallTo(NodeOperator op){
+		long myCall = calls;
+		calls++;
+		while(myCall < runs){
+			try{
+				Thread.sleep(1);
+			} catch (InterruptedException e){
+				System.out.println("Sleep interrupted: " + e.getMessage());
+			}
+		}
 		iterateWithCallTo(op, top);
+		runs++;
 	}
 
 	public PageNode getRandUnindexed(){
@@ -233,5 +243,13 @@ public class PageTree {
 		start.linkedFrom.resetCallsRuns();
 		resetCallsRuns(start.left);
 		resetCallsRuns(start.right);
+	}
+	
+	public long getCalls(){
+		return calls;
+	}
+	
+	public long getRuns(){
+		return runs;
 	}
 }

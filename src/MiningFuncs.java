@@ -16,7 +16,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 
 public class MiningFuncs {
-	public static final int PROGRAM_TIME_SECONDS = 10;
+	public static final int PROGRAM_TIME_SECONDS = 300;
 	public static final int PROGRAM_TIME_MS = PROGRAM_TIME_SECONDS * 1000;
 	public static final boolean REPRESS_PRINT = false;
 	public static final String OPERATION = "run";
@@ -71,7 +71,7 @@ public class MiningFuncs {
 		}
 
 
-		MinerThread[] miners = new MinerThread[20];
+		MinerThread[] miners = new MinerThread[1];
 		for(int i = 0; i < miners.length; i++){
 			miners[i] = new MinerThread("miner" + i, myTree);
 		}
@@ -95,11 +95,13 @@ public class MiningFuncs {
 			finished = true;
 			for(int i = 0; i < miners.length; i++){
 				if(!miners[i].finished){
-					System.out.println("Thread " + i + " not complete. Last call was " + ((System.currentTimeMillis() - miners[i].lastCall) / 1000) +
+					System.out.println("Thread " + i + " (indexing " + miners[i].indexing + ") " +
+							" not complete. Last call was " + ((System.currentTimeMillis() - miners[i].lastCall) / 1000) +
 							" seconds ago.");
 					finished = false;
 				}
 			}
+			myTree.iterateWithCallTo(new CallRunChecker());
 		}
 
 		System.out.println("Total program time: " + ((System.currentTimeMillis() - start) / 60000.0) + " minutes.");
@@ -113,6 +115,7 @@ public class MiningFuncs {
 	 * their JSON data to page_data with call to addArrayOfPages, which calls addPage
 	 */
 	public static void getPagesLinkedFrom(WikiPageStore sourcePage, PageTree myTree){
+		System.out.println("Called getPagesLinkedFrom");
 		PageNode sourcePageNode = myTree.getPage(new PageNode(sourcePage.name));
 		sourcePageNode.beingIndexed = true;
 		if(!REPRESS_PRINT) System.out.println("Getting pages linked from page: " + sourcePage.name);
@@ -128,6 +131,7 @@ public class MiningFuncs {
 	 * using "sourcePage" as the page from which they are linked.
 	 */
 	public static void addArrayOfPages(linkObject[] toAdd, int from, int to, PageTree myTree, WikiPageStore sourcePage){
+		System.out.println("Called addArrayOfPages from " + from + " to " + to + " for array length " + toAdd.length);
 		if(to - from < 0){
 			System.out.println("Error in addArrayOfPages. Attempted to add from " + from + " to " + to);
 		}
@@ -151,6 +155,12 @@ public class MiningFuncs {
 	 * to page_data folder.
 	 */
 	public static void addPage(linkObject current, PageTree myTree, WikiPageStore sourcePage){
+		System.out.println("Called addPage");
+		if((current.page.indexOf("Help") == 0) || (current.page.indexOf("Wikipedia") == 0) ||
+				(current.page.indexOf("Talk") == 0) || (current.page.indexOf("Portal") == 0)){
+			System.out.println("Did not create page " + current.page.replace(' ', '_'));
+			return;
+		}
 		Gson gson = getGsonObject();
 		if(current.exists != null){
 			// Only create new page if the page is new
@@ -158,7 +168,7 @@ public class MiningFuncs {
 				String pageText = getUrl("http://en.wikipedia.org/w/api.php?action=parse&"
 						+ "page=" + current.page.replace(' ', '_')
 						+ "&contentmodel=json&format=json");
-				
+
 				WikiPage currentPage = new WikiPage();
 
 				try{
@@ -170,9 +180,7 @@ public class MiningFuncs {
 				}
 
 				if(currentPage == null || currentPage.parse == null || currentPage.parse.title == null ||
-						currentPage.parse.links == null || (currentPage.parse.title.indexOf("Template") == 0) ||
-						(currentPage.parse.title.indexOf("help") == 0) || (currentPage.parse.title.indexOf("Wikipedia") == 0) ||
-						(currentPage.parse.title.indexOf("Talk") == 0)){
+						currentPage.parse.links == null || (currentPage.parse.title.indexOf("Template") == 0)){
 					System.out.println("Could not create page " + current.page.replace(' ', '_'));
 					return;
 				}
@@ -270,7 +278,7 @@ public class MiningFuncs {
 			return "";
 		}
 	}
-	
+
 	public static void writeTree(PageTree myTree){
 		writeToFile("PageDataTree.json", MiningFuncs.getGsonObject().toJson(myTree));
 	}

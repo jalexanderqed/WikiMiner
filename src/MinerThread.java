@@ -5,6 +5,7 @@ public class MinerThread extends Thread {
 	private String threadName;
 	private static PageTree myTree;
 	private static Gson gson = MiningFuncs.getGsonObject();
+	public String indexing;
 	public boolean finished = false;
 	public long lastCall;
 
@@ -19,6 +20,7 @@ public class MinerThread extends Thread {
 					System.exit(0);
 				}
 				lastCall = System.currentTimeMillis();
+				indexing = next.name;
 				MiningFuncs.getPagesLinkedFrom(new WikiPageStore(next), myTree);
 			}
 			catch(Exception e){
@@ -26,7 +28,7 @@ public class MinerThread extends Thread {
 				System.out.println(e.getMessage());
 				MiningFuncs.writeTree(myTree);
 				finished = true;
-				break;
+				throw e;
 			}
 			MiningFuncs.writeTree(myTree);
 		}

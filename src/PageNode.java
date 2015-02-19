@@ -18,6 +18,14 @@ public class PageNode implements Comparable<PageNode>{
 		linkedFrom = new PageTree();
 	}
 	
+	public PageNode(String n, boolean needLinkedFrom){
+		indexed = false;
+		beingIndexed = false;
+		name = n;
+		if(needLinkedFrom) linkedFrom = new PageTree();
+		else linkedFrom = null;
+	}
+	
 	public PageNode(String n, String file){
 		name = n;
 		fileName = file;

@@ -6,6 +6,7 @@ public class MinerThread extends Thread {
 	private static PageTree myTree;
 	private static Gson gson = MiningFuncs.getGsonObject();
 	public boolean finished = false;
+	public long lastCall;
 
 	public void run() {
 		long start = System.currentTimeMillis();
@@ -17,15 +18,17 @@ public class MinerThread extends Thread {
 					System.out.println("getUnindexed() returned null. Mischief managed.");
 					System.exit(0);
 				}
+				lastCall = System.currentTimeMillis();
 				MiningFuncs.getPagesLinkedFrom(new WikiPageStore(next), myTree);
 			}
 			catch(Exception e){
 				System.out.println("Error in thread " + threadName);
 				System.out.println(e.getMessage());
-				MiningFuncs.writeToFile("PageDataTree.json", gson.toJson(myTree));
+				MiningFuncs.writeTree(myTree);
+				finished = true;
 				break;
 			}
-			MiningFuncs.writeToFile("PageDataTree.json", gson.toJson(myTree));
+			MiningFuncs.writeTree(myTree);
 		}
 		finished = true;
 	}

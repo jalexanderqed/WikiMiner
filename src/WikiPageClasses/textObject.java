@@ -4,5 +4,5 @@ import com.google.gson.annotations.SerializedName;
 
 public class textObject {
 	@SerializedName("*")
-	String text;
+	public String text;
 }

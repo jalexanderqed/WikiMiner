@@ -16,7 +16,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 
 public class MiningFuncs {
-	public static final int PROGRAM_TIME_SECONDS = 300;
+	public static final int PROGRAM_TIME_SECONDS = 30;
 	public static final int PROGRAM_TIME_MS = PROGRAM_TIME_SECONDS * 1000;
 	public static final boolean REPRESS_PRINT = false;
 	public static final String OPERATION = "run";
@@ -52,7 +52,6 @@ public class MiningFuncs {
 		else{
 			myTree = gson.fromJson(readFromFile("PageDataTree.json"), PageTree.class);
 			long resetStart = System.currentTimeMillis();
-			myTree.resetCallsRuns();
 			System.out.println("Resetting: " + (System.currentTimeMillis() - resetStart));
 		}
 
@@ -71,7 +70,7 @@ public class MiningFuncs {
 		}
 
 
-		MinerThread[] miners = new MinerThread[1];
+		MinerThread[] miners = new MinerThread[50];
 		for(int i = 0; i < miners.length; i++){
 			miners[i] = new MinerThread("miner" + i, myTree);
 		}
@@ -101,7 +100,6 @@ public class MiningFuncs {
 					finished = false;
 				}
 			}
-			myTree.iterateWithCallTo(new CallRunChecker());
 		}
 
 		System.out.println("Total program time: " + ((System.currentTimeMillis() - start) / 60000.0) + " minutes.");

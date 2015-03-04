@@ -133,7 +133,7 @@ public class MiningFuncs {
 	public static void addArrayOfPages(linkObject[] toAdd, int from, int to, PageTree myTree, WikiPageStore sourcePage){
 		System.out.println("Called addArrayOfPages from " + from + " to " + to + " for array length " + toAdd.length);
 		if(to - from < 0){
-			System.out.println("Error in addArrayOfPages. Attempted to add from " + from + " to " + to);
+			System.out.println("Error in addArrayOfPages. Attempted to add from " + from + " to " + to + " for array length " + toAdd.length);
 		}
 		if(to == from){
 			return;
@@ -157,7 +157,8 @@ public class MiningFuncs {
 	public static void addPage(linkObject current, PageTree myTree, WikiPageStore sourcePage){
 		System.out.println("Called addPage");
 		if((current.page.indexOf("Help") == 0) || (current.page.indexOf("Wikipedia") == 0) ||
-				(current.page.indexOf("Talk") == 0) || (current.page.indexOf("Portal") == 0)){
+				(current.page.indexOf("Talk") == 0) || (current.page.indexOf("Portal") == 0) ||
+				(current.page.indexOf("Template") == 0)){
 			System.out.println("Did not create page " + current.page.replace(' ', '_'));
 			return;
 		}
@@ -169,7 +170,7 @@ public class MiningFuncs {
 						+ "page=" + current.page.replace(' ', '_')
 						+ "&contentmodel=json&format=json");
 
-				WikiPage currentPage = new WikiPage();
+				WikiPage currentPage = null;
 
 				try{
 					currentPage = gson.fromJson(pageText, WikiPage.class);
@@ -180,7 +181,7 @@ public class MiningFuncs {
 				}
 
 				if(currentPage == null || currentPage.parse == null || currentPage.parse.title == null ||
-						currentPage.parse.links == null || (currentPage.parse.title.indexOf("Template") == 0)){
+						currentPage.parse.links == null){
 					System.out.println("Could not create page " + current.page.replace(' ', '_'));
 					return;
 				}
@@ -229,7 +230,6 @@ public class MiningFuncs {
 			while ((inputLine = in.readLine()) != null) {
 				totalText.append(inputLine + "\n");
 			}
-
 			if(!REPRESS_PRINT) System.out.println("Loading page: " + (System.currentTimeMillis() - start));
 			return totalText.toString();
 		}

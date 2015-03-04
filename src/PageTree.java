@@ -1,8 +1,6 @@
 public class PageTree {
 	private PageNode top;
 	private boolean isNewPage;
-	private long calls;
-	private long runs;
 
 	public PageTree(PageNode add){
 		top = add;
@@ -12,16 +10,7 @@ public class PageTree {
 		top = null;
 	}
 
-	public boolean addPage(PageNode toAdd){
-		long myCall = calls;
-		calls++;
-		while(myCall < runs){
-			try{
-				Thread.sleep(1);
-			} catch (InterruptedException e){
-				System.out.println("Sleep interrupted: " + e.getMessage());
-			}
-		}
+	public synchronized boolean addPage(PageNode toAdd){
 		isNewPage = true;
 		try{
 			top = addPage(toAdd, top);
@@ -29,10 +18,8 @@ public class PageTree {
 		catch(Exception e){
 			System.out.println("Error in addPage:");
 			System.out.println(e.getMessage());
-			runs++;
 			throw e;
 		}
-		runs++;
 		return isNewPage;
 	}
 
@@ -53,25 +40,14 @@ public class PageTree {
 		return addFrom;
 	}
 
-	public PageNode getPage(PageNode toGet){
-		long myCall = calls;
-		calls++;
-		while(myCall < runs){
-			try{
-				Thread.sleep(1);
-			} catch (InterruptedException e){
-				System.out.println("Sleep interrupted: " + e.getMessage());
-			}
-		}
+	public synchronized PageNode getPage(PageNode toGet){
 		try{	
 			PageNode toReturn = getPage(toGet, top);
-			runs++;
 			return toReturn;
 		}
 		catch(Exception e){
 			System.out.println("Error in getPage:");
 			System.out.println(e.getMessage());
-			runs++;
 			throw e;
 		}
 	}
@@ -91,25 +67,14 @@ public class PageTree {
 		}
 	}
 
-	public boolean contains(PageNode toGet){
-		long myCall = calls;
-		calls++;
-		while(myCall < runs){
-			try{
-				Thread.sleep(1);
-			} catch (InterruptedException e){
-				System.out.println("Sleep interrupted: " + e.getMessage());
-			}
-		}
+	public synchronized boolean contains(PageNode toGet){
 		try{
 			boolean contains = contains(toGet, top);
-			runs++;
 			return contains;
 		}
 		catch(Exception e){
 			System.out.println("Error in contains:");
 			System.out.println(e.getMessage());
-			runs++;
 			throw e;
 		}
 	}
@@ -138,39 +103,18 @@ public class PageTree {
 		return true;
 	}
 
-	public void iterateWithCallTo(NodeOperator op){
-		long myCall = calls;
-		calls++;
-		while(myCall < runs){
-			try{
-				Thread.sleep(1);
-			} catch (InterruptedException e){
-				System.out.println("Sleep interrupted: " + e.getMessage());
-			}
-		}
+	public synchronized void iterateWithCallTo(NodeOperator op){
 		iterateWithCallTo(op, top);
-		runs++;
 	}
 
-	public PageNode getRandUnindexed(){
-		long myCall = calls;
-		calls++;
-		while(myCall < runs){
-			try{
-				Thread.sleep(1);
-			} catch (InterruptedException e){
-				System.out.println("Sleep interrupted: " + e.getMessage());
-			}
-		}
+	public synchronized PageNode getRandUnindexed(){
 		try{
 			PageNode unindexed = getRandUnindexed(top);
-			runs++;
 			return unindexed;
 		}
 		catch(Exception e){
 			System.out.println("Error in getRandUnindexed:");
 			System.out.println(e.getMessage());
-			runs++;
 			throw e;
 		}
 	}
@@ -232,24 +176,5 @@ public class PageTree {
 	private int depth(PageNode start){
 		if(start == null) return 0;
 		return Math.max(depth(start.left), depth(start.right)) + 1;
-	}
-	
-	public void resetCallsRuns(){
-		resetCallsRuns(top);
-	}
-	
-	private void resetCallsRuns(PageNode start){
-		if(start == null) return;
-		start.linkedFrom.resetCallsRuns();
-		resetCallsRuns(start.left);
-		resetCallsRuns(start.right);
-	}
-	
-	public long getCalls(){
-		return calls;
-	}
-	
-	public long getRuns(){
-		return runs;
 	}
 }

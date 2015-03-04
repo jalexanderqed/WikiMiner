@@ -70,7 +70,7 @@ public class MiningFuncs {
 		}
 
 
-		MinerThread[] miners = new MinerThread[1];
+		MinerThread[] miners = new MinerThread[50];
 		for(int i = 0; i < miners.length; i++){
 			miners[i] = new MinerThread("miner" + i, myTree);
 		}

@@ -4,7 +4,6 @@ public class MinerThread extends Thread {
 	private Thread t;
 	private String threadName;
 	private static PageTree myTree;
-	private static Gson gson = MiningFuncs.getGsonObject();
 	public String indexing;
 	public boolean finished = false;
 	public long lastCall;

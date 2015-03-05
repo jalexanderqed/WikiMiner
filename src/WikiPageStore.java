@@ -12,19 +12,20 @@ import WikiPageClasses.linkObject;
 
 public class WikiPageStore {
 	public String name;
-	public linkObject[] links;
 	public String text;
 	public String normalizedText;
+	public int sentences;
+	public int words;
+	public double sentenceLength;
+	public double wordLength;
 
-	public WikiPageStore(String pageName, linkObject[] pageLinks, String t){
+	public WikiPageStore(String pageName, String t){
 		name = pageName;
-		links = pageLinks;
 		text = t;
 	}
 	
-	public WikiPageStore(String pageName, linkObject[] pageLinks, String t, String nt){
+	public WikiPageStore(String pageName, String t, String nt){
 		name = pageName;
-		links = pageLinks;
 		text = t;
 		normalizedText = nt;
 	}
@@ -37,7 +38,6 @@ public class WikiPageStore {
 		try{
 			WikiPageStore newPage = gson.fromJson(readFromFile(source.fileName), WikiPageStore.class);
 			name = newPage.name;
-			links = newPage.links;
 			text = newPage.text;
 		}
 		catch(com.google.gson.JsonSyntaxException e){

@@ -16,13 +16,15 @@ import java.net.MalformedURLException;
 import java.net.URL;
 
 public class MiningFuncs {
-	public static final int PROGRAM_TIME_SECONDS = 30;
+	public static final int PROGRAM_TIME_SECONDS = 10;
 	public static final int PROGRAM_TIME_MS = PROGRAM_TIME_SECONDS * 1000;
-	public static final boolean REPRESS_PRINT = false;
-	public static final String OPERATION = "run";
+	public static final boolean REPRESS_PRINT = true;
+	public static final String OPERATION = "mine";
+	public static Gson globalGson = null;
 
 	public static void main(String[] args) {
-
+		//writeToFile("test", readFromFile("PageDataTree.json"));
+		//if(true) return;
 		long start = System.currentTimeMillis();
 		Gson gson = getGsonObject();
 		File dataTreeFile = new File("PageDataTree.json");
@@ -42,17 +44,15 @@ public class MiningFuncs {
 				System.out.println("Invalid URL: " + e.getMessage());
 			}
 
-			WikiPageStore firstPageStore = new WikiPageStore(firstPage.parse.title, firstPage.parse.links, firstPage.parse.text.text);
+			WikiPageStore firstPageStore = new WikiPageStore(firstPage.parse.title, firstPage.parse.text.text);
 			writeToFile("page_data/" + normalizeTitle(firstPageStore.name) + ".json", gson.toJson(firstPageStore));
 
-			myTree = new PageTree(new PageNode(firstPageStore.name, "page_data/" + normalizeTitle(firstPageStore.name) + ".json"));
+			myTree = new PageTree(new PageNode(firstPageStore.name, "page_data/" + normalizeTitle(firstPageStore.name) + ".json", firstPage.parse.links));
 
 			getPagesLinkedFrom(firstPageStore, myTree);
 		}
 		else{
 			myTree = gson.fromJson(readFromFile("PageDataTree.json"), PageTree.class);
-			long resetStart = System.currentTimeMillis();
-			System.out.println("Resetting: " + (System.currentTimeMillis() - resetStart));
 		}
 
 		if(OPERATION.equals("query")){
@@ -63,41 +63,46 @@ public class MiningFuncs {
 		else if(OPERATION.equals("index")){
 			myTree.iterateWithCallTo(new BackIndexer());
 			writeTree(myTree);
+			return;
 		}
-		else if(OPERATION.equals("run")){}
+		else if(OPERATION.equals("checkfiles")){
+			myTree.iterateWithCallTo(new FileChecker());
+			return;
+		}
+		else if(OPERATION.equals("mine")){}
 		else{
 			return;
 		}
 
-
-		MinerThread[] miners = new MinerThread[50];
-		for(int i = 0; i < miners.length; i++){
-			miners[i] = new MinerThread("miner" + i, myTree);
-		}
-
-		for(int i = 0; i < miners.length; i++){
-			miners[i].start();
-			try{
-				Thread.sleep(50);
-			} catch (InterruptedException e){
-				System.out.println("Sleep interrupted: " + e.getMessage());
-			}
-		}
-
-		boolean finished = false;
-		while(!finished){
-			try{
-				Thread.sleep(5000);
-			} catch (InterruptedException e){
-				System.out.println("Sleep interrupted: " + e.getMessage());
-			}
-			finished = true;
+		if(OPERATION.equals("mine")){
+			MinerThread[] miners = new MinerThread[20];
 			for(int i = 0; i < miners.length; i++){
-				if(!miners[i].finished){
-					System.out.println("Thread " + i + " (indexing " + miners[i].indexing + ") " +
-							" not complete. Last call was " + ((System.currentTimeMillis() - miners[i].lastCall) / 1000) +
-							" seconds ago.");
-					finished = false;
+				miners[i] = new MinerThread("miner" + i, myTree);
+			}
+
+			for(int i = 0; i < miners.length; i++){
+				miners[i].start();
+				try{
+					Thread.sleep(50);
+				} catch (InterruptedException e){
+					System.out.println("Sleep interrupted: " + e.getMessage());
+				}
+			}
+
+			boolean finished = false;
+			while(!finished){
+				try{
+					Thread.sleep(5000);
+				} catch (InterruptedException e){
+					System.out.println("Sleep interrupted: " + e.getMessage());
+				}
+				finished = true;
+				for(int i = 0; i < miners.length; i++){
+					if(!miners[i].finished){
+						System.out.println("Thread " + i + " (indexing " + miners[i].indexing + ") " +
+								" not complete.");
+						finished = false;
+					}
 				}
 			}
 		}
@@ -119,7 +124,7 @@ public class MiningFuncs {
 		if(!REPRESS_PRINT) System.out.println("Getting pages linked from page: " + sourcePage.name);
 		Gson gson = getGsonObject();
 
-		addArrayOfPages(sourcePage.links, 0, sourcePage.links.length, myTree, sourcePage);
+		addArrayOfPages(sourcePageNode.links, 0, sourcePageNode.links.length, myTree, sourcePage);
 
 		sourcePageNode.indexed = true;
 		writeTree(myTree);
@@ -156,7 +161,7 @@ public class MiningFuncs {
 		System.out.println("Called addPage");
 		if((current.page.indexOf("Help") == 0) || (current.page.indexOf("Wikipedia") == 0) ||
 				(current.page.indexOf("Talk") == 0) || (current.page.indexOf("Portal") == 0) ||
-				(current.page.indexOf("Template") == 0)){
+				(current.page.indexOf("Template") == 0) || (current.page.indexOf("Category") == 0)){
 			System.out.println("Did not create page " + current.page.replace(' ', '_'));
 			return;
 		}
@@ -183,11 +188,12 @@ public class MiningFuncs {
 					System.out.println("Could not create page " + current.page.replace(' ', '_'));
 					return;
 				}
-				WikiPageStore currentPageStore = new WikiPageStore(currentPage.parse.title, currentPage.parse.links, currentPage.parse.text.text);
+				WikiPageStore currentPageStore = new WikiPageStore(currentPage.parse.title, currentPage.parse.text.text);
+				currentPageStore.normalizedText = Jsoup.parse(currentPage.parse.text.text).text();
 
 				if(writeToFile("page_data/" + normalizeTitle(currentPage.parse.title) + ".json", gson.toJson(currentPageStore))){
 					long start = System.currentTimeMillis();
-					PageNode newPage = new PageNode(currentPageStore.name, "page_data/" + normalizeTitle(currentPage.parse.title) + ".json");
+					PageNode newPage = new PageNode(currentPageStore.name, "page_data/" + normalizeTitle(currentPage.parse.title) + ".json", currentPage.parse.links);
 					newPage.linkedFrom.addPage(new PageNode(sourcePage.name));
 					myTree.addPage(newPage);
 					if(!REPRESS_PRINT) System.out.println("Writing page " + currentPage.parse.title + " to tree: " + (System.currentTimeMillis() - start));
@@ -204,12 +210,11 @@ public class MiningFuncs {
 		}
 	}
 
-	public static void indicatePagesLinkedFrom(PageNode sP, PageTree myTree){
-		WikiPageStore sourcePage = new WikiPageStore(sP);
+	public static void indicatePagesLinkedFrom(PageNode sourcePage, PageTree myTree){
 		for(int i = 0; i < sourcePage.links.length; i++){
 			PageNode latestLink = myTree.getPage(new PageNode(sourcePage.links[i].page));
 			if(latestLink != null){
-				latestLink.linkedFrom.addPage(new PageNode(sourcePage.name, false));
+				latestLink.linkedFrom.addPage(new PageNode(sourcePage.name, false, null));
 				if(!REPRESS_PRINT) System.out.println("Indicated page " + sourcePage.links[i].page + " linked from " + sourcePage.name);
 			}
 		}
@@ -282,7 +287,10 @@ public class MiningFuncs {
 	}
 
 	public static Gson getGsonObject(){
-		return new GsonBuilder().setPrettyPrinting().disableHtmlEscaping().create();
+		if(globalGson == null){
+			return globalGson = new GsonBuilder().disableHtmlEscaping().create();
+		}
+		else return globalGson;
 	}
 
 	public static String normalizeTitle(String title){

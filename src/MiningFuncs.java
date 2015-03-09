@@ -20,8 +20,8 @@ import java.net.URLEncoder;
 public class MiningFuncs {
 	public static final int PROGRAM_TIME_SECONDS = 600;
 	public static final int PROGRAM_TIME_MS = PROGRAM_TIME_SECONDS * 1000;
-	public static final boolean REPRESS_PRINT = true;
-	public static final String OPERATION = "index";
+	public static final boolean REPRESS_PRINT = false;
+	public static final String OPERATION = "stats";
 
 	public static void main(String[] args) {
 		//writeToFile("test", readFromFile("PageDataTree.json"));
@@ -56,26 +56,27 @@ public class MiningFuncs {
 			myTree = gson.fromJson(readFromFile("PageDataTree.json"), PageTree.class);
 		}
 
-		if(OPERATION.equals("query")){
+		if(OPERATION.equalsIgnoreCase("query")){
 			System.out.println("Tree size: " + myTree.size());
 			System.out.println("Tree depth: " + myTree.depth());
-			return;
 		}
-		else if(OPERATION.equals("index")){
+		else if(OPERATION.equalsIgnoreCase("index")){
 			myTree.iterateWithCallTo(new BackIndexer());
 			writeTree(myTree);
-			return;
 		}
-		else if(OPERATION.equals("checkfiles")){
+		else if(OPERATION.equalsIgnoreCase("stats")){
+			StatFinder allStats = new StatFinder();
+			myTree.iterateWithCallTo(allStats);
+			writeTree(myTree);
+			writeToFile("statistics.csv", allStats.stats.toString());
+		}
+		else if(OPERATION.equalsIgnoreCase("analyze")){
+			
+		}
+		else if(OPERATION.equalsIgnoreCase("checkfiles")){
 			myTree.iterateWithCallTo(new FileChecker());
-			return;
 		}
-		else if(OPERATION.equals("mine")){}
-		else{
-			return;
-		}
-
-		if(OPERATION.equals("mine")){
+		else if(OPERATION.equalsIgnoreCase("mine")){
 			MinerThread[] miners = new MinerThread[15];
 			for(int i = 0; i < miners.length; i++){
 				miners[i] = new MinerThread("miner" + i, myTree);

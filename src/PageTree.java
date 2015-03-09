@@ -99,7 +99,6 @@ public class PageTree {
 		if(!iterateWithCallTo(op, from.left)) return false;
 		if(!iterateWithCallTo(op, from.right)) return false;
 		if(!op.call(from, this)) return false;
-		MiningFuncs.writeTree(this);
 		return true;
 	}
 

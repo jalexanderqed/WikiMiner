@@ -12,13 +12,15 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.io.UnsupportedEncodingException;
 import java.net.MalformedURLException;
 import java.net.URL;
+import java.net.URLEncoder;
 
 public class MiningFuncs {
-	public static final int PROGRAM_TIME_SECONDS = 10;
+	public static final int PROGRAM_TIME_SECONDS = 600;
 	public static final int PROGRAM_TIME_MS = PROGRAM_TIME_SECONDS * 1000;
-	public static final boolean REPRESS_PRINT = false;
+	public static final boolean REPRESS_PRINT = true;
 	public static final String OPERATION = "index";
 
 	public static void main(String[] args) {
@@ -74,7 +76,7 @@ public class MiningFuncs {
 		}
 
 		if(OPERATION.equals("mine")){
-			MinerThread[] miners = new MinerThread[20];
+			MinerThread[] miners = new MinerThread[15];
 			for(int i = 0; i < miners.length; i++){
 				miners[i] = new MinerThread("miner" + i, myTree);
 			}
@@ -289,6 +291,13 @@ public class MiningFuncs {
 	}
 
 	public static String normalizeTitle(String title){
-		return title.replaceAll("[^A-Za-z0-9 ]", "" + (int)title.charAt(0));
+		String result;
+		try {
+			result = URLEncoder.encode(title, "UTF-8");
+		}
+		catch (UnsupportedEncodingException ex){
+			throw new RuntimeException("UTF-8 not supported", ex);
+		}
+		return result;
 	}
 }

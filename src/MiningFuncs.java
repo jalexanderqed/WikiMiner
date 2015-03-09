@@ -18,9 +18,8 @@ import java.net.URL;
 public class MiningFuncs {
 	public static final int PROGRAM_TIME_SECONDS = 10;
 	public static final int PROGRAM_TIME_MS = PROGRAM_TIME_SECONDS * 1000;
-	public static final boolean REPRESS_PRINT = true;
-	public static final String OPERATION = "mine";
-	public static Gson globalGson = null;
+	public static final boolean REPRESS_PRINT = false;
+	public static final String OPERATION = "index";
 
 	public static void main(String[] args) {
 		//writeToFile("test", readFromFile("PageDataTree.json"));
@@ -92,7 +91,7 @@ public class MiningFuncs {
 			boolean finished = false;
 			while(!finished){
 				try{
-					Thread.sleep(5000);
+					Thread.sleep(15000);
 				} catch (InterruptedException e){
 					System.out.println("Sleep interrupted: " + e.getMessage());
 				}
@@ -118,7 +117,7 @@ public class MiningFuncs {
 	 * their JSON data to page_data with call to addArrayOfPages, which calls addPage
 	 */
 	public static void getPagesLinkedFrom(WikiPageStore sourcePage, PageTree myTree){
-		System.out.println("Called getPagesLinkedFrom");
+		if(!REPRESS_PRINT) System.out.println("Called getPagesLinkedFrom");
 		PageNode sourcePageNode = myTree.getPage(new PageNode(sourcePage.name));
 		sourcePageNode.beingIndexed = true;
 		if(!REPRESS_PRINT) System.out.println("Getting pages linked from page: " + sourcePage.name);
@@ -134,7 +133,7 @@ public class MiningFuncs {
 	 * using "sourcePage" as the page from which they are linked.
 	 */
 	public static void addArrayOfPages(linkObject[] toAdd, int from, int to, PageTree myTree, WikiPageStore sourcePage){
-		System.out.println("Called addArrayOfPages from " + from + " to " + to + " for array length " + toAdd.length);
+		if(!REPRESS_PRINT) System.out.println("Called addArrayOfPages from " + from + " to " + to + " for array length " + toAdd.length);
 		if(to - from < 0){
 			System.out.println("Error in addArrayOfPages. Attempted to add from " + from + " to " + to + " for array length " + toAdd.length);
 		}
@@ -158,11 +157,11 @@ public class MiningFuncs {
 	 * to page_data folder.
 	 */
 	public static void addPage(linkObject current, PageTree myTree, WikiPageStore sourcePage){
-		System.out.println("Called addPage");
+		if(!REPRESS_PRINT) System.out.println("Called addPage");
 		if((current.page.indexOf("Help") == 0) || (current.page.indexOf("Wikipedia") == 0) ||
 				(current.page.indexOf("Talk") == 0) || (current.page.indexOf("Portal") == 0) ||
 				(current.page.indexOf("Template") == 0) || (current.page.indexOf("Category") == 0)){
-			System.out.println("Did not create page " + current.page.replace(' ', '_'));
+			if(!REPRESS_PRINT) System.out.println("Did not create page " + current.page.replace(' ', '_'));
 			return;
 		}
 		Gson gson = getGsonObject();
@@ -189,7 +188,6 @@ public class MiningFuncs {
 					return;
 				}
 				WikiPageStore currentPageStore = new WikiPageStore(currentPage.parse.title, currentPage.parse.text.text);
-				currentPageStore.normalizedText = Jsoup.parse(currentPage.parse.text.text).text();
 
 				if(writeToFile("page_data/" + normalizeTitle(currentPage.parse.title) + ".json", gson.toJson(currentPageStore))){
 					long start = System.currentTimeMillis();
@@ -287,10 +285,7 @@ public class MiningFuncs {
 	}
 
 	public static Gson getGsonObject(){
-		if(globalGson == null){
-			return globalGson = new GsonBuilder().disableHtmlEscaping().create();
-		}
-		else return globalGson;
+		return new GsonBuilder().disableHtmlEscaping().create();
 	}
 
 	public static String normalizeTitle(String title){

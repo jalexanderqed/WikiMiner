@@ -13,7 +13,6 @@ import WikiPageClasses.linkObject;
 public class WikiPageStore {
 	public String name;
 	public String text;
-	public String normalizedText;
 	public int sentences;
 	public int words;
 	public double sentenceLength;
@@ -22,12 +21,6 @@ public class WikiPageStore {
 	public WikiPageStore(String pageName, String t){
 		name = pageName;
 		text = t;
-	}
-	
-	public WikiPageStore(String pageName, String t, String nt){
-		name = pageName;
-		text = t;
-		normalizedText = nt;
 	}
 
 	/* Can be used to quickly and easily generate a WikiPageStore object

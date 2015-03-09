@@ -1,3 +1,5 @@
+import org.jsoup.Jsoup;
+
 public class StatFinder extends NodeOperator {
 	int index = 0;
 	StringBuilder stats;
@@ -14,12 +16,13 @@ public class StatFinder extends NodeOperator {
 			System.out.println("StatFinder at index " + index);
 		}
 		WikiPageStore current = new WikiPageStore(node);
-		String[] sentences = current.normalizedText.split(".");
-		String[] words = current.normalizedText.split(" ");
+		String normalizedText = Jsoup.parse(current.text).text();
+		String[] sentences = normalizedText.split(".");
+		String[] words = normalizedText.split(" ");
 		current.sentences = sentences.length;
 		current.words = words.length;
-		current.sentenceLength = current.normalizedText.length() / current.sentences;
-		current.wordLength = current.normalizedText.length() / current.words;
+		current.sentenceLength = normalizedText.length() / current.sentences;
+		current.wordLength = normalizedText.length() / current.words;
 		stats.append(current.name + "," + current.words + "," + current.sentences + "," + current.wordLength
 				+ "," + current.sentenceLength + "," + node.linkedFrom + "," + node.links + "\n");
 		return true;
